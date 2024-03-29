@@ -140,7 +140,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?place_annotation_20240328161125957#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[3]/p[2]/placeName"
+			"rdf:value": "TEI/text/body/div[3]/p[2]/placeName[2]"
 		}
 	},
 	"oa:hasBody": {
@@ -218,7 +218,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?place_annotation_20240328161144644#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[3]/p[2]/placeName[2]"
+			"rdf:value": "TEI/text/body/div[3]/p[2]/placeName[3]"
 		}
 	},
 	"oa:hasBody": {
@@ -296,7 +296,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?place_annotation_20240328161154842#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[3]/p[2]/placeName[3]"
+			"rdf:value": "TEI/text/body/div[3]/p[2]/placeName[4]"
 		}
 	},
 	"oa:hasBody": {
@@ -12847,6 +12847,163 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?date_annotation_20240329141850071",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-03-29T14:18:50.071Z",
+	"dcterms:modified": "2024-03-29T14:18:50.071Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/likethetree",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Acacia McClay"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?date_annotation_20240329141850071#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?date_annotation_20240329141850071#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[36]/p/date"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "xsd:date",
+		"rdf:value": "1926-06-05"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?place_annotation_20240329142252963",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-03-29T14:22:52.963Z",
+	"dcterms:modified": "2024-03-29T14:22:52.963Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/likethetree",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Acacia McClay"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?place_annotation_20240329142252963#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?place_annotation_20240329142252963#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[3]/p[2]/placeName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:RealPlace",
+		"@id": "https://www.google.com/maps/place/107+Halley+Rd,+London+E7+8DX,+UK/@51.5447287,0.0373236,19.49z/data=!4m15!1m8!3m7!1s0x47d8a7a3b9417f29:0x9f64c757238c31d2!2sForest+Gate,+London,+UK!3b1!8m2!3d51.5439215!4d0.0264272!16zL20vMDNzbXA3!3m5!1s0x47d8a7b046034ec3:0xbbdf45f8194e9550!8m2!3d51.544946!4d0.0374327!16s%2Fg%2F11c22y4qwm?entry=ttu",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData></teiHeader>
         
     
@@ -12873,7 +13030,7 @@
             </div>
             <div type="entry" n="1">
                 <p><date when="1926-05-01">May 1, 1926</date></p>
-                <p>107 Halley Road, <placeName key="Forest Gate" ref="http://www.wikidata.org/entity/Q1656032">Forest Gate</placeName>, <placeName key="City of London" ref="http://www.wikidata.org/entity/Q23311">London</placeName>, <placeName key="England" ref="http://www.wikidata.org/entity/Q21">England</placeName></p>
+                <p><placeName key="107 Halley Road" ref="https://www.google.com/maps/place/107+Halley+Rd,+London+E7+8DX,+UK/@51.5447287,0.0373236,19.49z/data=!4m15!1m8!3m7!1s0x47d8a7a3b9417f29:0x9f64c757238c31d2!2sForest+Gate,+London,+UK!3b1!8m2!3d51.5439215!4d0.0264272!16zL20vMDNzbXA3!3m5!1s0x47d8a7b046034ec3:0xbbdf45f8194e9550!8m2!3d51.544946!4d0.0374327!16s%2Fg%2F11c22y4qwm?entry=ttu">107 Halley Road</placeName>, <placeName key="Forest Gate" ref="http://www.wikidata.org/entity/Q1656032">Forest Gate</placeName>, <placeName key="City of London" ref="http://www.wikidata.org/entity/Q23311">London</placeName>, <placeName key="England" ref="http://www.wikidata.org/entity/Q21">England</placeName></p>
                 <p>My name is Ivy Doris Weatherall. I am eleven years old. This is the first diary I have ever had. Auntie Lou gave it to me because she said that I was starting the greatest adventure of my life and I should record it. The greatest adventure is that we are emigrating to <placeName key="Canada" ref="http://www.wikidata.org/entity/Q16">Canada</placeName>. Auntie Lou also gave me a <rs key="fountain pen" ref="https://www.pendemonium.com/sites/default/files/styles/large/public/con68_7.jpg?itok=d-ByNhlC">fountain pen</rs>. I am going to use my best penmanship and I am going to write every day. She also gave me a book called <title key="Lost in the Backwoods" ref="https://books.google.ie/books/about/Lost_in_the_Backwoods_Esprios_Classics.html?id=UtxezgEACAAJ&amp;source=kp_book_description&amp;redir_esc=y" level="s">Lost in the Backwoods</title>, which is a Canadian story. Auntie Lou is the kindest relative. I wish she were coming to <placeName key="Canada" ref="http://www.wikidata.org/entity/Q16">Canada</placeName> too.</p>
                 <p>We leave tomorrow. All our things are packed into trunks and hampers. We are camping in our house. Tonight all the relatives are coming to say goodbye. I can’t wait until tomorrow. I wish I could snap my fingers and make it be now. I wish I were a conjurer. I would pull tomorrow out of a hat.</p>
                 <p>Mother just came and said I should go down to the pub and fetch Dad. He’s saying goodbye to his mates. I told her I was busy recording the greatest adventure of my life and why couldn’t William go. She said I was being cheeky and I had five minutes and then she wanted to see the back of me going out the door.</p>
@@ -13145,7 +13302,7 @@
                 <p>Dad and William have a new extra job. It is cleaning out the <rs key="grain elevators" ref="https://unsplash.com/photos/white-and-brown-concrete-building-F_1cg1Mwbtk">grain elevators</rs> in Milorie. They have to go in the bottom and scoop out the grain that is left over from last year so that the elevator is clean for this year’s grain after the harvest.</p>
             </div>
             <div type="entry" n="34">
-                <p>June 5</p>
+                <p><date when="1926-06-05">June 5</date></p>
                 <p>Stinky Men</p>
                 <p>When Dad and William came home from the elevators Mother wouldn’t let them in the house because they smelled so horrid. She made them wash in the barn. She said they smelled like the King’s Head pub at closing time. At tea they told us about it. The grain is dirty and wet from the spring floods. And the space to work in is very small. The bottom part is called the boot. The tall part is called the leg. William says the work is like scooping up sludge. But the pay is good. William was so tired he went to bed before dark.</p>
             </div>
