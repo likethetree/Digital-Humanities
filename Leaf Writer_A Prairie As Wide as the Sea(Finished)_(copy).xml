@@ -29928,6 +29928,85 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?title_annotation_20240329164823000",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-03-29T16:48:23.000Z",
+	"dcterms:modified": "2024-03-29T16:48:23.000Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/likethetree",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Acacia McClay"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?title_annotation_20240329164823000#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?title_annotation_20240329164823000#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[100]/p[3]/title"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "bf:Title",
+		"@id": "http://www.wikidata.org/entity/Q106189163",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData></teiHeader>
         
     
@@ -30710,7 +30789,7 @@
             <div type="entry" n="98">
                 <p><date when="1926-10-03">October 3</date></p>
                 <p>Harvest Done</p>
-                <p>The harvest is over and I think there is going to be trouble at Elizabeth’s house. Today just as we were getting ready to take out the doughnuts all the men arrived home. Nine o’clock in the morning and the harvest was done! Mrs. Muller took a kitchen chair out to the yard and put a basin of water on it, and a towel over the back and the men took off their shirts. When they take off their shirts it is like they still have pale shirts on, with brown necks and arms and the rest white. They started washing and spraying drops of water over the yard and running water through their hair. All those drops of water just lay in the dust, not sinking in. The men ate doughnuts and drank coffee and larked about, whooping, and carrying on like it was the last day of school. One of the harvesters juggled doughnuts and another one walked on his hands. Mr. Muller didn’t fool about though. He didn’t eat doughnuts either. He’s like that thin man in Mother Goose: “Jack Spratt would eat no fat.”</p>
+                <p>The harvest is over and I think there is going to be trouble at Elizabeth’s house. Today just as we were getting ready to take out the doughnuts all the men arrived home. Nine o’clock in the morning and the harvest was done! Mrs. Muller took a kitchen chair out to the yard and put a basin of water on it, and a towel over the back and the men took off their shirts. When they take off their shirts it is like they still have pale shirts on, with brown necks and arms and the rest white. They started washing and spraying drops of water over the yard and running water through their hair. All those drops of water just lay in the dust, not sinking in. The men ate doughnuts and drank coffee and larked about, whooping, and carrying on like it was the last day of school. One of the harvesters juggled doughnuts and another one walked on his hands. Mr. Muller didn’t fool about though. He didn’t eat doughnuts either. He’s like that thin man in <title key="Mother Goose" ref="http://www.wikidata.org/entity/Q106189163">Mother Goose</title>: “Jack Spratt would eat no fat.”</p>
                 <p>But then Gerhard threw his hat way up into the tree. All the men laughed and one said, “How are you going to get your hat down?” There was a long silence and then Gerhard said, “I don’t need to get it down. I don’t need that hat. That’s it. I got in this harvest and now I’m never going to farm one more minute in my entire life.” The words just sat there like drops of water in the dust. Gerhard didn’t sound angry, just very clear. I saw Hans and Elizabeth all sneak looks at their father. I did too. He looked like his face was made of rock. And he just turned and went into the house. Gerhard went back to his doughnut. I wonder what will happen. Elizabeth will tell me.</p>
             </div>
             <div type="entry" n="99">
