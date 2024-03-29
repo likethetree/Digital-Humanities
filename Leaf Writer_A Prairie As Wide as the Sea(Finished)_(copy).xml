@@ -23004,6 +23004,242 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?date_annotation_20240329155744637",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-03-29T15:57:44.637Z",
+	"dcterms:modified": "2024-03-29T15:57:44.637Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/likethetree",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Acacia McClay"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?date_annotation_20240329155744637#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?date_annotation_20240329155744637#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[74]/p/date"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "xsd:date",
+		"rdf:value": "1926-08-17"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?title_annotation_20240329155816687",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-03-29T15:58:16.687Z",
+	"dcterms:modified": "2024-03-29T15:58:16.687Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/likethetree",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Acacia McClay"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?title_annotation_20240329155816687#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?title_annotation_20240329155816687#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[74]/p[4]/title"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "bf:Title",
+		"@id": "https://books.google.ie/books/about/Lost_in_the_Backwoods_Esprios_Classics.html?id=UtxezgEACAAJ&amp;source=kp_book_description&amp;redir_esc=y",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?title_annotation_20240329155837911",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-03-29T15:58:37.911Z",
+	"dcterms:modified": "2024-03-29T15:58:37.911Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/likethetree",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Acacia McClay"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?title_annotation_20240329155837911#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?title_annotation_20240329155837911#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[72]/p[3]/title"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "bf:Title",
+		"@id": "https://books.google.ie/books/about/Lost_in_the_Backwoods_Esprios_Classics.html?id=UtxezgEACAAJ&amp;source=kp_book_description&amp;redir_esc=y",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData></teiHeader>
         
     
@@ -23584,7 +23820,7 @@
             <div type="entry" n="70">
                 <p><date when="1926-08-11">August 11</date></p>
                 <p>I ache all over. Gladys and I both have blue bruises on our legs and arms. The hail is all melted and outside it just looks like ordinary summer again. But part of me thinks it is a trick. Mother says I am excused from chickens today. Gladys and I are going to help make a cake for the Chicken Lady to thank her.</p>
-                <p>This is the most Lost in the Backwoods thing that has ever happened to me.</p>
+                <p>This is the most <title key="Lost in the Backwoods" ref="https://books.google.ie/books/about/Lost_in_the_Backwoods_Esprios_Classics.html?id=UtxezgEACAAJ&amp;source=kp_book_description&amp;redir_esc=y">Lost in the Backwoods</title> thing that has ever happened to me.</p>
                 <p>Mother wasn’t angry about the quilt. She said that she will teach me how to take out the inky piece and put a new piece in.</p>
             </div>
             <div type="entry" n="71">
@@ -23593,10 +23829,10 @@
                 <p>I’m not allowed to get my hair bobbed. Mother says I’m too young and she doesn’t want me to look like a <rs key="Flapper" ref="http://www.wikidata.org/entity/Q1483126">flapper</rs>. I’ll probably be the only eleven-year-old girl in school who still wears hair ribbons. I said that all the girls I have seen in Milorie, except for little ones, have bobs. She said if all the girls jumped down the well, would I? She wants me to be miserable.</p>
             </div>
             <div type="entry" n="72">
-                <p>August 17</p>
+                <p><date when="1926-08-17">August 17</date></p>
                 <p>Wrongly Blamed</p>
                 <p>I’m in trouble again. If I had one of those printing sets I would just make up those words and print them in this diary every time I got into trouble, which is always.</p>
-                <p>It started because William dropped a tin of lard onto his foot. And his big toe was all swollen and red and horrible looking. And I remembered something from Lost in the Backwoods. There’s this bit where Catharine sprains her ankle and Louis and Hector take some strawberries and crush them and apply them to her ankle as a “cooling poultice.” Nobody was home and William was limping around and then I remembered the big tin of strawberry jam that Dad had earned on the railway. And I figured that strawberry jam must be just about the same as crushed up strawberries. So I took some and made William sit in the front yard with one foot up on a chair. I covered his toe with jam. In the book they put on the poultice with oak leaves and bind it with strips of bark. I used caragana leaves and string. Then, “rendering the application even more generous,” just like Louis and Hector, I got William a drink of water and went inside to put away the jam.</p>
+                <p>It started because William dropped a tin of lard onto his foot. And his big toe was all swollen and red and horrible looking. And I remembered something from <title key="Lost in the Backwood" ref="https://books.google.ie/books/about/Lost_in_the_Backwoods_Esprios_Classics.html?id=UtxezgEACAAJ&amp;source=kp_book_description&amp;redir_esc=y">Lost in the Backwood</title>s. There’s this bit where Catharine sprains her ankle and Louis and Hector take some strawberries and crush them and apply them to her ankle as a “cooling poultice.” Nobody was home and William was limping around and then I remembered the big tin of strawberry jam that Dad had earned on the railway. And I figured that strawberry jam must be just about the same as crushed up strawberries. So I took some and made William sit in the front yard with one foot up on a chair. I covered his toe with jam. In the book they put on the poultice with oak leaves and bind it with strips of bark. I used caragana leaves and string. Then, “rendering the application even more generous,” just like Louis and Hector, I got William a drink of water and went inside to put away the jam.</p>
                 <p>Next thing I know I hear a yell and I look out the window and there is William dancing all over the yard and beating at the air and then Mother comes home. Turns out that the jam attracted wasps and they were stinging William and now he has wasp stings as well as a swollen toe. Mother got very angry at me and she thought the swollen toe was from the wasps as well. I said, “That’s not wasps, that’s a tin of lard.” But nobody was listening to me.</p>
                 <p>These are my crimes:</p>
                 <p>
