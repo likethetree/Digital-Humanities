@@ -33466,6 +33466,321 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240329170444826",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-03-29T17:04:44.826Z",
+	"dcterms:modified": "2024-03-29T17:04:44.826Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/likethetree",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Acacia McClay"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240329170444826#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240329170444826#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[121]/p[4]/rs[2]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "owl:Thing",
+		"@id": "http://www.wikidata.org/entity/Q251868",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?date_annotation_20240329170501706",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-03-29T17:05:01.706Z",
+	"dcterms:modified": "2024-03-29T17:05:01.706Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/likethetree",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Acacia McClay"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?date_annotation_20240329170501706#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?date_annotation_20240329170501706#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[122]/p/date"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "xsd:date",
+		"rdf:value": "1926-10-26"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240329170514081",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-03-29T17:05:14.081Z",
+	"dcterms:modified": "2024-03-29T17:05:14.081Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/likethetree",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Acacia McClay"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240329170514081#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240329170514081#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[122]/p[3]/rs"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "owl:Thing",
+		"@id": "http://www.wikidata.org/entity/Q251868",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240329170529475",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-03-29T17:05:29.475Z",
+	"dcterms:modified": "2024-03-29T17:05:29.475Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/likethetree",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Acacia McClay"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240329170529475#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240329170529475#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[122]/p[4]/rs"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "owl:Thing",
+		"@id": "http://www.wikidata.org/entity/Q251868",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData></teiHeader>
         
     
@@ -34378,13 +34693,13 @@
                 <p><date when="1926-10-25">October 25</date></p>
                 <p>Coming Event</p>
                 <p><rs key="Halloween" ref="http://www.wikidata.org/entity/Q251868">Hallowe’en</rs>! Today Miss Hutchinson said that our seatwork was cutting ghosts out of white paper for <rs key="Halloween" ref="http://www.wikidata.org/entity/Q251868">Hallowe’en</rs>. But I didn’t know what <rs key="Halloween" ref="http://www.wikidata.org/entity/Q251868">Hallowe’en</rs> (I like the way that word looks, with the little apostrophe between the e’s) was, so Miss H. said who will tell Ivy about <rs key="Halloween" ref="http://www.wikidata.org/entity/Q251868">Hallowe’en</rs>. And everyone started in, like the <placeName key="Tower of Babel" ref="http://www.wikidata.org/entity/Q41213">Tower of Babel</placeName>. They told me about dressing up and jack-o’-lanterns, stealing pumpkins, bobbing for apples, hiding in the chicken coop, saying “apples or tricks.” It is the best Canadian thing. (No, I take it back. Not as good as Dot and doughnuts but almost as good.) Abel was just starting to tell me about what tricks to play on people when Miss H. made us all be quiet.</p>
-                <p>None of those <placeName key="Canada" ref="http://www.wikidata.org/entity/Q16">Canada</placeName> books we got in <placeName key="London" ref="http://www.wikidata.org/entity/Q84">London</placeName> said one thing about <rs key="Halloween" ref="http://www.wikidata.org/entity/Q251868">Hallowe’en</rs>. If they want new settlers to come to <placeName key="Canada" ref="http://www.wikidata.org/entity/Q16">Canada</placeName> they should mention Hallowe’en. Then all the children would make their parents come. Kids should write those books. Grown-ups don’t know what’s important.</p>
+                <p>None of those <placeName key="Canada" ref="http://www.wikidata.org/entity/Q16">Canada</placeName> books we got in <placeName key="London" ref="http://www.wikidata.org/entity/Q84">London</placeName> said one thing about <rs key="Halloween" ref="http://www.wikidata.org/entity/Q251868">Hallowe’en</rs>. If they want new settlers to come to <placeName key="Canada" ref="http://www.wikidata.org/entity/Q16">Canada</placeName> they should mention <rs key="Halloween" ref="http://www.wikidata.org/entity/Q251868">Hallowe’en</rs>. Then all the children would make their parents come. Kids should write those books. Grown-ups don’t know what’s important.</p>
             </div>
             <div type="entry" n="120">
-                <p>October 26</p>
+                <p><date when="1926-10-26">October 26</date></p>
                 <p>The Monster</p>
-                <p>Elizabeth told me about a really scary thing that happened to her last Hallowe’en. Scary, then funny.</p>
-                <p>There was going to be a party at the school on the night before Hallowe’en. She and Hans were walking to it. They were getting themselves scared for the fun of it, talking about ghouls and walking spirits and all that. And they passed by our house (I mean our old house – the Fretwell house), but nobody lived there then. Elizabeth thought she heard singing coming from the dark house so they went over to investigate. And they just got up to the door and it swung open and there was a monster standing there. It had a tiger’s head, a monkey’s tail and three horns. So they took off like crazy down the road, running as fast as they could. And they could hear the monster running behind them. Then Elizabeth tripped and fell. She said that all she could think of was that the monster was going to gore her to death with his horns. But then she heard this noise and the monster was standing over her laughing. And she looked up and there was Florence Gilmour’s older brother Tom holding a mask. Turns out he was on his way to the party and he stopped at the empty house to put on his costume because he didn’t want anyone to see it in advance. He was humming some old song to himself – that was the sound they heard. He said that he was calling “Stop, Elizabeth,” and “Hans, it’s only me.” But Elizabeth could only hear her own breathing and her heart thumping. They all had a good laugh.</p>
+                <p>Elizabeth told me about a really scary thing that happened to her last <rs key="Halloween" ref="http://www.wikidata.org/entity/Q251868">Hallowe’en</rs>. Scary, then funny.</p>
+                <p>There was going to be a party at the school on the night before <rs key="Halloween" ref="http://www.wikidata.org/entity/Q251868">Hallowe’en</rs>. She and Hans were walking to it. They were getting themselves scared for the fun of it, talking about ghouls and walking spirits and all that. And they passed by our house (I mean our old house – the Fretwell house), but nobody lived there then. Elizabeth thought she heard singing coming from the dark house so they went over to investigate. And they just got up to the door and it swung open and there was a monster standing there. It had a tiger’s head, a monkey’s tail and three horns. So they took off like crazy down the road, running as fast as they could. And they could hear the monster running behind them. Then Elizabeth tripped and fell. She said that all she could think of was that the monster was going to gore her to death with his horns. But then she heard this noise and the monster was standing over her laughing. And she looked up and there was Florence Gilmour’s older brother Tom holding a mask. Turns out he was on his way to the party and he stopped at the empty house to put on his costume because he didn’t want anyone to see it in advance. He was humming some old song to himself – that was the sound they heard. He said that he was calling “Stop, Elizabeth,” and “Hans, it’s only me.” But Elizabeth could only hear her own breathing and her heart thumping. They all had a good laugh.</p>
             </div>
             <div type="entry" n="121">
                 <p>October 28</p>
