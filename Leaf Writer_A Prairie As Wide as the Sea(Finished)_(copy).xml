@@ -37088,6 +37088,163 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?place_annotation_20240329195935143",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-03-29T19:59:35.143Z",
+	"dcterms:modified": "2024-03-29T19:59:35.143Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/likethetree",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Acacia McClay"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?place_annotation_20240329195935143#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?place_annotation_20240329195935143#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[133]/p[4]/placeName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:RealPlace",
+		"@id": "http://www.wikidata.org/entity/Q14874984",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?date_annotation_20240329200001871",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-03-29T20:00:01.871Z",
+	"dcterms:modified": "2024-03-29T20:00:01.871Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/likethetree",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Acacia McClay"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?date_annotation_20240329200001871#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?date_annotation_20240329200001871#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[134]/p/date"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "xsd:date",
+		"rdf:value": "1926-11-17"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData></teiHeader>
         
     
@@ -38074,12 +38231,12 @@
                 <p><date when="1926-11-16">November 16</date></p>
                 <p>Jazz Man</p>
                 <p>The Mullers finally had a letter from Gerhard. He has joined a jazz band and he’s travelling all over. He’s playing the trumpet. Gerhard never even had a trumpet. Elizabeth says he used to go over to the Elliots’ place and play Mel Elliot’s dad’s bugle that he brought home from the war. (Mel Elliot’s dad brought it back, not Gerhard. Miss Hutchinson says that this is an ambiguous pronoun reference and she has many amusing examples of it, but I don’t think it matters because obviously Gerhard didn’t bring home a bugle from the war, he was only a baby.)</p>
-                <p>Anyway, he must have got good enough at the trumpet to be in a band. In his letter he said that he played in a new dance hall in Manitou Beach that has a dance floor that has horsehair under it. The horsehair makes it very bouncy for dancers.</p>
+                <p>Anyway, he must have got good enough at the trumpet to be in a band. In his letter he said that he played in a new dance hall in <placeName key="Manitou Beach" ref="http://www.wikidata.org/entity/Q14874984">Manitou Beach</placeName> that has a dance floor that has horsehair under it. The horsehair makes it very bouncy for dancers.</p>
                 <p>I don’t understand. Back home Grandma had a horsehair sofa and it wasn’t bouncy at all. It was as hard as a rock. You got numb sitting on it. And when I touched Dot’s mane and tail it wasn’t bouncy. To be really bouncy wouldn’t the dance floor have to be on rubber? That would be a good question for Mr. Ambrose.</p>
                 <p>Mr. Muller is still so angry at Gerhard that he wouldn’t even read the letter.</p>
             </div>
             <div type="entry" n="132">
-                <p>November 17</p>
+                <p><date when="1926-11-17">November 17</date></p>
                 <p>Magic Words</p>
                 <p>Snow. Not a blizzard, but big white flakes. It started this morning just after we went in to school. Everybody was looking out the windows and not paying attention. Finally Miss Hutchinson said we could have early recess. Everybody practically fell over each other getting on their mitts and scarves. Harry was disappointed because it still isn’t the kind of snow you can pack into snowballs or igloos. But he cheered up when everyone started playing fox and geese. For this game you tramp out the pattern of a wagon wheel in the snow. It is sort of like tag. The fox is It and everyone else is a goose. But you have to stay on the lines of the wheel and the spokes. If you have to pass someone mostly you fall over in the snow and then you’re out. Miss Hutchinson played with us and she let us have double recess. I had to pass Nyla and she fell over and then she got very huffy and dropped out of the game. She gave me a nasty look, which is ridiculous.</p>
                 <p>When we came back in everyone was soaking so Miss Hutchinson let us sit around the stove and she read to us instead of doing our lessons. She made us promise to work extra hard tomorrow. The story she read was Ali Baba and the Forty Thieves.</p>
