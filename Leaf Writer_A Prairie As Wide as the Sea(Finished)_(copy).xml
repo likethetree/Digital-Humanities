@@ -24815,6 +24815,400 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?person_annotation_20240329161410380",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-03-29T16:14:10.380Z",
+	"dcterms:modified": "2024-03-29T16:14:10.380Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/likethetree",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Acacia McClay"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?person_annotation_20240329161410380#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?person_annotation_20240329161410380#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[78]/p[4]/persName[2]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://www.wikidata.org/entity/Q319682",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?place_annotation_20240329161427031",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-03-29T16:14:27.031Z",
+	"dcterms:modified": "2024-03-29T16:14:27.031Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/likethetree",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Acacia McClay"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?place_annotation_20240329161427031#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?place_annotation_20240329161427031#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[78]/p[4]/placeName[4]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:RealPlace",
+		"@id": "http://www.wikidata.org/entity/Q2123",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?date_annotation_20240329161455418",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-03-29T16:14:55.418Z",
+	"dcterms:modified": "2024-03-29T16:14:55.418Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/likethetree",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Acacia McClay"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?date_annotation_20240329161455418#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?date_annotation_20240329161455418#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[79]/p/date"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "xsd:date",
+		"rdf:value": "1926-08-30"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240329161715125",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-03-29T16:17:15.125Z",
+	"dcterms:modified": "2024-03-29T16:17:15.125Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/likethetree",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Acacia McClay"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240329161715125#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240329161715125#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[79]/p[4]/rs"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "owl:Thing",
+		"@id": "http://www.wikidata.org/entity/Q34623",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?person_annotation_20240329161732124",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-03-29T16:17:32.124Z",
+	"dcterms:modified": "2024-03-29T16:17:32.124Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/likethetree",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Acacia McClay"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?person_annotation_20240329161732124#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?person_annotation_20240329161732124#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[79]/p[4]/persName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://www.wikidata.org/entity/Q37103",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData></teiHeader>
         
     
@@ -25444,14 +25838,14 @@
                 <p><date when="1926-08-29">August 29</date></p>
                 <p>Glamour</p>
                 <p>Today was a swell day. Miss Lorayne LaMott was in church with Doctor Johnstone and Mrs. Johnstone. After church when all the ladies were chatting Miss LaMott started to talk to Elizabeth and me and then she invited us over for tea. I could tell that Mother was about to say no. (Do parents like saying no?) If she had I would have given way to transports of grief and despair. But when Mrs. Johnstone said please, Mother said yes.</p>
-                <p>It was lovely. Lorayne (she said we should call her Lorayne) told us that after Cosmetology School she is going to work until she saves enough money to go to <placeName key="Hollywood" ref="http://www.wikidata.org/entity/Q34006">Hollywood</placeName>, <placeName key="California" ref="http://www.wikidata.org/entity/Q99">California</placeName>. She wants to be a motion picture actress. After tea she got out her Photoplay magazine. Lorayne knows everything about motion pictures. When she found out I was from <placeName key="London" ref="http://www.wikidata.org/entity/Q84">London</placeName> she wanted to know what pictures I had seen. I was glad that Auntie Lou had taken us to the pictures. Lorayne knew all about which actors and actresses were in them. I told her about going to the <rs key="pantomime" ref="http://www.wikidata.org/entity/Q13409536">pantomime</rs> and she said that many famous movie stars got their start on the stage or in <rs key="vaudeville" ref="http://www.wikidata.org/entity/Q186286">vaudeville</rs>. She showed us a picture in <title key="Photoplay" ref="http://www.wikidata.org/entity/Q3381612">Photoplay</title> of her favourite actress, <persName key="Renée Adorée" ref="http://www.wikidata.org/entity/Q284722">Renee Adoree</persName>, who got started in the circus. Renee is very pretty. She looks a bit like Lorayne. She was in pictures like Cape Cod Folks and <title key="The Big Parade" ref="http://www.wikidata.org/entity/Q1218520">The Big Parade</title>. Lorayne told us that Renee is under contract with Louis B. Mayer. Under contract is a good thing to be. Lorayne said that movie stars often come from places like Regina or even Milorie and then they get discovered. Then she offered to show us how to put on make-up but Mrs. Johnstone said no, that our mothers would not approve. Then Lorayne said that it didn’t matter because we didn’t need it because Elizabeth had such smooth skin and I had good bones. “Good bones last,” she said. I’m not sure what good bones are but I’m glad I have them. Lorayne said we should come and visit anytime.</p>
+                <p>It was lovely. Lorayne (she said we should call her Lorayne) told us that after Cosmetology School she is going to work until she saves enough money to go to <placeName key="Hollywood" ref="http://www.wikidata.org/entity/Q34006">Hollywood</placeName>, <placeName key="California" ref="http://www.wikidata.org/entity/Q99">California</placeName>. She wants to be a motion picture actress. After tea she got out her Photoplay magazine. Lorayne knows everything about motion pictures. When she found out I was from <placeName key="London" ref="http://www.wikidata.org/entity/Q84">London</placeName> she wanted to know what pictures I had seen. I was glad that Auntie Lou had taken us to the pictures. Lorayne knew all about which actors and actresses were in them. I told her about going to the <rs key="pantomime" ref="http://www.wikidata.org/entity/Q13409536">pantomime</rs> and she said that many famous movie stars got their start on the stage or in <rs key="vaudeville" ref="http://www.wikidata.org/entity/Q186286">vaudeville</rs>. She showed us a picture in <title key="Photoplay" ref="http://www.wikidata.org/entity/Q3381612">Photoplay</title> of her favourite actress, <persName key="Renée Adorée" ref="http://www.wikidata.org/entity/Q284722">Renee Adoree</persName>, who got started in the circus. Renee is very pretty. She looks a bit like Lorayne. She was in pictures like Cape Cod Folks and <title key="The Big Parade" ref="http://www.wikidata.org/entity/Q1218520">The Big Parade</title>. Lorayne told us that Renee is under contract with <persName key="Louis B. Mayer" ref="http://www.wikidata.org/entity/Q319682">Louis B. Mayer</persName>. Under contract is a good thing to be. Lorayne said that movie stars often come from places like <placeName key="Regina" ref="http://www.wikidata.org/entity/Q2123">Regina</placeName> or even Milorie and then they get discovered. Then she offered to show us how to put on make-up but Mrs. Johnstone said no, that our mothers would not approve. Then Lorayne said that it didn’t matter because we didn’t need it because Elizabeth had such smooth skin and I had good bones. “Good bones last,” she said. I’m not sure what good bones are but I’m glad I have them. Lorayne said we should come and visit anytime.</p>
                 <p>On the walk home I decided that Lorayne is like a leghorn and the rest of us are like plain chickens. I know that I have said that Lorayne is like a horse and a chicken but sometimes animals just are prettier than people.</p>
             </div>
             <div type="entry" n="77">
-                <p>August 30</p>
+                <p><date when="1926-08-30">August 30</date></p>
                 <p>The Mystery of Goodness</p>
                 <p>This morning I asked Mother if she didn’t think Lorayne was pretty. She made a harrumphing noise and said that she looked like she was no better than she ought to be.</p>
-                <p>What does that mean? No better than you ought to be isn’t bad, is it? Mostly we’re all not quite as good as we ought to be. How good ought we to be? We ought to be as good as the Ten Commandments, not coveting or killing or that. But who would be better than that? Only saints I guess, like Florence Nightingale. But then all that means is that Lorayne is not a saint. There was no point in asking Mother. She would just say I was answering back. In this family the eleventh commandment is “Thou shalt not answer back.” Besides, whilst thinking about this I let the porridge boil over and Mother said I was sent to try her.</p>
+                <p>What does that mean? No better than you ought to be isn’t bad, is it? Mostly we’re all not quite as good as we ought to be. How good ought we to be? We ought to be as good as the <rs key="Ten Commandments" ref="http://www.wikidata.org/entity/Q34623">Ten Commandments</rs>, not coveting or killing or that. But who would be better than that? Only saints I guess, like <persName key="Florence Nightingale" ref="http://www.wikidata.org/entity/Q37103">Florence Nightingale</persName>. But then all that means is that Lorayne is not a saint. There was no point in asking Mother. She would just say I was answering back. In this family the eleventh commandment is “Thou shalt not answer back.” Besides, whilst thinking about this I let the porridge boil over and Mother said I was sent to try her.</p>
                 <p>I don’t care. I have good bones.</p>
                 <p>The rest of today was wash day. There is nothing interesting to say about wash day. I’ll be happy when school starts.</p>
             </div>
