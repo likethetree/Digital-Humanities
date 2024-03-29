@@ -25365,6 +25365,243 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240329162040907",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-03-29T16:20:40.907Z",
+	"dcterms:modified": "2024-03-29T16:20:40.907Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/likethetree",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Acacia McClay"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240329162040907#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240329162040907#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[81]/p[3]/rs"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "owl:Thing",
+		"@id": "https://images.squarespace-cdn.com/content/v1/53ac1211e4b0a7d6603b36c3/1415744062039-39QN6VRFDJT9KIA4RM8E/image-asset.jpeg?format=1500w",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240329162101193",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-03-29T16:21:01.193Z",
+	"dcterms:modified": "2024-03-29T16:21:01.193Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/likethetree",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Acacia McClay"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240329162101193#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240329162101193#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[81]/p[4]/rs"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "owl:Thing",
+		"@id": "http://www.wikidata.org/entity/Q109287424",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?place_annotation_20240329162450602",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-03-29T16:24:50.602Z",
+	"dcterms:modified": "2024-03-29T16:24:50.602Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/likethetree",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Acacia McClay"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?place_annotation_20240329162450602#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?place_annotation_20240329162450602#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[81]/p[4]/placeName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:RealPlace",
+		"@id": "http://www.wikidata.org/entity/Q2123",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData></teiHeader>
         
     
@@ -26015,8 +26252,8 @@
             <div type="entry" n="79">
                 <p><date when="1926-09-03">September 3</date></p>
                 <p>Lorayne Leaves</p>
-                <p>BIG SECRET: Today the Homemaker’s Club met at our house. Mother spent the morning getting ready and making cakes and a loaf and then after lunch she told us that she didn’t want to see hide nor hair of us. William had a day off from the store so he took the twins off to the swimming hole. They’ve got a rowboat down there now and William is taking some tools and wood down to help fix it. Maybe the boys will be nicer to him when they find out how good he is at carpentry. Maybe that would be as good in stupid boy-thinking as killing gophers.</p>
-                <p>But I didn’t feel like going. So I sneaked back into my room by climbing up onto the roof of the summer kitchen. I thought as long as I was hiding my hide and hair it would be all right. Then I listened down the hole. Here’s what I found out. Lorayne has disappeared. And so has Howard Ellingson. Everybody thinks they have gone off together to Regina. But Howard Ellingson has been engaged to Lois Fizzell for two years. They were only waiting until Howard got his own quarter section and then they were going to be married. Mr. and Mrs. Fizzell are furious. Mr. and Mrs. Ellingson are mortified. Mrs. Johnstone is so embarrassed that she didn’t even come to the Homemaker’s Club. (Although somebody said, “It is not poor Edna Johnstone’s fault. How was she to know?”) Lois Fizzell is so upset that she has gone to stay with her married sister in Swift Current. Then all the voices said that they weren’t surprised, that Lorayne was fast and a flirt and a flapper and no better than she looked. They said that that’s what comes of going off to Regina to study cosmetology, that that’s what comes of going to too many moving pictures, and that Lois Fizzell was better off without Howard Ellingson because a man who could throw his whole life away on a well-turned ankle was not worth having anyway.</p>
+                <p>BIG SECRET: Today the Homemaker’s Club met at our house. Mother spent the morning getting ready and making cakes and a loaf and then after lunch she told us that she didn’t want to see hide nor hair of us. William had a day off from the store so he took the twins off to the swimming hole. They’ve got a rowboat down there now and William is taking some tools and wood down to help fix it. Maybe the boys will be nicer to him when they find out how good he is at carpentry. Maybe that would be as good in stupid boy-thinking as killing <rs key="gophers" ref="https://images.squarespace-cdn.com/content/v1/53ac1211e4b0a7d6603b36c3/1415744062039-39QN6VRFDJT9KIA4RM8E/image-asset.jpeg?format=1500w">gophers</rs>.</p>
+                <p>But I didn’t feel like going. So I sneaked back into my room by climbing up onto the roof of the <rs key="summer kitchen" ref="http://www.wikidata.org/entity/Q109287424">summer kitchen</rs>. I thought as long as I was hiding my hide and hair it would be all right. Then I listened down the hole. Here’s what I found out. Lorayne has disappeared. And so has Howard Ellingson. Everybody thinks they have gone off together to <placeName key="Regina" ref="http://www.wikidata.org/entity/Q2123">Regina</placeName>. But Howard Ellingson has been engaged to Lois Fizzell for two years. They were only waiting until Howard got his own quarter section and then they were going to be married. Mr. and Mrs. Fizzell are furious. Mr. and Mrs. Ellingson are mortified. Mrs. Johnstone is so embarrassed that she didn’t even come to the Homemaker’s Club. (Although somebody said, “It is not poor Edna Johnstone’s fault. How was she to know?”) Lois Fizzell is so upset that she has gone to stay with her married sister in Swift Current. Then all the voices said that they weren’t surprised, that Lorayne was fast and a flirt and a flapper and no better than she looked. They said that that’s what comes of going off to Regina to study cosmetology, that that’s what comes of going to too many moving pictures, and that Lois Fizzell was better off without Howard Ellingson because a man who could throw his whole life away on a well-turned ankle was not worth having anyway.</p>
                 <p>I don’t know. I guess it’s wrong to steal somebody’s fiancée. But it’s not like he was kidnapped like Catharine. He must have wanted to go. So why is Lorayne the bad one? Anyway, I want to write this down. I like Miss Lorayne LaMott. I wish she had stayed longer. She is pretty and kind and interesting and she made me feel like somebody. I hope she gets to Hollywood and gets to be in pictures.</p>
             </div>
             <div type="entry" n="80">
