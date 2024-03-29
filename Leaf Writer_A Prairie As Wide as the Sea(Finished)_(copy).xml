@@ -16865,6 +16865,163 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?place_annotation_20240329145028716",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-03-29T14:50:28.716Z",
+	"dcterms:modified": "2024-03-29T14:50:28.716Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/likethetree",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Acacia McClay"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?place_annotation_20240329145028716#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?place_annotation_20240329145028716#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[46]/p[8]/placeName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:RealPlace",
+		"@id": "http://www.wikidata.org/entity/Q16",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?date_annotation_20240329145051963",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-03-29T14:50:51.963Z",
+	"dcterms:modified": "2024-03-29T14:50:51.963Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/likethetree",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Acacia McClay"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?date_annotation_20240329145051963#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?date_annotation_20240329145051963#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[47]/p/date"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "xsd:date",
+		"rdf:value": "1926-06-23"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData></teiHeader>
         
     
@@ -17265,10 +17422,10 @@
                 <p>Mother went to visit Auntie Millie and when she got there Auntie Millie was just lying on the bed and staring and Baby Jack was crying and his nappy hadn’t been changed in ever so long. Mother says that Auntie Millie is sick but I know it isn’t like the flu or something. Mother says Auntie Millie should never have left England, that she isn’t the pioneer sort. But then Dad said that living with someone like Uncle Alf would drive anyone round the twist, what with the lies and the debts. Then Mother got quiet. After all, Uncle Alf is her brother. I wouldn’t like anyone to say bad things about William.</p>
                 <p>I wonder if Auntie Millie would like to read <title key="Lost in the Backwoods" ref="https://books.google.ie/books/about/Lost_in_the_Backwoods_Esprios_Classics.html?id=UtxezgEACAAJ&amp;source=kp_book_description&amp;redir_esc=y">Lost in the Backwoods</title>. It says, “To be up and doing is the maxim of a Canadian; and it is this that nerves his arm to do and bear.” Isn’t that good? It makes me feel all holy, like hymns or “<title key="God Save the King" ref="http://www.wikidata.org/entity/Q40807">God Save the King</title>.”</p>
                 <p>In <title key="Lost in the Backwoods" ref="https://books.google.ie/books/about/Lost_in_the_Backwoods_Esprios_Classics.html?id=UtxezgEACAAJ&amp;source=kp_book_description&amp;redir_esc=y">Lost in the Backwoods</title> Catharine and the boys have built themselves sleds and are whizzing down hills. I CAN’T WAIT for winter and snow. There’s a good hill out by the coulee.</p>
-                <p>Mother and Dad had words before tea. Mother said, “Now that we have Jack to take care of we absolutely need to buy a copper to boil the nappies.” (We didn’t bring our copper from home because it was too big and heavy.) Then Dad said that we couldn’t afford to buy a copper because we needed to save for shoes and that. (Then I remembered the secret under my mattress. But I cast the thought from my mind.) Then Mother got cross. But it all turned out to be for nothing because Elizabeth’s mother came over and told Mother that they don’t boil nappies in Canada. They just peg them out and the prairie sun bleaches them. Too sleepy to write more.</p>
+                <p>Mother and Dad had words before tea. Mother said, “Now that we have Jack to take care of we absolutely need to buy a copper to boil the nappies.” (We didn’t bring our copper from home because it was too big and heavy.) Then Dad said that we couldn’t afford to buy a copper because we needed to save for shoes and that. (Then I remembered the secret under my mattress. But I cast the thought from my mind.) Then Mother got cross. But it all turned out to be for nothing because Elizabeth’s mother came over and told Mother that they don’t boil nappies in <placeName key="Canada" ref="http://www.wikidata.org/entity/Q16">Canada</placeName>. They just peg them out and the prairie sun bleaches them. Too sleepy to write more.</p>
             </div>
             <div type="entry" n="45">
-                <p>June 23</p>
+                <p><date when="1926-06-23">June 23</date></p>
                 <p>Flying Jack</p>
                 <p>I’m in trouble again. I took Baby Jack over to Elizabeth’s house and we were playing with him and Otto. Peepo and that. (In Canada they call it peekaboo). Then we got this idea to put them in a flour sack and give them swings. It worked fine with Otto. And at first it was fine with Baby Jack. He loved it. He made this hiccup noise he makes when he’s really happy. But then the bottom of the flour sack ripped open and Jack went flying through the air, headfirst into the Mullers’ chiffonier. He got a nosebleed and quite a lot of blood got onto the doilies on the chiffonier. And of course he cried a lot. I felt awful.</p>
                 <p>At least we’re both in trouble. It’s not quite so bad being in trouble with a friend. And Mrs. Muller is pretty nice. Truth to tell, it was my idea but Elizabeth took half the blame.</p>
