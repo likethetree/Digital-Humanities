@@ -22534,6 +22534,84 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?date_annotation_20240329154714944",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-03-29T15:47:14.944Z",
+	"dcterms:modified": "2024-03-29T15:47:14.944Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/likethetree",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Acacia McClay"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?date_annotation_20240329154714944#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?date_annotation_20240329154714944#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[70]/p/date"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "xsd:date",
+		"rdf:value": "1926-08-10"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData></teiHeader>
         
     
@@ -23102,7 +23180,7 @@
                 <p>Early this morning we went out to the coulee to pick <rs key="saskatoon berries" ref="https://www.gov.mb.ca/agriculture/crops/crop-management/fruit-crops/images/bld01s01a.jpg">saskatoon berries</rs>. We nearly had our pails full when all of a sudden it got really dark, like somebody had thrown a cloth over the sun. And hail started falling, faster and faster, big hailstones like walnuts. It was hitting the ground and bouncing back. There was nowhere to hide. Gladys started screaming so I grabbed her hand and we tried to run. But the hail was icy cold and slippery and when we got to the road Gladys fell down and she couldn’t get up. I tried to shelter her but the hail was coming from all directions. I don’t know how long we were there but then the Chicken Lady appeared. She took off one of her jackets and held it over us. And finally finally finally it stopped. But we still couldn’t walk because our feet were icy cold and blue and the hail was deep. The Chicken Lady told me to ride piggyback and she picked up Gladys and carried us home. Her big boots went crunching on the hail. The only part of me that wasn’t freezing was my front on her back. Too tired to write more.</p>
             </div>
             <div type="entry" n="68">
-                <p>August 10, later</p>
+                <p><date when="1926-08-10">August 10</date>, later</p>
                 <p>I fell asleep before I put the pen down and now ink has leaked onto the quilt.</p>
                 <p>The rest of the story is that halfway to home Mother came and found us and took Gladys. When we got home we couldn’t stop shivering. Mother put us to bed. When I was trying to protect Gladys from the hail I thought we were both going to die. I don’t want to think about this anymore.</p>
             </div>
