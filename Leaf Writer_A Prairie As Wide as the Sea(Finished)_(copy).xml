@@ -11561,6 +11561,7 @@
 	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240328172512288",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-28T17:25:12.288Z",
+	"dcterms:modified": "2024-03-29T15:20:31.882Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/likethetree",
 		"@type": [
@@ -21347,6 +21348,85 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240329152059977",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-03-29T15:20:59.977Z",
+	"dcterms:modified": "2024-03-29T15:20:59.977Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/likethetree",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Acacia McClay"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240329152059977#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240329152059977#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[67]/p[4]/rs"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "owl:Thing",
+		"@id": "https://images.squarespace-cdn.com/content/v1/53ac1211e4b0a7d6603b36c3/1415744062039-39QN6VRFDJT9KIA4RM8E/image-asset.jpeg?format=1500w",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData></teiHeader>
         
     
@@ -21890,9 +21970,9 @@
             <div type="entry" n="65">
                 <p><date when="1926-08-07">August 7</date></p>
                 <p>Traitor</p>
+                
                 <p>I hate William. I hate and detest and loathe him and I am never going to speak to him for the rest of my life. This I vow and promise and I won’t go back on it ever. He is a sneak and a loathsome vermin.</p>
-                <p>I hate William. I hate and detest and loathe him and I am never going to speak to him for the rest of my life. This I vow and promise and I won’t go back on it ever. He is a sneak and a loathsome vermin.</p>
-                <p>Today I went to town with Dad. I was supposed to go to Bill Bowler the butcher to get the free liver. (Canadians don’t like to eat liver and kidney so Bill Bowler gives it to us for free.) I was walking by the general store and there was a bunch of boys larking about the back door. They were all carrying gopher tails and waiting to collect their money from Mr. Burgess. I hardly looked at them. I hate seeing those bloody tails. You know what they do, dear diary? They pour water down the holes and when the gophers come up they bash them on the heads. Those little faces and the way they pop up and look around. The farmers say they eat the grain. I DON’T CARE. There is lots of grain. There is grain till half past tomorrow. The gophers can have some.</p>
+                <p>Today I went to town with Dad. I was supposed to go to Bill Bowler the butcher to get the free liver. (Canadians don’t like to eat liver and kidney so Bill Bowler gives it to us for free.) I was walking by the general store and there was a bunch of boys larking about the back door. They were all carrying <rs key="gopher" ref="https://images.squarespace-cdn.com/content/v1/53ac1211e4b0a7d6603b36c3/1415744062039-39QN6VRFDJT9KIA4RM8E/image-asset.jpeg?format=1500w">gopher</rs> tails and waiting to collect their money from Mr. Burgess. I hardly looked at them. I hate seeing those bloody tails. You know what they do, dear diary? They pour water down the holes and when the gophers come up they bash them on the heads. Those little faces and the way they pop up and look around. The farmers say they eat the grain. I DON’T CARE. There is lots of grain. There is grain till half past tomorrow. The gophers can have some.</p>
                 <p>Anyway, the way those boys were laughing I knew they liked killing the gophers, they liked being murderers. Boys are horrible.</p>
                 <p>And William is ONE OF THEM.</p>
                 <p>He was there. With those boys. With gopher tails in his hands. With the murderers. He didn’t see me. I ran away as fast as I could. And then I looked down at the package of liver in my hands and blood was leaking out of it so I threw it over the fence into the Battrum’s yard. Then I had to climb over the fence and go get it, because that’s what we’re having for tea.</p>
