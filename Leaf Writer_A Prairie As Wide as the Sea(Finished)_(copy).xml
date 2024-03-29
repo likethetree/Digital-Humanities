@@ -29221,6 +29221,319 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?date_annotation_20240329164437288",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-03-29T16:44:37.288Z",
+	"dcterms:modified": "2024-03-29T16:44:37.288Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/likethetree",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Acacia McClay"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?date_annotation_20240329164437288#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?date_annotation_20240329164437288#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[97]/p/date"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "xsd:date",
+		"rdf:value": "1926-09-30"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?date_annotation_20240329164451648",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-03-29T16:44:51.648Z",
+	"dcterms:modified": "2024-03-29T16:44:51.648Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/likethetree",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Acacia McClay"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?date_annotation_20240329164451648#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?date_annotation_20240329164451648#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[98]/p/date"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "xsd:date",
+		"rdf:value": "1926-10-01"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?date_annotation_20240329164550569",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-03-29T16:45:50.569Z",
+	"dcterms:modified": "2024-03-29T16:45:50.569Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/likethetree",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Acacia McClay"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?date_annotation_20240329164550569#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?date_annotation_20240329164550569#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[99]/p/date"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "xsd:date",
+		"rdf:value": "1926-10-02"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240329164610785",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-03-29T16:46:10.785Z",
+	"dcterms:modified": "2024-03-29T16:46:10.785Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/likethetree",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Acacia McClay"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240329164610785#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240329164610785#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[99]/p[4]/rs"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "owl:Thing",
+		"@id": "http://www.wikidata.org/entity/Q241156",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData></teiHeader>
         
     
@@ -29981,22 +30294,22 @@
                 <p>In my reader today I read all about <persName key="Edith Cavell" ref="http://www.wikidata.org/entity/Q237564">Edith Cavell</persName>, who was a heroic nurse in the <rs key="World War I" ref="http://www.wikidata.org/entity/Q361">Great War</rs>. She cared for all the suffering and wounded soldiers and then she helped some Belgian soldiers escape from the Germans. The Germans found out and they put her in prison and then they shot her. She was a “noble character.” I think she sounds like a saint.</p>
             </div>
             <div type="entry" n="95">
-                <p>September 30</p>
+                <p><date when="1926-09-30">September 30</date></p>
                 <p>The Reader</p>
                 <p>First month of school and Gladys has already read everything in the primer. Miss Hutchinson says she can go on to the Canadian Reader Book One.</p>
             </div>
             <div type="entry" n="96">
-                <p>October 1</p>
+                <p><date when="1926-10-01">October 1</date></p>
                 <p>Thunder and Kindness</p>
                 <p>Today was very hot, like being under a pile of blankets. At recess we were all playing anti-I-over across the school roof when all of a sudden, out of nowhere, there was a huge crash of thunder. The ground shivered. I looked over at the swings where Harry was waiting for his turn and he was crouched on the ground with his hands over his ears and his eyes squeezed shut. I started over to talk to him when Miss Hutchinson picked him up and took him inside. When we came in from recess Miss Hutchinson was cuddling Harry on her lap. His eyes were still shut. On the blackboard was written. “Go on with your work. Nobody is to tease Harry about this.”</p>
                 <p>Miss Hutchinson is a very kind person.</p>
                 <p>Harry likes to hear about bombs and such. He loves William’s stories about hiding in the cellar during the bombing raids in London. But he hates loud noises in real life. I think he had better give up his plan to be an anarchist. He’s not going to be very good at blowing things up.</p>
             </div>
             <div type="entry" n="97">
-                <p>October 2</p>
+                <p><date when="1926-10-02">October 2</date></p>
                 <p>Harvest</p>
                 <p>Today I went over to Elizabeth’s to help take doughnuts to the harvesters.</p>
-                <p>The harvesters have their breakfast (bacon, sausages, eggs, pancakes, toast, jam and apple pie) at five o’clock, so by nine o’clock they need more food. Mrs. Muller’s doughnuts are delicious. No, delicious isn’t the right word. It is too little. They are manna. Last Sunday in church, Mr. Quigley read the lesson about the children of Israel lost in the wilderness and how God sent them manna in the morning. Mr. Quigley said that the Bible said that manna was like wafers made with honey and we should think of the most delicious thing we could. I thought of Mrs. Muller’s doughnuts. She piles those doughnuts into big baskets lined with napkins and Elizabeth and I take them out to the fields. Then when we come back Mrs. Muller gives us little round doughnut holes.</p>
+                <p>The harvesters have their breakfast (bacon, sausages, eggs, pancakes, toast, jam and apple pie) at five o’clock, so by nine o’clock they need more food. Mrs. Muller’s doughnuts are delicious. No, delicious isn’t the right word. It is too little. They are <rs key="manna" ref="http://www.wikidata.org/entity/Q241156">manna</rs>. Last Sunday in church, Mr. Quigley read the lesson about the children of Israel lost in the wilderness and how God sent them manna in the morning. Mr. Quigley said that the Bible said that manna was like wafers made with honey and we should think of the most delicious thing we could. I thought of Mrs. Muller’s doughnuts. She piles those doughnuts into big baskets lined with napkins and Elizabeth and I take them out to the fields. Then when we come back Mrs. Muller gives us little round doughnut holes.</p>
                 <p>Then we went out to watch the threshing machine. It is a wonder. It looks like a hungry animal gobbling the sheaves of grain. You can watch it for hours without getting bored. Gears and wheels and belts and big knives and a big steam engine. Grain spilling into the granary and straw blowing out a pipe and making a big pile. Mr. Muller walks around oiling and greasing and adjusting bits of machinery. It is the first time I’ve seen him smile.</p>
                 <p>P.S. One more thing about doughnuts and manna. The best part of the Bible story is how the children of Israel aren’t allowed to save any of their manna for the next day. If they try it the manna gets worms in it and goes all nasty. Mrs. Muller wouldn’t need to worry about that. There would be no chance of finding worms in the doughnuts the next day because the harvesters never leave ANY LEFTOVERS.</p>
             </div>
