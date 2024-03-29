@@ -14657,6 +14657,242 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?person_annotation_20240329143646241",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-03-29T14:36:46.241Z",
+	"dcterms:modified": "2024-03-29T14:36:46.241Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/likethetree",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Acacia McClay"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?person_annotation_20240329143646241#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?person_annotation_20240329143646241#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[42]/p[4]/persName[2]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://www.wikidata.org/entity/Q180729",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?date_annotation_20240329143704035",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-03-29T14:37:04.035Z",
+	"dcterms:modified": "2024-03-29T14:37:04.035Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/likethetree",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Acacia McClay"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?date_annotation_20240329143704035#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?date_annotation_20240329143704035#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[43]/p/date"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "xsd:date",
+		"rdf:value": "1926-06-17"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240329143717545",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-03-29T14:37:17.545Z",
+	"dcterms:modified": "2024-03-29T14:37:17.545Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/likethetree",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Acacia McClay"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240329143717545#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240329143717545#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[43]/p[3]/rs"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "owl:Thing",
+		"@id": "http://www.wikidata.org/entity/Q119038",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData></teiHeader>
         
     
@@ -15014,13 +15250,13 @@
                 <p><date when="1926-06-16">June 16</date></p>
                 <p>Good News Day</p>
                 <p>We’re going to the <rs key="Chautauqua" ref="http://www.wikidata.org/entity/Q119038">Chautauqua</rs> after all! Dad came home with tickets. Mother was a bit grumpy. But then Dad said that the <rs key="Chautauqua" ref="http://www.wikidata.org/entity/Q119038">Chautauqua</rs> is the poor man’s university, brings the world to our door, and that we would remember it all our lives.</p>
-                <p>(Dad likes to say that we will remember something for the rest of our lives. If we remember all the things he says this about, we will spend the second half of our lives just remembering the first half. Once I asked Dad what he has remembered his whole life and he said that when he was a wee nipper he went to the opening of the <placeName key="Tower Bridge" ref="http://www.wikidata.org/entity/Q83125">Tower Bridge</placeName> in <placeName key="London" ref="http://www.wikidata.org/entity/Q84">London</placeName>. It was opened by the <persName key="Prince of Wales" ref="http://www.wikidata.org/entity/Q180729">Prince of Wales</persName>. He didn’t remember the Prince of Wales. He remembered that when they raised the centre span of the bridge all the horse manure slid down the roadway.)</p>
+                <p>(Dad likes to say that we will remember something for the rest of our lives. If we remember all the things he says this about, we will spend the second half of our lives just remembering the first half. Once I asked Dad what he has remembered his whole life and he said that when he was a wee nipper he went to the opening of the <placeName key="Tower Bridge" ref="http://www.wikidata.org/entity/Q83125">Tower Bridge</placeName> in <placeName key="London" ref="http://www.wikidata.org/entity/Q84">London</placeName>. It was opened by the <persName key="Prince of Wales" ref="http://www.wikidata.org/entity/Q180729">Prince of Wales</persName>. He didn’t remember the <persName key="Prince of Wales" ref="http://www.wikidata.org/entity/Q180729">Prince of Wales</persName>. He remembered that when they raised the centre span of the bridge all the horse manure slid down the roadway.)</p>
                 <p>Mother got less grumpy when she looked at the programme. Some baritone singer is going to do opera. That was her first choice. William and I can go one day. The twins can go one day. We have to choose.</p>
             </div>
             <div type="entry" n="41">
-                <p>June 17</p>
+                <p><date when="1926-06-17">June 17</date></p>
                 <p>Parade</p>
-                <p>Today we went to the Chautauqua parade. It was children and animals. It was ever so funny. There was a marching drum band which was boys with dishpans. There were two boys on stilts. There were some small children riding hobby horses. There were all sorts of costumes like train conductor, clown and fairy. The animals were ponies, dogs, cats, a rabbit, two mice in a cage, and a pig. The animals started off with costumes but mostly they got rid of them by the end. The pig in the baby bonnet just lay down in the road about halfway along and refused to move. So they moved him into a wagon pulled by boys pretending to be horses.</p>
+                <p>Today we went to the <rs key="Chautauqua" ref="http://www.wikidata.org/entity/Q119038">Chautauqua</rs> parade. It was children and animals. It was ever so funny. There was a marching drum band which was boys with dishpans. There were two boys on stilts. There were some small children riding hobby horses. There were all sorts of costumes like train conductor, clown and fairy. The animals were ponies, dogs, cats, a rabbit, two mice in a cage, and a pig. The animals started off with costumes but mostly they got rid of them by the end. The pig in the baby bonnet just lay down in the road about halfway along and refused to move. So they moved him into a wagon pulled by boys pretending to be horses.</p>
                 <p>Everyone laughed.</p>
                 <p>Elizabeth told me the names of everyone. It was very muddling. The boy with the pig is called Abel Butt. One of the fairies was a very pretty girl called Nyla Muir. Elizabeth told me that she is a terrible show-off. I said was she a toffee-nose? Elizabeth didn’t know what that meant, so I told her it means that you act so superior that your nose is stuck in the air. Elizabeth said that was a perfect description of Nyla.</p>
                 <p>Lots of the girls have bobs. I HAVE to get my hair bobbed before I start school.</p>
