@@ -13004,6 +13004,85 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?place_annotation_20240329142359921",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-03-29T14:23:59.921Z",
+	"dcterms:modified": "2024-03-29T14:23:59.921Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/likethetree",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Acacia McClay"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?place_annotation_20240329142359921#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?place_annotation_20240329142359921#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[21]/p[3]/l[2]/placeName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:RealPlace",
+		"@id": "https://www.google.com/maps/place/107+Halley+Rd,+London+E7+8DX,+UK/@51.5447287,0.0373236,19.49z/data=!4m15!1m8!3m7!1s0x47d8a7a3b9417f29:0x9f64c757238c31d2!2sForest+Gate,+London,+UK!3b1!8m2!3d51.5439215!4d0.0264272!16zL20vMDNzbXA3!3m5!1s0x47d8a7b046034ec3:0xbbdf45f8194e9550!8m2!3d51.544946!4d0.0374327!16s%2Fg%2F11c22y4qwm?entry=ttu",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData></teiHeader>
         
     
@@ -13158,7 +13237,7 @@
                 <p>We made it. I used to be:</p>
                     <p>
                         <l>Ivy Doris Weatherall</l>
-                        <l>107 Halley Road</l>
+                        <l><placeName key="107 Halley Road" ref="https://www.google.com/maps/place/107+Halley+Rd,+London+E7+8DX,+UK/@51.5447287,0.0373236,19.49z/data=!4m15!1m8!3m7!1s0x47d8a7a3b9417f29:0x9f64c757238c31d2!2sForest+Gate,+London,+UK!3b1!8m2!3d51.5439215!4d0.0264272!16zL20vMDNzbXA3!3m5!1s0x47d8a7b046034ec3:0xbbdf45f8194e9550!8m2!3d51.544946!4d0.0374327!16s%2Fg%2F11c22y4qwm?entry=ttu">107 Halley Road</placeName></l>
                         <l><placeName key="Forest Gate" ref="http://www.wikidata.org/entity/Q1656032">Forest Gate</placeName>, <placeName key="London" ref="http://www.wikidata.org/entity/Q84">London</placeName></l>
                         <l><placeName key="England" ref="http://www.wikidata.org/entity/Q21">England</placeName></l>
                         <l><placeName key="Europe" ref="http://www.wikidata.org/entity/Q46">Europe</placeName></l>
