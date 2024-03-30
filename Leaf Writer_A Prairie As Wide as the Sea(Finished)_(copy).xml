@@ -51312,6 +51312,478 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?date_annotation_20240330144635170",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-03-30T14:46:35.170Z",
+	"dcterms:modified": "2024-03-30T14:46:35.170Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/likethetree",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Acacia McClay"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?date_annotation_20240330144635170#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?date_annotation_20240330144635170#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[206]/p/date"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "xsd:date",
+		"rdf:value": "1927-04-18"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?date_annotation_20240330144650732",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-03-30T14:46:50.732Z",
+	"dcterms:modified": "2024-03-30T14:46:50.732Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/likethetree",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Acacia McClay"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?date_annotation_20240330144650732#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?date_annotation_20240330144650732#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[207]/p[2]/date"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "xsd:date",
+		"rdf:value": "1926-05-19"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?place_annotation_20240330144705992",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-03-30T14:47:05.992Z",
+	"dcterms:modified": "2024-03-30T14:47:05.992Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/likethetree",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Acacia McClay"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?place_annotation_20240330144705992#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?place_annotation_20240330144705992#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[207]/p[3]/l[3]/placeName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:RealPlace",
+		"@id": "http://www.wikidata.org/entity/Q1989",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?place_annotation_20240330144714422",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-03-30T14:47:14.422Z",
+	"dcterms:modified": "2024-03-30T14:47:14.422Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/likethetree",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Acacia McClay"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?place_annotation_20240330144714422#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?place_annotation_20240330144714422#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[207]/p[3]/l[4]/placeName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:RealPlace",
+		"@id": "http://www.wikidata.org/entity/Q16",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?place_annotation_20240330144730525",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-03-30T14:47:30.525Z",
+	"dcterms:modified": "2024-03-30T14:47:30.525Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/likethetree",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Acacia McClay"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?place_annotation_20240330144730525#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?place_annotation_20240330144730525#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[207]/p[3]/l[5]/placeName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:RealPlace",
+		"@id": "http://www.wikidata.org/entity/Q49",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?place_annotation_20240330144741505",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-03-30T14:47:41.505Z",
+	"dcterms:modified": "2024-03-30T14:47:41.505Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/likethetree",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Acacia McClay"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?place_annotation_20240330144741505#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?place_annotation_20240330144741505#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[207]/p[3]/l[6]/placeName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:RealPlace",
+		"@id": "http://www.wikidata.org/entity/Q2",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData></teiHeader>
         
     
@@ -52903,20 +53375,20 @@
                 <p>A miracle happens and the world just goes plodding on. The grammar bee was postponed, not cancelled. I got bumped out in the first round yesterday because I didn’t remember that adverbs modify adjectives. The fact that I am a splendid person with a gift doesn’t butter any parsnips with Miss Hutchinson when she’s doing grammar.</p>
             </div>
             <div type="entry" n="204">
-                <p>April 18</p>
+                <p><date when="1927-04-18">April 18</date></p>
                 <p>Goodbye This Book</p>
                 <p>This book is nearly finished. William bought me a new one. Mr. Burgess gave him a raise at the store and he bought us all presents. William is the best brother in the galaxy. But I’m going to write small so I can fit in this one last thing because it should go in the same book as everything else about coming to Canada. Today Mother and I went to visit the Nygaards. The baby is lovely. Mrs. Nygaard told me that they’ve chosen a name for her. They are going to call her Ivy. After me. She is going to be my namesake. Mr. Nygaard said that she is a little Canadian Ivy. Then Mother said that I am a big Canadian Ivy.</p>
             </div>
             <div type="entry" n="205">
                 <p>Later</p>
-                <p>I just read over the first part of this diary. On May 19th, 1926, I said that the only thing the same about my new address was me and The World.</p>
+                <p>I just read over the first part of this diary. On <date when="1926-05-19">May 19th, 1926</date>, I said that the only thing the same about my new address was me and The World.</p>
                 <p>Now I am:
                     <l>Ivy Doris Weatherall</l>
                     <l>The Bank Building</l>
-                    <l>Milorie, Saskatchewan</l>
-                    <l>Canada</l>
-                    <l>North America</l>
-                    <l>The World</l>
+                    <l>Milorie, <placeName key="Saskatchewan" ref="http://www.wikidata.org/entity/Q1989">Saskatchewan</placeName></l>
+                    <l><placeName key="Canada" ref="http://www.wikidata.org/entity/Q16">Canada</placeName></l>
+                    <l><placeName key="North America" ref="http://www.wikidata.org/entity/Q49">North America</placeName></l>
+                    <l><placeName key="Earth" ref="http://www.wikidata.org/entity/Q2">The World</placeName></l>
                 </p>
                 <p>Except now I’m not the same Ivy Weatherall. So the only thing the same is living in The World.</p>
             </div>
