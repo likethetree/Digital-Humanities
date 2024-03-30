@@ -46301,6 +46301,162 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?date_annotation_20240330135246718",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-03-30T13:52:46.718Z",
+	"dcterms:modified": "2024-03-30T13:52:46.718Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/likethetree",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Acacia McClay"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?date_annotation_20240330135246718#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?date_annotation_20240330135246718#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[165]/p/date"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "xsd:date",
+		"rdf:value": "1927-01-13"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?date_annotation_20240330135309538",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-03-30T13:53:09.538Z",
+	"dcterms:modified": "2024-03-30T13:53:09.538Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/likethetree",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Acacia McClay"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?date_annotation_20240330135309538#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?date_annotation_20240330135309538#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[166]/p/date"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "xsd:date",
+		"rdf:value": "1927-01-15"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData></teiHeader>
         
     
@@ -47554,17 +47710,17 @@
                 <p>Miss Hutchinson and Mother looked at Abel’s ear and said he would need stitches. Doc Johnstone was supposed to be back after dinner. We scrubbed the kitchen table and moved it over next to the window. Then we soaked a sheet in <rs key="phenol" ref="http://www.wikidata.org/entity/Q130336">carbolic</rs> and laid it on the table. Abel was being awfully brave. He looked pale and woozy but he still kept making little jokes.</p>
                 <p>Then Mother said it was my job to mind the twins and I was so cross. My whole life I’ve wanted to see stitches and here they were going to happen in my own house and I was supposed to miss it. So I was very bold. I took the twins upstairs and played with them until I heard Doc Johnstone arrive. Then I bribed them with the last of my Christmas humbugs and the promise that I would play cats and dogs with them tomorrow for as long as they wanted if they would be good and quiet.</p>
                 <p>When I got downstairs Abel was lying on the table and Doc Johnstone was fitting a mask over his face. Mother saw me creep in and she gave me a look but she didn’t say anything. Doc Johnstone instructed Mother to put a few drops of <rs key="chloroform" ref="http://www.wikidata.org/entity/Q172275">chloroform</rs> on the mask. Then Abel was to count backwards from twenty, but he only got to sixteen. Then his breathing got very slow. Doc Johnstone started stitching up his ear. It was very neat. He chatted. He said it was lucky that the ear cushioned the blow because Abel might have had a worse accident. Every so often he would tell Mother to put one more drop on the mask.</p>
-                <p>Then Abel stopped breathing.I heard it stop. I didn’t know whether to speak up. But a voice just came out of me. Doc Johnstone whipped off the mask and started breathing into Abel’s mouth and pushing on his chest. Abel started breathing again but he was restless and Mother had to hold him down whilst Doc Johnstone did the last stitches.</p>
+                <p>Then Abel stopped breathing. Mother and Doc Johnstone didnt seem to notice. But I heard it stop. I didn’t know whether to speak up. But a voice just came out of me. Doc Johnstone whipped off the mask and started breathing into Abel’s mouth and pushing on his chest. Abel started breathing again but he was restless and Mother had to hold him down whilst Doc Johnstone did the last stitches.</p>
                 <p>Afterwards he thanked me and said that his hearing wasn’t what it used to be and that I was an alert girl.</p>
                 <p>When Abel woke up he started shivering, so Mother put him on the settee with lots of blankets, a hot water bottle and plenty of sweet tea. He will stay here tonight. Abel is always so jolly that I never thought before how sad it is that he doesn’t have a mother. I don’t think his father or brother would know about hot water bottles.</p>
             </div>
             <div type="entry" n="163">
-                <p>January 13</p>
+                <p><date when="1927-01-13">January 13</date></p>
                 <p>Mistake</p>
                 <p>Never make a rash promise to a six-year-old. Today I played cats and dogs with the twins for ages. Cats and dogs is the world’s most tedious game. The twins made it up. One runs around mewing and the other runs around barking. After hours of this my brain turned into a bowl of junket.</p>
             </div>
             <div type="entry" n="164">
-                <p>January 15</p>
+                <p><date when="1927-01-15">January 15</date></p>
                 <p>Lucky Leftovers</p>
                 <p>Mr. Burgess gave William the bottom of a big tin of peanut butter. It was a bit dried up and he couldn’t sell it. But if you mix it with syrup it is just fine. Mother and Dad don’t like peanut butter. They think it is too strange. And they don’t think it is proper food for the guests. Which is fine with me because I love it. On bread, toast and my finger. Almost as good as doughnuts and pumpkin pie.</p>
             </div>
