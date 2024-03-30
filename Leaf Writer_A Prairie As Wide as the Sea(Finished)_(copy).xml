@@ -42125,6 +42125,84 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?date_annotation_20240330132133011",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-03-30T13:21:33.011Z",
+	"dcterms:modified": "2024-03-30T13:21:33.011Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/likethetree",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Acacia McClay"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?date_annotation_20240330132133011#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?date_annotation_20240330132133011#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[154]/p/date"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "xsd:date",
+		"rdf:value": "1926-12-19"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData></teiHeader>
         
     
@@ -43274,7 +43352,7 @@
                 <p>Then Mr. McLaren brought in the tree. We decorated it with paper chains and cut-out snowflakes and Miss Hutchinson made popcorn and we made that into strings. (And we ate some too.) Then we put the candles in the holders. Miss Hutchinson sent us home early.</p>
             </div>
             <div type="entry" n="152">
-                <p>December 19</p>
+                <p><date when="1926-12-19">December 19</date></p>
                 <p>Ears and Above</p>
                 <p>Nine o’clock in the morning and I’m still in my nightie. I’m writing this in bed. No church. We slept in because we were so late last night. Mother gave the boarders scones for breakfast so she didn’t need me to help.</p>
                 <p>The concert was heaps of fun. The school didn’t even look like the school with the candles and lanterns and the tree and the ceiling covered in dancing streamers. Before we started Miss Hutchinson gathered us together and told us to speak up, to have fun and not to set ourselves on fire. I remembered my ear piece and my A piece even though I felt my mouth was just saying the words and I was somewhere else. When Abel said his chilblain poem people cheered and stomped on the floor. They stomped again after “The Christmas Senses.” And Dad went “Whoop!” which was a little embarrassing, but not too much. The little ones did their choral recitation of “The Christmas Cat” and it ended with Herman saying, “He purred in the manger and kept Jesus warm.” Then all the mothers started crying. I almost did too.</p>
