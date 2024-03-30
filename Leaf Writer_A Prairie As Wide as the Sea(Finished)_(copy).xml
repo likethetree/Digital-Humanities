@@ -38113,6 +38113,85 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?place_annotation_20240330124947857",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-03-30T12:49:47.857Z",
+	"dcterms:modified": "2024-03-30T12:49:47.857Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/likethetree",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Acacia McClay"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?place_annotation_20240330124947857#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?place_annotation_20240330124947857#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[135]/p[5]/placeName[2]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:RealPlace",
+		"@id": "http://www.wikidata.org/entity/Q172",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData></teiHeader>
         
     
@@ -39118,7 +39197,7 @@
                 <p>Music through the Air</p>
                 <p>This evening the Mullers invited us over to listen to their new tube radio. Hans came and got us in the sleigh. The runners on the sleigh make a beautiful sound on the snow. I felt like <persName key="The Snow Queen" ref="http://www.wikidata.org/entity/Q11880">the Snow Queen</persName> in the fairy tale.</p>
                 <p>The radio is a <rs key="Westinghouse two-tube" ref="https://live.staticflickr.com/65535/8479238649_36a0346404_h.jpg">Westinghouse two-tube</rs>. It is super. Much better than the crystal wireless that Dad had on <placeName key="Halley Road" ref="https://www.google.com/maps/place/107+Halley+Rd,+London+E7+8DX,+UK/@51.5449493,0.0348524,17z/data=!3m1!4b1!4m6!3m5!1s0x47d8a7b046034ec3:0xbbdf45f8194e9550!8m2!3d51.544946!4d0.0374327!16s%2Fg%2F11c22y4qwm?entry=ttu">Halley Road</placeName>. He used to fiddle with it all the time trying to get something. Mother said she was going to chuck it in the dustbin if he didn’t stop wasting time. The tube radio is much better. It gets stations from as far away as other provinces, like <placeName key="Edmonton" ref="http://www.wikidata.org/entity/Q2096">Edmonton</placeName>, <placeName key="Alberta" ref="http://www.wikidata.org/entity/Q1951">Alberta</placeName>, and even from other countries, like <placeName key="Salt Lake City" ref="http://www.wikidata.org/entity/Q23337">Salt Lake City</placeName>, <placeName key="United States of America" ref="http://www.wikidata.org/entity/Q30">U.S.A.</placeName> It has two sets of earphones so we took turns.</p>
-                <p>Mr. Muller kept twisting the dials to find different places. Mother and Dad listened to a man from <placeName key="Regina" ref="http://www.wikidata.org/entity/Q2123">Regina</placeName> giving a talk on growing vegetables. It was torture to wait for our turn. William and I were next and Mr. Muller found us a lady in Toronto singing. I shut my eyes and it was like having a soprano singing inside my head. But she started fading away and then there was a sound like frying so Mr. Muller twisted the dials again and found a little kids’ show. It was “Good Night Stories with Mr. Radiobug.” So we gave the headphones to the twins. It was comical to see them laughing at the same time when we didn’t even know what they were listening to.</p>
+                <p>Mr. Muller kept twisting the dials to find different places. Mother and Dad listened to a man from <placeName key="Regina" ref="http://www.wikidata.org/entity/Q2123">Regina</placeName> giving a talk on growing vegetables. It was torture to wait for our turn. William and I were next and Mr. Muller found us a lady in <placeName key="Toronto" ref="http://www.wikidata.org/entity/Q172">Toronto</placeName> singing. I shut my eyes and it was like having a soprano singing inside my head. But she started fading away and then there was a sound like frying so Mr. Muller twisted the dials again and found a little kids’ show. It was “Good Night Stories with Mr. Radiobug.” So we gave the headphones to the twins. It was comical to see them laughing at the same time when we didn’t even know what they were listening to.</p>
                 <p>When it was over Harry asked how the stories got into the box. Hans explained about radio waves and that. I don’t really understand it.</p>
                 <p>Mrs. Muller made tea and then Elizabeth and I shared one pair of headphones and Hans took the other. He found some wonderful music. It was horns and a banjo and drums and I couldn’t tell what else. But you couldn’t listen to it without starting to move around. So we were jigging around and Elizabeth started snapping her fingers and Mr. Muller took the headphones off Hans and listened and then switched off the radio. In an angry way. He said that it was jazz and that jazz is wicked music. Probably because of Gerhard running away to join a jazz band.</p>
                 <p>On the way home Harry kept throwing his hands up in the air. Dad asked him what he was doing and he said that he was trying to feel the radio waves. Everybody laughed but, truth to tell, I wonder about that too. If they are going right through me on their way from CKCK Regina to the Mullers’ radio, wouldn’t I feel them? I certainly hope we get a radio when our ship comes in.</p>
