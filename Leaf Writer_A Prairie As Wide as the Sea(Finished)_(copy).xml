@@ -48337,6 +48337,85 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240330140924003",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-03-30T14:09:24.003Z",
+	"dcterms:modified": "2024-03-30T14:09:24.003Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/likethetree",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Acacia McClay"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240330140924003#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240330140924003#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[183]/p[3]/rs"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "owl:Thing",
+		"@id": "http://www.wikidata.org/entity/Q16971759",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData></teiHeader>
         
     
@@ -49739,7 +49818,7 @@
             <div type="entry" n="181">
                 <p><date when="1927-03-07">March 7</date></p>
                 <p>Coming Event</p>
-                <p>Elizabeth told me that there is going to be a box social at the school on Saturday. Here’s what it is: All the ladies and girls make a lunch for two and they put them in boxes. They decorate the boxes. Then all the men come to an auction where the box lunches are auctioned off. Whatever lunch box you buy, you get to have lunch with that lady. But nobody is supposed to know who made which box. The money is to buy a piano for the school. I asked Mother if I could make a box lunch and she said it sounded daft but yes I could. I looked in the United Farm Women Cookbook for ideas and I am going to make jumbles biscuits and black-eyed Susan sandwiches. For the sandwiches you cut a piece of brown bread in a circle. Then you spread it with grated cheese with a little butter mixed in. Then you cut a smaller piece of white bread into a doughnut shape and put it on top. Then you fill the hole with raisins. You stick them into the cheese. I think they will look swell.</p>
+                <p>Elizabeth told me that there is going to be a <rs key="box social" ref="http://www.wikidata.org/entity/Q16971759">box social</rs> at the school on Saturday. Here’s what it is: All the ladies and girls make a lunch for two and they put them in boxes. They decorate the boxes. Then all the men come to an auction where the box lunches are auctioned off. Whatever lunch box you buy, you get to have lunch with that lady. But nobody is supposed to know who made which box. The money is to buy a piano for the school. I asked Mother if I could make a box lunch and she said it sounded daft but yes I could. I looked in the United Farm Women Cookbook for ideas and I am going to make jumbles biscuits and black-eyed Susan sandwiches. For the sandwiches you cut a piece of brown bread in a circle. Then you spread it with grated cheese with a little butter mixed in. Then you cut a smaller piece of white bread into a doughnut shape and put it on top. Then you fill the hole with raisins. You stick them into the cheese. I think they will look swell.</p>
             </div>
             <div type="entry" n="182">
                 <p>March 11</p>
