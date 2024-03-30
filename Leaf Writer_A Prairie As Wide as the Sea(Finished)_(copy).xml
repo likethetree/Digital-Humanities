@@ -42519,6 +42519,321 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?title_annotation_20240330132413641",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-03-30T13:24:13.641Z",
+	"dcterms:modified": "2024-03-30T13:24:13.641Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/likethetree",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Acacia McClay"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?title_annotation_20240330132413641#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?title_annotation_20240330132413641#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[154]/p[7]/title"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "bf:Title",
+		"@id": "http://www.wikidata.org/entity/Q3257554",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?date_annotation_20240330132437239",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-03-30T13:24:37.239Z",
+	"dcterms:modified": "2024-03-30T13:24:37.239Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/likethetree",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Acacia McClay"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?date_annotation_20240330132437239#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?date_annotation_20240330132437239#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[155]/p/date"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "xsd:date",
+		"rdf:value": "1926-12-20"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240330132525131",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-03-30T13:25:25.131Z",
+	"dcterms:modified": "2024-03-30T13:25:25.131Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/likethetree",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Acacia McClay"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240330132525131#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240330132525131#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[155]/p[6]/rs"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "owl:Thing",
+		"@id": "http://www.wikidata.org/entity/Q124955197",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?place_annotation_20240330132547545",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-03-30T13:25:47.545Z",
+	"dcterms:modified": "2024-03-30T13:25:47.545Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/likethetree",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Acacia McClay"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?place_annotation_20240330132547545#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?place_annotation_20240330132547545#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[155]/p[6]/placeName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:RealPlace",
+		"@id": "https://www.google.com/maps/place/107+Halley+Rd,+London+E7+8DX,+UK/@51.5449493,0.0348524,17z/data=!3m1!4b1!4m6!3m5!1s0x47d8a7b046034ec3:0xbbdf45f8194e9550!8m2!3d51.544946!4d0.0374327!16s%2Fg%2F11c22y4qwm?entry=ttu",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData></teiHeader>
         
     
@@ -43674,10 +43989,10 @@
                 <p>The concert was heaps of fun. The school didn’t even look like the school with the candles and lanterns and the tree and the ceiling covered in dancing streamers. Before we started Miss Hutchinson gathered us together and told us to speak up, to have fun and not to set ourselves on fire. I remembered my ear piece and my A piece even though I felt my mouth was just saying the words and I was somewhere else. When Abel said his chilblain poem people cheered and stomped on the floor. They stomped again after “The Christmas Senses.” And Dad went “Whoop!” which was a little embarrassing, but not too much. The little ones did their choral recitation of “The Christmas Cat” and it ended with Herman saying, “He purred in the manger and kept Jesus warm.” Then all the mothers started crying. I almost did too.</p>
                 <p>Then there was the sound of bells outside and <persName key="Santa Claus" ref="http://www.wikidata.org/entity/Q315796">Santa Claus</persName> came in. He had presents for everyone. I got an orange and a bag of candy and a beautiful blue silk handkerchief. When <persName key="Santa Claus" ref="http://www.wikidata.org/entity/Q315796">Santa Claus</persName> called Gladys’s name she was afraid to go and collect her present. She just held onto my leg. But then I told her it was just <persName key="Father Christmas" ref="http://www.wikidata.org/entity/Q1580236">Father Christmas</persName> and she was fine. It turns out she didn’t know that <persName key="Santa Claus" ref="http://www.wikidata.org/entity/Q315796">Santa Claus</persName> is just the Canadian name for Father Christmas. (Of course it was really Bill Bowler the butcher but I didn’t tell her that.)</p>
                 <p>Then there was carol singing. Some of the little ones went to sleep on the desks. Then there was a big lunch with sandwiches and cakes and pie. It was after midnight when we got home.</p>
-                <p>Oh, I forgot. The biggest surprise. In between the Santa Acrostic and Ralph’s homesteader recitation Miss Hutchinson got up and sang a song. She didn’t tell us she was going to do it. It was called “The Ash Grove.” Everyone was dead quiet when she sang. She looked like an angel from above.</p>
+                <p>Oh, I forgot. The biggest surprise. In between the Santa Acrostic and Ralph’s homesteader recitation Miss Hutchinson got up and sang a song. She didn’t tell us she was going to do it. It was called “<title key="Llwyn Onn" ref="http://www.wikidata.org/entity/Q3257554">The Ash Grove</title>.” Everyone was dead quiet when she sang. She looked like an angel from above.</p>
             </div>    
             <div type="entry" n="153">
-                <p>December 20</p>
+                <p><date when="1926-12-20">December 20</date></p>
                 <p>Christmas Comes from Home</p>
                 <p>The Christmas parcel from Auntie Lou has arrived! Dad picked it up at the post office this morning. Mother made us wait until William came home from the store before we were allowed to open it at all. I nearly burst with waiting. What if I really had and bits of me had whizzed all around the room like the exploding cocoa from Thorvald’s pail? It’s like that funny poem that Dad recites about all the children who do naughty things and meet terrible ends. Here’s mine, “Ivy Weatherall, The Girl Who Burst With Waiting”:</p>
                 <p>
@@ -43688,7 +44003,7 @@
                     <l>Like The Girl Who Burst With Waiting.</l>
                 </p>
                 <p>There’s something not right with line four. You might meet the fate … You might end up in bits … That’s better but still too long. Why are beginnings and ending of poems easier than middles?</p>
-                <p>But I didn’t burst and when William FINALLY came home we opened up the box and it was a treasure chest. A fruitcake in a pretty tin with fancy paper round the edge and covered in marzipan with a piece of holly. A box with six glass Christmas balls. You can look inside them to a little scene. A tin of Lyle’s Golden Syrup. (William said it made him think of collecting horse manure because he used to collect it on Halley Road with a Lyle’s box. Of course it wouldn’t be our family if somebody didn’t bring that up.) A box of almonds. A box of Chivers Jellies. A bag of ribbon sweets and humbugs. A wrapped present for each of us. (Mine has edges like a book). Some English newspapers. A big pile of Magnets.</p>
+                <p>But I didn’t burst and when William FINALLY came home we opened up the box and it was a treasure chest. A fruitcake in a pretty tin with fancy paper round the edge and covered in marzipan with a piece of holly. A box with six glass Christmas balls. You can look inside them to a little scene. A tin of <rs key="Lyle's Golden Syrup" ref="http://www.wikidata.org/entity/Q124955197">Lyle’s Golden Syrup</rs>. (William said it made him think of collecting horse manure because he used to collect it on <placeName key="Halley Road" ref="https://www.google.com/maps/place/107+Halley+Rd,+London+E7+8DX,+UK/@51.5449493,0.0348524,17z/data=!3m1!4b1!4m6!3m5!1s0x47d8a7b046034ec3:0xbbdf45f8194e9550!8m2!3d51.544946!4d0.0374327!16s%2Fg%2F11c22y4qwm?entry=ttu">Halley Road</placeName> with a Lyle’s box. Of course it wouldn’t be our family if somebody didn’t bring that up.) A box of almonds. A box of Chivers Jellies. A bag of ribbon sweets and humbugs. A wrapped present for each of us. (Mine has edges like a book). Some English newspapers. A big pile of Magnets.</p>
                 <p>Of course we have to save it for Christmas but Mother must have understood a little bit about bursting because she made a pot of tea and we all had a sliver of fruitcake. I eat cake then marzipan. William eats marzipan then cake.</p>
                 <p>Then William started flipping through the Magnets. He used to buy one every Saturday at home. The Magnet is supposed to be a magazine just for boys, but I always liked it too. William started to read out loud a Famous Five story, with lovely Harry Wharton, and cheery Bob Cherry, studious Frank Nugent, Billy Bunter the fat boy, and all the other boys and masters at Greyfriars School. It was like meeting old friends from home. It was all there, the cricket game, the scrumptious tea, the jokes about Latin, Loder of the Sixth (that cad!), and the visit of a mysterious stranger. We wouldn’t let William stop. Even Mother.</p>
                 <p>Then Harry asked, “Would Billy Bunter ever come to Milorie?” Harry was too young for the Magnet at home and he sometimes gets mixed up about stories and real things. But this made Dad and William start talking like the Magnet, but putting in everything about our life in Canada. Mother and I did it too:</p>
