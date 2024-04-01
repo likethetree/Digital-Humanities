@@ -2142,6 +2142,7 @@
 	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240328162626643",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-28T16:26:26.643Z",
+	"dcterms:modified": "2024-04-01T17:38:58.755Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/likethetree",
 		"@type": [
@@ -2173,7 +2174,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "owl:Thing",
-		"@id": "https://www.merriam-webster.com/dictionary/Jack%20Horner%20pie",
+		"@id": "https://likethetree.github.io/reference/#jack-horner-tart",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -8059,7 +8060,7 @@
 	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240329152433177",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-29T15:24:33.177Z",
-	"dcterms:modified": "2024-03-29T15:24:33.177Z",
+	"dcterms:modified": "2024-04-01T17:39:38.405Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/likethetree",
 		"@type": [
@@ -8091,7 +8092,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "owl:Thing",
-		"@id": "http://www.wikidata.org/entity/Q12061338",
+		"@id": "https://likethetree.github.io/reference/#livery-stable",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -10245,6 +10246,7 @@
 	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240328171342616",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-28T17:13:42.616Z",
+	"dcterms:modified": "2024-04-01T17:38:20.988Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/likethetree",
 		"@type": [
@@ -10276,7 +10278,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "owl:Thing",
-		"@id": "https://unsplash.com/photos/closeup-photo-of-gramophone-IUn1O500LMI",
+		"@id": "https://likethetree.github.io/reference/#gramophone",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -10401,6 +10403,7 @@
 	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240328171335170",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-28T17:13:35.170Z",
+	"dcterms:modified": "2024-04-01T17:38:25.950Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/likethetree",
 		"@type": [
@@ -10432,7 +10435,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "owl:Thing",
-		"@id": "https://unsplash.com/photos/closeup-photo-of-gramophone-IUn1O500LMI",
+		"@id": "https://likethetree.github.io/reference/#gramophone",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -23911,6 +23914,7 @@
 	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240329160822846",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-29T16:08:22.846Z",
+	"dcterms:modified": "2024-04-01T17:40:01.801Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/likethetree",
 		"@type": [
@@ -23942,7 +23946,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "owl:Thing",
-		"@id": "http://www.wikidata.org/entity/Q12061338",
+		"@id": "https://likethetree.github.io/reference/#livery-stable",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -53203,7 +53207,7 @@
             <div type="entry" n="5">
                 <p><date when="1926-05-04">May 4</date></p>
                 <p>At lifeboat drill you don’t get to go in the lifeboats. Gladys was so disappointed she cried. The alarm sounded and we put on our life jackets and went to our muster station. (I thought it was mustard station but when I asked William what mustard had to do with it he told me it was muster. William never taunts me if I get something wrong.) There was a little talk by one of the officers. But that was it.</p>
-                <p>Gladys cheered up when she found it was the infant’s tea today. There are so many treats on this ship. She and Harry brought back a little printed programme. They had <rs key="Jack Horner tarts" ref="https://www.merriam-webster.com/dictionary/Jack%20Horner%20pie">Jack Horner tarts</rs>, Mermaid cake, Mother Hubbard mixed biscuits and Father Neptune ice cream.</p>
+                <p>Gladys cheered up when she found it was the infant’s tea today. There are so many treats on this ship. She and Harry brought back a little printed programme. They had <rs key="Jack Horner tarts" ref="https://likethetree.github.io/reference/#jack-horner-tart">Jack Horner tarts</rs>, Mermaid cake, Mother Hubbard mixed biscuits and Father Neptune ice cream.</p>
                 <p>I am sitting next to Dad on a deck chair. He just said wasn’t this the life of Riley and all we had to do was eat, sleep and be agreeable. Who was Riley? Lloyd said that one of the ship’s crew told him that there is weather coming up.</p>
                 <p>Catharine, Hector and Louis just got lost in the forest. They are being very brave and resourceful. When I’m in <placeName key="Canada" ref="http://www.wikidata.org/entity/Q16">Canada</placeName> I’m going to be resourceful. There wasn’t that much chance to be resourceful on Halley Road. Lloyd and I are going to sneak into first class again after dinner.</p>
             </div>
@@ -53312,7 +53316,7 @@
                     </p>
                 <p>The only thing the same is me and <placeName key="Earth" ref="http://www.wikidata.org/entity/Q2">The World</placeName>.</p>
                 <p>When we arrived at the train station in Milorie there were a lot of people on the platform. It took us a few minutes to find Uncle Alf. He was there with a team and wagon. A team means horses, not like the West Ham United football team. He gave us huge hugs and pretended not to know me because I was so grown-up and Mother cried a little bit. Auntie Millie and Baby Jack didn’t come, because we would need all the room on the wagon for our things. Mr. Gilmour, a nice man called a station master, took us all home and his wife gave us tea and scones. Mrs. Gilmour said she made scones to make us feel at home because we are English. Mr. Gilmour told us that most of the people at the station had come down to look at us. “You’re the big news in Milorie today,” he said. I’ve never been news before.</p>
-                <p>Then we walked down the road and looked at the shops, which are a <rs key="general store" ref="https://likethetree.github.io/reference/#general-store">general store</rs>, two banks, a hardware store (that’s Canadian for ironmongers), a garage, a <rs key="livery yard" ref="http://www.wikidata.org/entity/Q12061338">livery stable</rs>, a blacksmith, and a doctor’s office. Also there is a school and a church. The only tall buildings are two <rs key="grain elevator" ref="https://likethetree.github.io/reference/#grain-elevator">grain elevators</rs>. That’s where they store wheat and that.</p>
+                <p>Then we walked down the road and looked at the shops, which are a <rs key="general store" ref="https://likethetree.github.io/reference/#general-store">general store</rs>, two banks, a hardware store (that’s Canadian for ironmongers), a garage, a <rs key="livery yard" ref="https://likethetree.github.io/reference/#livery-stable">livery stable</rs>, a blacksmith, and a doctor’s office. Also there is a school and a church. The only tall buildings are two <rs key="grain elevator" ref="https://likethetree.github.io/reference/#grain-elevator">grain elevators</rs>. That’s where they store wheat and that.</p>
                 <p>Then we all got on the wagon and we went along this dirt road full of ruts and the wagon went up and down and tippy and the two horses went plod plod. The twins went to sleep. How could they go to sleep when it is the most exciting day of our lives?</p>
                 <p>Dad asked Uncle Alf how many head of cattle he had and then I asked if he had a wireless. Then Uncle Alf got quiet and said that things in <placeName key="Canada" ref="http://www.wikidata.org/entity/Q16">Canada</placeName> weren’t quite what they told you up at <placeName key="Canada House" ref="http://www.wikidata.org/entity/Q195905">Canada House</placeName> in <placeName key="London" ref="http://www.wikidata.org/entity/Q84">London</placeName>. Then he started to talk about the government and the railroad and politics and he sounded angry. But when he asked about all the relatives he got funny again.</p>
                 <p>William didn’t sleep. He was excited too and he held my hand. Dad asked Uncle Alf where the pub was and Uncle Alf said there wasn’t one and then Dad said, “What kind of godforsaken country have I come to?” and then Mother flicked him on the skull with her finger.</p>
@@ -53358,9 +53362,9 @@
                 <p>But we aren’t sardines anymore! We are in our own house. Auntie Millie cried when we left. The farm is called the Fretwell Farm. The Fretwells were an American family. Mr. Fretwell died in a farm accident and the rest of the family moved back to <placeName key="Minnesota" ref="http://www.wikidata.org/entity/Q1527">Minnesota</placeName>. The house is lovely and big. There is an upstairs with three bedrooms. There is some furniture like beds and a big kitchen table. There is a barn and a henhouse. There is also, of course, an outhouse – it’s a two-holer.</p>
                 <p>One hole is regular size and one is small. This is good because at Uncle Alf’s Gladys was afraid of the outhouse. She thought she was going to fall down the hole.</p>
                 <p>I really wanted to play in the barn but I had to help unpack.</p>
-                <p>The first thing we unpacked was the <rs key="gramophone" ref="https://unsplash.com/photos/closeup-photo-of-gramophone-IUn1O500LMI">gramophone</rs>. We kept winding it up and winding it up and playing the record we got for last Christmas, “<title key="I'm Forever Blowing Bubbles" ref="http://www.wikidata.org/entity/Q1676211">I’m Forever Blowing Bubbles</title>.” Unpacking things made Mother much cheerier.</p>
+                <p>The first thing we unpacked was the <rs key="gramophone" ref="https://likethetree.github.io/reference/#gramophone">gramophone</rs>. We kept winding it up and winding it up and playing the record we got for last Christmas, “<title key="I'm Forever Blowing Bubbles" ref="http://www.wikidata.org/entity/Q1676211">I’m Forever Blowing Bubbles</title>.” Unpacking things made Mother much cheerier.</p>
                 <p>We had sausages for tea. For a treat we got to use the good cups and saucers. Even the twins. I still like the forget-me-not cup the best.</p>
-                <p>I’m writing this at the table. Dad is sitting in the rocking chair smoking his pipe. Mother has just wound up the <rs key="gramophone" ref="https://unsplash.com/photos/closeup-photo-of-gramophone-IUn1O500LMI">gramophone</rs> again. It smells and sounds like home.</p>
+                <p>I’m writing this at the table. Dad is sitting in the rocking chair smoking his pipe. Mother has just wound up the <rs key="gramophone" ref="https://likethetree.github.io/reference/#gramophone">gramophone</rs> again. It smells and sounds like home.</p>
             </div>
             <div type="entry" n="25">
                 <p>May 23</p>
@@ -53762,7 +53766,7 @@
             <div type="entry" n="75">
                 <p><date when="1926-08-28">August 28</date></p>
                 <p>A Visitor</p>
-                <p>Lorayne LaMott has arrived. We were in town shopping and I saw her coming out of the drugstore. She is beautiful. Her hair is perfect. Dark red-brown like Ruby. In little perfect waves. Oh, I wish I could get my hair <rs key="bobbed" ref="https://likethetree.github.io/reference/#bobbed-hair">bobbed</rs>. Just looking at her I felt lumpy and mosquito-bite spotty. I wasn’t the only one staring either. Wilson Abernathy was staring so hard he tripped over his feet and fell off the boardwalk. I wonder if I’ll ever be the type that makes somebody fall over. Or fall in love. Not that I would like Wilson Abernathy to fall for me. He talks through his nose. When Miss Lorayne LaMott walked by the <rs key="livery yard" ref="http://www.wikidata.org/entity/Q12061338">livery stables</rs> one of those men who sit outside smoking made a remark. But she just went right on by, with good posture.</p>
+                <p>Lorayne LaMott has arrived. We were in town shopping and I saw her coming out of the drugstore. She is beautiful. Her hair is perfect. Dark red-brown like Ruby. In little perfect waves. Oh, I wish I could get my hair <rs key="bobbed" ref="https://likethetree.github.io/reference/#bobbed-hair">bobbed</rs>. Just looking at her I felt lumpy and mosquito-bite spotty. I wasn’t the only one staring either. Wilson Abernathy was staring so hard he tripped over his feet and fell off the boardwalk. I wonder if I’ll ever be the type that makes somebody fall over. Or fall in love. Not that I would like Wilson Abernathy to fall for me. He talks through his nose. When Miss Lorayne LaMott walked by the <rs key="livery yard" ref="https://likethetree.github.io/reference/#livery-stable">livery stables</rs> one of those men who sit outside smoking made a remark. But she just went right on by, with good posture.</p>
             </div>
             <div type="entry" n="76">
                 <p><date when="1926-08-29">August 29</date></p>
