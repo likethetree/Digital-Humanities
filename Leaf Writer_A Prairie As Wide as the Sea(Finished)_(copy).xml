@@ -1519,7 +1519,7 @@
 	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240328172955502",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-28T17:29:55.502Z",
-	"dcterms:modified": "2024-03-31T18:19:34.502Z",
+	"dcterms:modified": "2024-04-01T17:43:11.048Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/likethetree",
 		"@type": [
@@ -1551,7 +1551,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "owl:Thing",
-		"@id": "https://i.pinimg.com/236x/36/36/3f/36363fbf5d989d2d641f0df3c10813ee.jpg",
+		"@id": "https://likethetree.github.io/reference/#milkman",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -6035,6 +6035,7 @@
 	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240328164818289",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-28T16:48:18.289Z",
+	"dcterms:modified": "2024-04-01T17:43:34.406Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/likethetree",
 		"@type": [
@@ -6066,7 +6067,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "owl:Thing",
-		"@id": "http://www.wikidata.org/entity/Q3075786",
+		"@id": "https://likethetree.github.io/reference/#muskeg",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -6113,6 +6114,7 @@
 	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240328164829175",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-28T16:48:29.175Z",
+	"dcterms:modified": "2024-04-01T17:43:46.380Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/likethetree",
 		"@type": [
@@ -6144,7 +6146,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "owl:Thing",
-		"@id": "http://www.wikidata.org/entity/Q3075786",
+		"@id": "https://likethetree.github.io/reference/#muskeg",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -22107,7 +22109,7 @@
 	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240329152451225",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-29T15:24:51.225Z",
-	"dcterms:modified": "2024-03-29T15:24:51.225Z",
+	"dcterms:modified": "2024-04-01T17:42:26.281Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/likethetree",
 		"@type": [
@@ -22139,7 +22141,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "owl:Thing",
-		"@id": "http://www.wikidata.org/entity/Q12061338",
+		"@id": "https://likethetree.github.io/reference/#livery-stable",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -31150,7 +31152,7 @@
 	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240329165428833",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-29T16:54:28.833Z",
-	"dcterms:modified": "2024-03-29T16:54:28.833Z",
+	"dcterms:modified": "2024-04-01T17:41:48.409Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/likethetree",
 		"@type": [
@@ -31182,7 +31184,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "owl:Thing",
-		"@id": "http://www.wikidata.org/entity/Q12061338",
+		"@id": "https://likethetree.github.io/reference/#livery-stable",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -53301,6 +53303,85 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240401184204950",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-04-01T17:42:04.950Z",
+	"dcterms:modified": "2024-04-01T17:42:04.950Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/likethetree",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Acacia McClay"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240401184204950#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240401184204950#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[187]/p[7]/rs"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "owl:Thing",
+		"@id": "https://likethetree.github.io/reference/#livery-stable",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData></teiHeader>
         
     
@@ -53350,7 +53431,7 @@
             </div>
             <div type="entry" n="3">
                 <p>Later</p>
-                <p>Dinner was lovely. Ice cream for sweet. Even more delicious than the ices at home. We sat at a table with a family from <placeName key="Bristol" ref="http://www.wikidata.org/entity/Q23154">Bristol</placeName>. They are going to <placeName key="Manitoba" ref="http://www.wikidata.org/entity/Q1948">Manitoba</placeName>. The father is a <rs key="milkman" ref="https://i.pinimg.com/236x/36/36/3f/36363fbf5d989d2d641f0df3c10813ee.jpg">milkman</rs>. He and Dad talked about the general strike and how <placeName key="England" ref="http://www.wikidata.org/entity/Q21">England</placeName> is hopeless for the working man and all the usual dull adult things. They were talking as though we were poor. It made me angry. We’re not. </p>
+                <p>Dinner was lovely. Ice cream for sweet. Even more delicious than the ices at home. We sat at a table with a family from <placeName key="Bristol" ref="http://www.wikidata.org/entity/Q23154">Bristol</placeName>. They are going to <placeName key="Manitoba" ref="http://www.wikidata.org/entity/Q1948">Manitoba</placeName>. The father is a <rs key="milkman" ref="https://likethetree.github.io/reference/#milkman">milkman</rs>. He and Dad talked about the general strike and how <placeName key="England" ref="http://www.wikidata.org/entity/Q21">England</placeName> is hopeless for the working man and all the usual dull adult things. They were talking as though we were poor. It made me angry. We’re not. </p>
                 <p>Poor is like the little match girl, ragged and freezing. Just because we’re not toffs riding around in motor cars doesn’t mean we’re poor. When the rent collector came on Fridays we could nearly always pay.</p>
                 <p>I like having a diary. You can say things you’re not allowed to say out loud.</p>
                 <p>The <placeName key="Bristol" ref="http://www.wikidata.org/entity/Q23154">Bristol</placeName> family has a boy my age. His name is Lloyd and he has ginger hair and freckles. He can wiggle his ears. He made the twins laugh so much that Gladys fell off her chair.</p>
@@ -53427,7 +53508,7 @@
                 <p>We’re STILL in <placeName key="Ontario" ref="http://www.wikidata.org/entity/Q1904">Ontario</placeName>. <placeName key="Ontario" ref="http://www.wikidata.org/entity/Q1904">Ontario</placeName> must be as wide as a whole big country. The sound of the train makes words go round and round in your head.</p>
                 <p>Lake, tree, tree, tree, rock, rock, tree.</p>
                 <p>Rock, rock, rock, tree, tree, rock, lake.</p>
-                <p>We just passed a lake that was as smooth as a mirror. If you hung upside down … Hey! If I went into the baggage car and hung upside down by my heels from the racks that lake would look exactly the same upside down as rightside up. I wish I COULD hang upside down in the baggage car. Or get a horse and ride beside the train. There I am, galloping along beside the train, waving to myself inside the train. Kuh-kuh-thunk, Kuh-kuh-thunk. Except the ground looks sort of boggy for galloping. The conductor said that the boggy stuff is called “<rs key="Muskeg" ref="http://www.wikidata.org/entity/Q3075786">muskeg</rs>.” Canadian word. I wonder if they have <rs key="Muskeg" ref="http://www.wikidata.org/entity/Q3075786">muskeg</rs> in <placeName key="Saskatchewan" ref="http://www.wikidata.org/entity/Q1989">Saskatchewan</placeName>.</p>
+                <p>We just passed a lake that was as smooth as a mirror. If you hung upside down … Hey! If I went into the baggage car and hung upside down by my heels from the racks that lake would look exactly the same upside down as rightside up. I wish I COULD hang upside down in the baggage car. Or get a horse and ride beside the train. There I am, galloping along beside the train, waving to myself inside the train. Kuh-kuh-thunk, Kuh-kuh-thunk. Except the ground looks sort of boggy for galloping. The conductor said that the boggy stuff is called “<rs key="Muskeg" ref="https://likethetree.github.io/reference/#muskeg">muskeg</rs>.” Canadian word. I wonder if they have <rs key="Muskeg" ref="https://likethetree.github.io/reference/#muskeg">muskeg</rs> in <placeName key="Saskatchewan" ref="http://www.wikidata.org/entity/Q1989">Saskatchewan</placeName>.</p>
             </div>
             <div type="entry" n="16">
                 <p><date when="1926-05-16">May 16</date></p>
@@ -53858,7 +53939,7 @@
                 <p>Here is what happened. I didn’t speak to William at tea. I treated him with cold disdain. But nobody noticed. Mother was talking about the cutworms who ate her lettuce. Then the twins started speaking their secret language and pretending not to know English, which makes Mother furious, and there was a big row. I felt like I was wasting my disdain.</p>
                 <p>But then after tea I went to the outhouse and there was William, behind it, vomiting. He was white as milk. And he was blinking. He has been blinking a lot since we came to <placeName key="Canada" ref="http://www.wikidata.org/entity/Q16">Canada</placeName>. And he looked so miserable and white and blinky that I forgot my vow of silence and asked him what was what. He put his head under the pump and then we walked away from the house, where no twins could find us, out to the coulee.</p>
                 <p>He told me how much he hated killing the <rs key="gophers" ref="https://likethetree.github.io/reference/#gopher">gophers</rs>, how they bleed when you bash them but how if he didn’t go kill <rs key="gophers" ref="https://likethetree.github.io/reference/#gopher">gophers</rs> he wouldn’t have any friends. He says all the boys hate him because he is English and they say he talks funny and he doesn’t know how to swim and they call him “Dirty Will” because of the elevator cleaning job. So he pretended to like killing <rs key="gophers" ref="https://likethetree.github.io/reference/#gopher">gophers</rs>. But he said that he’s not going to do it anymore. He said, “I’ll learn to swim and I’ll talk like a Canadian, but I’m not going to do any more killing.”</p>
-                <p>I asked him how much money he got from the <rs key="gophers" ref="https://likethetree.github.io/reference/#gopher">gophers</rs>. He said fifteen cents but he gave it away to Daft Binnie who sits in front of the <rs key="livery yard" ref="http://www.wikidata.org/entity/Q12061338">livery stables</rs>. He said I was his only friend and I felt bad that I wrote that he was a loathsome vermin. At least he didn’t know. Sometimes it is better to insult people in a diary than to their face.</p>
+                <p>I asked him how much money he got from the <rs key="gophers" ref="https://likethetree.github.io/reference/#gopher">gophers</rs>. He said fifteen cents but he gave it away to Daft Binnie who sits in front of the <rs key="livery yard" ref="https://likethetree.github.io/reference/#livery-stable">livery stables</rs>. He said I was his only friend and I felt bad that I wrote that he was a loathsome vermin. At least he didn’t know. Sometimes it is better to insult people in a diary than to their face.</p>
                 <p>I feel really sad that William doesn’t have any friends. Elizabeth Muller doesn’t mind that I don’t talk Canadian. She likes it when I say treacle and nappies and tea instead of syrup and diapers and supper. I think it is harder being a boy. I’m glad I’m not one.</p>
                 <p>I asked William if he wanted to go home to <placeName key="England" ref="http://www.wikidata.org/entity/Q21">England</placeName> but he said that he didn’t because in <placeName key="England" ref="http://www.wikidata.org/entity/Q21">England</placeName> he would never get to be anybody in particular, but here he was going to be somebody. He sounded very fierce. Walking back to the house I wondered if I was going to be somebody. I’ve never thought of that before.</p>
             </div>
@@ -54129,7 +54210,7 @@
                 <p><date when="1926-10-15">October 15</date></p>
                 <p>Horrible News</p>
                 <p>Children are slaves. Children don’t have any say and they just get pushed around. It is NOT FAIR.</p>
-                <p>At tea Dad announced that we’re moving to town. Since one of the banks closed down there is an extra building and we’re going to rent it and live there and run it as a hotel. He also said that it will be much easier for us to get to school in winter and for William to get to the store. Also, Mr. Battrum has offered Dad work at the <rs key="livery yard" ref="http://www.wikidata.org/entity/Q12061338">livery stables</rs>.</p>
+                <p>At tea Dad announced that we’re moving to town. Since one of the banks closed down there is an extra building and we’re going to rent it and live there and run it as a hotel. He also said that it will be much easier for us to get to school in winter and for William to get to the store. Also, Mr. Battrum has offered Dad work at the <rs key="livery yard" ref="https://likethetree.github.io/reference/#livery-stable">livery stables</rs>.</p>
                 <p>This whole idea is silly. The argument about school is silly. It will be no problem getting to school from the farm. We don’t need to move into town for that. If we can’t ride Dot we can hitch her to a sleigh. I could drive a sleigh. Hans and Elizabeth do. Elizabeth told me all about it. They have hot hard-boiled eggs to keep their hands warm and then they eat the eggs for lunch. It is perfectly fine. I want to drive a sleigh. William could come in the sleigh to work.</p>
                 <p>The VERY WORST THING is that we have to give Dot back to Mr. Burgess. Why don’t I get a say? Women have the vote, but not children. I told Mother and Dad that our family was not a democracy. And they laughed! I am cross as hops. I am going out to the barn to visit Dot and if they think I’m going to do any chores tonight they are wrong. Chores can go hang.</p>
             </div>
@@ -54742,7 +54823,7 @@
                     <l>Spring has come to Saskatchewan.</l>
                 </p>
                 <p>Welkin means sky. I found it in a poem in our reader. It is a very poetic word. I’ll bet it gets me extra points.</p>
-                <p>Abel Butt showed me his piece. It is called “Gumbo.” (Gumbo is Canadian for mud.) It talked about pigweed and ragweed and stinkweed and how the road has turned to greasy gumbo. He said that the crows cawing sounded like Mr. Willis who sits in front of the livery stable, coughing before he spits. He said that you know it is spring when Nyla Muir finally takes off her long underwear.</p>
+                <p>Abel Butt showed me his piece. It is called “Gumbo.” (Gumbo is Canadian for mud.) It talked about pigweed and ragweed and stinkweed and how the road has turned to greasy gumbo. He said that the crows cawing sounded like Mr. Willis who sits in front of the <rs key="livery stable" ref="https://likethetree.github.io/reference/#livery-stable">livery stable</rs>, coughing before he spits. He said that you know it is spring when Nyla Muir finally takes off her long underwear.</p>
                 <p>I don’t think Abel will win because he doesn’t have many descriptive words. (But it is true about Mr. Willis.)</p>
             </div>
             <div type="entry" n="186">
