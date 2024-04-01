@@ -25248,6 +25248,7 @@
 	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240330143448399",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-30T14:34:48.399Z",
+	"dcterms:modified": "2024-04-01T17:35:21.325Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/likethetree",
 		"@type": [
@@ -25279,7 +25280,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "owl:Thing",
-		"@id": "https://images.squarespace-cdn.com/content/v1/53ac1211e4b0a7d6603b36c3/1415744062039-39QN6VRFDJT9KIA4RM8E/image-asset.jpeg?format=1500w",
+		"@id": "https://likethetree.github.io/reference/#gopher",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -26192,7 +26193,7 @@
 	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240329163040821",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-29T16:30:40.821Z",
-	"dcterms:modified": "2024-03-29T16:30:40.821Z",
+	"dcterms:modified": "2024-04-01T17:35:27.397Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/likethetree",
 		"@type": [
@@ -26224,7 +26225,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "owl:Thing",
-		"@id": "https://images.squarespace-cdn.com/content/v1/53ac1211e4b0a7d6603b36c3/1415744062039-39QN6VRFDJT9KIA4RM8E/image-asset.jpeg?format=1500w",
+		"@id": "https://likethetree.github.io/reference/#gopher",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -52822,6 +52823,243 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240401183556580",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-04-01T17:35:56.580Z",
+	"dcterms:modified": "2024-04-01T17:35:56.580Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/likethetree",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Acacia McClay"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240401183556580#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240401183556580#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[201]/p[5]/rs"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "owl:Thing",
+		"@id": "https://likethetree.github.io/reference/#gopher",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240401183619939",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-04-01T17:36:19.939Z",
+	"dcterms:modified": "2024-04-01T17:36:19.939Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/likethetree",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Acacia McClay"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240401183619939#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240401183619939#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[187]/p[5]/l[5]/rs"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "owl:Thing",
+		"@id": "https://likethetree.github.io/reference/#gopher",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240401183648460",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-04-01T17:36:48.460Z",
+	"dcterms:modified": "2024-04-01T17:36:48.460Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/likethetree",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Acacia McClay"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240401183648460#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240401183648460#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[41]/p[4]/rs"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "owl:Thing",
+		"@id": "https://likethetree.github.io/reference/#gopher",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData></teiHeader>
         
     
@@ -53172,7 +53410,7 @@
                 <p><date when="1926-06-15">June 15</date></p>
                 <p>Fiddlesticks</p>
                 <p>We’re not allowed to go to the <rs key="Chautauqua" ref="http://www.wikidata.org/entity/Q119038">Chautauqua</rs>. It costs $2.25 for adults and $1 for children and Mother says that $8.50 would buy a lot of chicken scratch.</p>
-                <p>How can I get a dollar? I could churn butter and sell it to the store but one dollar is a lot of butter. Elizabeth says another way to make money is to kill gophers. You get one cent each for gopher tails, but mostly only boys do it. Even if I were a boy I would NEVER do it. It would be murderous blood money.</p>
+                <p>How can I get a dollar? I could churn butter and sell it to the store but one dollar is a lot of butter. Elizabeth says another way to make money is to kill gophers. You get one cent each for <rs key="gopher" ref="https://likethetree.github.io/reference/#gopher">gopher</rs> tails, but mostly only boys do it. Even if I were a boy I would NEVER do it. It would be murderous blood money.</p>
                 <p>Oh. Just remembered. When I think about money, I think about the cloth under my mattress and the bill coming up at the end of the month.</p>
             </div>
             <div type="entry" n="40">
@@ -53472,7 +53710,7 @@
             <div type="entry" n="79">
                 <p><date when="1926-09-03">September 3</date></p>
                 <p>Lorayne Leaves</p>
-                <p>BIG SECRET: Today the Homemaker’s Club met at our house. Mother spent the morning getting ready and making cakes and a loaf and then after lunch she told us that she didn’t want to see hide nor hair of us. William had a day off from the store so he took the twins off to the swimming hole. They’ve got a rowboat down there now and William is taking some tools and wood down to help fix it. Maybe the boys will be nicer to him when they find out how good he is at carpentry. Maybe that would be as good in stupid boy-thinking as killing <rs key="gophers" ref="https://images.squarespace-cdn.com/content/v1/53ac1211e4b0a7d6603b36c3/1415744062039-39QN6VRFDJT9KIA4RM8E/image-asset.jpeg?format=1500w">gophers</rs>.</p>
+                <p>BIG SECRET: Today the Homemaker’s Club met at our house. Mother spent the morning getting ready and making cakes and a loaf and then after lunch she told us that she didn’t want to see hide nor hair of us. William had a day off from the store so he took the twins off to the swimming hole. They’ve got a rowboat down there now and William is taking some tools and wood down to help fix it. Maybe the boys will be nicer to him when they find out how good he is at carpentry. Maybe that would be as good in stupid boy-thinking as killing <rs key="gophers" ref="https://likethetree.github.io/reference/#gopher">gophers</rs>.</p>
                 <p>But I didn’t feel like going. So I sneaked back into my room by climbing up onto the roof of the <rs key="summer kitchen" ref="http://www.wikidata.org/entity/Q109287424">summer kitchen</rs>. I thought as long as I was hiding my hide and hair it would be all right. Then I listened down the hole. Here’s what I found out. Lorayne has disappeared. And so has Howard Ellingson. Everybody thinks they have gone off together to <placeName key="Regina" ref="http://www.wikidata.org/entity/Q2123">Regina</placeName>. But Howard Ellingson has been engaged to Lois Fizzell for two years. They were only waiting until Howard got his own quarter section and then they were going to be married. Mr. and Mrs. Fizzell are furious. Mr. and Mrs. Ellingson are mortified. Mrs. Johnstone is so embarrassed that she didn’t even come to the Homemaker’s Club. (Although somebody said, “It is not poor Edna Johnstone’s fault. How was she to know?”) Lois Fizzell is so upset that she has gone to stay with her married sister in <placeName key="Swift Current" ref="http://www.wikidata.org/entity/Q619937">Swift Current</placeName>. Then all the voices said that they weren’t surprised, that Lorayne was fast and a flirt and a flapper and no better than she looked. They said that that’s what comes of going off to <placeName key="Regina" ref="http://www.wikidata.org/entity/Q2123">Regina</placeName> to study cosmetology, that that’s what comes of going to too many moving pictures, and that Lois Fizzell was better off without Howard Ellingson because a man who could throw his whole life away on a well-turned ankle was not worth having anyway.</p>
                 <p>I don’t know. I guess it’s wrong to steal somebody’s fiancée. But it’s not like he was kidnapped like Catharine. He must have wanted to go. So why is Lorayne the bad one? Anyway, I want to write this down. I like Miss Lorayne LaMott. I wish she had stayed longer. She is pretty and kind and interesting and she made me feel like somebody. I hope she gets to <placeName key="cinema of the United States" ref="http://www.wikidata.org/entity/Q380675">Hollywood</placeName> and gets to be in pictures.</p>
             </div>
@@ -53494,7 +53732,7 @@
                 <p><date when="1926-09-07">September 7</date></p>
                 <p>First Day of School</p>
                 <p>Finally! I’ve been wondering about school ever since we came to <placeName key="Canada" ref="http://www.wikidata.org/entity/Q16">Canada</placeName>. The best thing was riding Dot. As we were riding along the road I thought of Ethel starting the term at <placeName key="Sandringham Road School" ref="https://sandringham.newham.sch.uk/">Sandringham Road School</placeName> and I wished that she was sitting on a fence along the road looking at me go by. Ivy Weatherall, barefoot Canadian farm girl, riding a horse to school! Second-best thing was our teacher, Miss Hutchinson. She’s lovely. She has <rs key="bobbed" ref="https://likethetree.github.io/reference/#bobbed-hair">bobbed</rs> hair, very clean fingernails and a soft voice. She welcomed “our English newcomers.” Gladys and Harry were a bit scared because it is their very first day of school and Miss Hutchinson was kind and jokey with them.</p>
-                <p>Here is what the school is like. When you go in there is a porch with a shelf to put your lunch pail. If you forget and leave it on the floor <rs key="gophers" ref="https://images.squarespace-cdn.com/content/v1/53ac1211e4b0a7d6603b36c3/1415744062039-39QN6VRFDJT9KIA4RM8E/image-asset.jpeg?format=1500w">gophers</rs> come in and steal your lunch. Elizabeth told me that last year people’s lunches started disappearing and everyone was blaming everyone else. It turned out that the little boy who lives across the street was wandering in and helping himself to the nicest things.</p>
+                <p>Here is what the school is like. When you go in there is a porch with a shelf to put your lunch pail. If you forget and leave it on the floor <rs key="gophers" ref="https://likethetree.github.io/reference/#gopher">gophers</rs> come in and steal your lunch. Elizabeth told me that last year people’s lunches started disappearing and everyone was blaming everyone else. It turned out that the little boy who lives across the street was wandering in and helping himself to the nicest things.</p>
                 <p>In <placeName key="Canada" ref="http://www.wikidata.org/entity/Q16">Canada</placeName> they have grades, not forms, and I am in grade six. The other grade sixes are Elizabeth, Klaus Berg, Toffee-Nose and the home-run boy with the pig, Abel Butt. I get to sit with Elizabeth. Harry and Gladys sit together. Gladys didn’t know that she was supposed to stay at her desk so she kept coming over to sit with me. When Miss Hutchinson said she had to stay at her desk she cried so Miss H. said she could sit with me just for one day. By lunchtime she was feeling happy. She stood on her head in the schoolyard and her knickers showed.</p>
                 <p>At the front of the classroom is the teacher’s desk on a little stage. Today there was a jam jar with flowers. Miss H. decorated the tops of the blackboards with birds and flowers in coloured chalk. She is a good artist.</p>
                 <p>At the back there is a black stove and at the side is a bench with a pail of water and a tin cup.</p>
@@ -54257,7 +54495,7 @@
                     <l>are blooming merrily in the pasture.</l>
                     <l>The merry musical meadowlark</l>
                     <l>sings her lovely song to the azure welkin.</l>
-                    <l>The curious winsome gopher wakes up</l>
+                    <l>The curious winsome <rs key="gopher" ref="https://likethetree.github.io/reference/#gopher">gopher</rs> wakes up</l>
                     <l>from his long winter’s sleep</l>
                     <l>and pops up his little furry head.</l>
                     <l>Spring has come to Saskatchewan.</l>
@@ -54376,7 +54614,7 @@
                     <l>2. I heard William talking in the kitchen. Usually he has left for the store by the time I wake up.</l>
                     <l>3. Gladys was standing at the window, jumping up and down and singing, “Snow, snow, snow.”</l>
                 </p>
-                <p>It is not just snow but deep snow and blowing so we can’t go to school. Good. It was going to be a grammar bee. Grammar has a lot of ways to be wrong and hardly any ways to be right. After I finish this I’m going to write to Auntie Lou and tell her that here it is five days before Easter and it is snowing. She will be amazed. I guess Elizabeth wasn’t exaggerating when she said that you have to keep your long underwear on until the 24th of May. I’ll bet that gopher has gone back underground.</p>
+                <p>It is not just snow but deep snow and blowing so we can’t go to school. Good. It was going to be a grammar bee. Grammar has a lot of ways to be wrong and hardly any ways to be right. After I finish this I’m going to write to Auntie Lou and tell her that here it is five days before Easter and it is snowing. She will be amazed. I guess Elizabeth wasn’t exaggerating when she said that you have to keep your long underwear on until the 24th of May. I’ll bet that <rs key="gopher" ref="https://likethetree.github.io/reference/#gopher">gopher</rs> has gone back underground.</p>
             </div>
             <div type="entry" n="200">
                 <p><date when="1927-04-13">April 13</date></p>
