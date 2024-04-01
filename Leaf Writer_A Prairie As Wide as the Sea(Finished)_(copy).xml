@@ -5335,6 +5335,7 @@
 	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240328164506385",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-28T16:45:06.385Z",
+	"dcterms:modified": "2024-04-01T17:46:03.036Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/likethetree",
 		"@type": [
@@ -5366,7 +5367,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "owl:Thing",
-		"@id": "http://www.wikidata.org/entity/Q144101",
+		"@id": "https://likethetree.github.io/reference/#toboggan",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -10484,6 +10485,7 @@
 	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240328171041104",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-28T17:10:41.104Z",
+	"dcterms:modified": "2024-04-01T17:45:44.796Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/likethetree",
 		"@type": [
@@ -10515,7 +10517,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "owl:Thing",
-		"@id": "http://www.wikidata.org/entity/Q60750699",
+		"@id": "https://likethetree.github.io/reference/#saskatoon-pie",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -53492,7 +53494,7 @@
             </div>
             <div type="entry" n="13">
                 <p><date when="1926-05-13">May 13</date></p>
-                <p>Today Dad got out his <title key="Canada West" ref="https://thediscoverblog.files.wordpress.com/2017/05/e008748903-v8.jpg" level="m">Canada West</title> booklet and read us bits. This is the booklet that tells us everything we need to know. It has a lovely coloured cover with a picture of a farmer holding an armful of grain in one hand and a fat baby in the other. The baby is holding a carrot as big as his head. First of all Dad read us the stories of people who got rich in <placeName key="Canada" ref="http://www.wikidata.org/entity/Q16">Canada</placeName>. One man arrived with 27¢ and now he has 200 acres of wheat and 20 cows. Another man made $5000 (that’s more than £1000!) in one year fattening pigs. Then Dad told us what amusements there are in <placeName key="Canada" ref="http://www.wikidata.org/entity/Q16">Canada</placeName>, like <rs key="ice hockey" ref="http://www.wikidata.org/entity/Q41466">hockey</rs>, <placeName key="Canadian football" ref="http://www.wikidata.org/entity/Q248534"/><rs key="Canadian football" ref="http://www.wikidata.org/entity/Q248534">football</rs> and <rs key="toboggan" ref="http://www.wikidata.org/entity/Q144101">tobogganing</rs>. I just can’t wait for winter for snow.</p>
+                <p>Today Dad got out his <title key="Canada West" ref="https://thediscoverblog.files.wordpress.com/2017/05/e008748903-v8.jpg" level="m">Canada West</title> booklet and read us bits. This is the booklet that tells us everything we need to know. It has a lovely coloured cover with a picture of a farmer holding an armful of grain in one hand and a fat baby in the other. The baby is holding a carrot as big as his head. First of all Dad read us the stories of people who got rich in <placeName key="Canada" ref="http://www.wikidata.org/entity/Q16">Canada</placeName>. One man arrived with 27¢ and now he has 200 acres of wheat and 20 cows. Another man made $5000 (that’s more than £1000!) in one year fattening pigs. Then Dad told us what amusements there are in <placeName key="Canada" ref="http://www.wikidata.org/entity/Q16">Canada</placeName>, like <rs key="ice hockey" ref="http://www.wikidata.org/entity/Q41466">hockey</rs>, <placeName key="Canadian football" ref="http://www.wikidata.org/entity/Q248534"/><rs key="Canadian football" ref="http://www.wikidata.org/entity/Q248534">football</rs> and <rs key="toboggan" ref="https://likethetree.github.io/reference/#toboggan">tobogganing</rs>. I just can’t wait for winter for snow.</p>
                 <p>The booklet said that “distance and isolation have disappeared” because of the radio. (That’s Canadian for wireless.) I hope Uncle Alf has one. Then Dad read about how a man who has health, industry and good habits will be a sure success and how that sounded just like him. Mother snorted. He told us that luggage is called baggage, that a three-strand barbed wire fence costs $150 a mile and that there is absolutely no <rs key="malaria" ref="http://www.wikidata.org/entity/Q12156">malaria</rs> in <placeName key="Canada" ref="http://www.wikidata.org/entity/Q16">Canada</placeName>.</p>
                 <p>Then William got larky and took over and read the tiny print on the inside of the cover that tells you who isn’t allowed into <placeName key="Canada" ref="http://www.wikidata.org/entity/Q16">Canada</placeName>. They are vagrants, idiots and anarchists. (They forgot to say cats.) Harry said what’s an anarchist. Mother said they blow things up and Harry said he wanted to be an anarchist. Dad said that was fine as long as nobody told the minister of immigration. The best words were “persons of constitutional psychopathic inferiority.” This could be a useful insult. The twins practised saying it, over and over again, until Mother made them stop. Then they mouthed the words without saying them.</p>
             </div>
@@ -53609,7 +53611,7 @@
             <div type="entry" n="25">
                 <p>May 23</p>
                 <p>Ivy on Horseback</p>
-                <p>Today we had callers. They came in a wagon from a nearby farm. They were a lady named Mrs. Muller, a boy named Hans, and a girl named Elizabeth. Mrs. Muller brought two <rs key="Saskatoon berry pie" ref="http://www.wikidata.org/entity/Q60750699">saskatoon berry pies</rs> to welcome us to <placeName key="Canada" ref="http://www.wikidata.org/entity/Q16">Canada</placeName>. They were scrumptious. I don’t think we have <rs key="Saskatoon Berries" ref="https://likethetree.github.io/reference/#saskatoon-berries">saskatoon berries</rs> in <placeName key="England" ref="http://www.wikidata.org/entity/Q21">England</placeName>.</p>
+                <p>Today we had callers. They came in a wagon from a nearby farm. They were a lady named Mrs. Muller, a boy named Hans, and a girl named Elizabeth. Mrs. Muller brought two <rs key="Saskatoon berry pie" ref="https://likethetree.github.io/reference/#saskatoon-pie">saskatoon berry pies</rs> to welcome us to <placeName key="Canada" ref="http://www.wikidata.org/entity/Q16">Canada</placeName>. They were scrumptious. I don’t think we have <rs key="Saskatoon Berries" ref="https://likethetree.github.io/reference/#saskatoon-berries">saskatoon berries</rs> in <placeName key="England" ref="http://www.wikidata.org/entity/Q21">England</placeName>.</p>
                 <p>Mother liked Mrs. Muller right away because she said her name was Gwyneth and Mother said was she Welsh and she said that her father was and then Mother said “So was my father” and then they just started talking and talking. Mr. Muller didn’t come to visit. He’s not Welsh. He’s German.</p>
                 <p>Elizabeth is just my age. She likes to read. I told her about <title key="Lost in the Backwoods" ref="https://books.google.ie/books/about/Lost_in_the_Backwoods_Esprios_Classics.html?id=UtxezgEACAAJ&amp;source=kp_book_description&amp;redir_esc=y">Lost in the Backwoods</title> and she would like to borrow it when I’m done. She has a book called <title key="Anne of Green Gables" ref="http://www.wikidata.org/entity/Q565911">Anne of Green Gables</title> that she is going to bring me. It sounds super. Now I don’t need to make myself go slow with <title key="Lost in the Backwoods" ref="https://books.google.ie/books/about/Lost_in_the_Backwoods_Esprios_Classics.html?id=UtxezgEACAAJ&amp;source=kp_book_description&amp;redir_esc=y">Lost in the Backwoods</title>.</p>
                 <p>Elizabeth told me about school. There are only twenty-three students in the whole school and three of them are her and two of her brothers. She has four brothers and no sisters. Her brothers are Otto (2), Herman (6), Hans (13), and Gerhard (16). There is only one teacher for everyone. I said that would be terrible if you didn’t like the teacher. I was thinking of Toad Eyes at home. Elizabeth said that it was because last year they had a horrid man who beat the big boys and frightened the little ones. But this year they have a nice teacher named Miss Hutchinson. I hope she stays until next year when I go to school. Elizabeth said Miss Hutchinson plays <rs key="baseball" ref="http://www.wikidata.org/entity/Q5369">baseball</rs> with them at recess. (I didn’t know what baseball was so Elizabeth told me. It sounds a bit like <rs key="rounders" ref="http://www.wikidata.org/entity/Q1075286">rounders</rs>.) This made me want to go to school right away, but Mother says there isn’t any point so late in the year.</p>
