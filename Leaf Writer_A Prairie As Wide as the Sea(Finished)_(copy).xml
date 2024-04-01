@@ -9070,7 +9070,7 @@
 	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240328170420655",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-28T17:04:20.655Z",
-	"dcterms:modified": "2024-04-01T16:05:42.386Z",
+	"dcterms:modified": "2024-04-01T16:30:57.957Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/likethetree",
 		"@type": [
@@ -9102,7 +9102,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "owl:Thing",
-		"@id": "https://github.com/likethetree/likethetree.github.io/blob/main/reference.markdown#bobbed-hair",
+		"@id": "https://likethetree.github.io/reference/#bobbed-hair",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -51825,7 +51825,7 @@
 	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240401170645423",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-01T16:06:45.423Z",
-	"dcterms:modified": "2024-04-01T16:06:45.423Z",
+	"dcterms:modified": "2024-04-01T16:31:13.311Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/likethetree",
 		"@type": [
@@ -51857,7 +51857,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "owl:Thing",
-		"@id": "https://github.com/likethetree/likethetree.github.io/blob/main/reference.markdown#bobbed-hair",
+		"@id": "https://likethetree.github.io/reference/#bobbed-hair",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -52059,7 +52059,7 @@
                 <p>All my life I’ve wanted to sleep out under the stars and last night I did! (But not on the roof.) Uncle Alf put a couple of straw mattresses out for William and me. The moon was so bright it made shadows. I kept waking up and wondering where I was and why I wasn’t moving.</p>
                 <p>Chickens wake up very early. William and I went down the road a bit before anyone else stirred. We saw little furry creatures who pop out of holes and have a look round and pop down again. They are dear. I picked some flowers. (If I were Catharine I would know all their common and Latin names but I’m not and I don’t.) When we got back I gave the flowers to Auntie Millie and she got sad and said they would die right away and how much she missed her rose garden at home in <placeName key="England" ref="http://www.wikidata.org/entity/Q21">England</placeName>.</p>
                 <p>She cheered up after breakfast and tried to teach me to milk Sally. It is much harder than it looks. I couldn’t manage it. The cow kept turning her head and giving me a comical look.</p>
-                <p>Auntie Millie is very pretty. She has <rs key="bob cut" ref="https://github.com/likethetree/likethetree.github.io/blob/main/reference.markdown#bobbed-hair">bobbed hair</rs>. I long to have <rs key="bobbed hair" ref="https://github.com/likethetree/likethetree.github.io/blob/main/reference.markdown#bobbed-hair">bobbed hair</rs>. She told me that she used to take me for walks in my pram when I was a baby. She wanted to know all about home and had I been to the pictures and did I remember the fireworks on Halley Road at the <rs key="Armistice Day" ref="http://www.wikidata.org/entity/Q6597183">Armistice Celebrations</rs>. She said she would give anything to put on a nice hat and take the tram into the centre of <placeName key="London" ref="http://www.wikidata.org/entity/Q84">London</placeName> and have tea at <placeName key="J. Lyons and Co." ref="http://www.wikidata.org/entity/Q6106384">Lyons Corner House</placeName>.</p>
+                <p>Auntie Millie is very pretty. She has <rs key="bob cut" ref="https://likethetree.github.io/reference/#bobbed-hair">bobbed hair</rs>. I long to have <rs key="bobbed hair" ref="https://likethetree.github.io/reference/#bobbed-hair">bobbed hair</rs>. She told me that she used to take me for walks in my pram when I was a baby. She wanted to know all about home and had I been to the pictures and did I remember the fireworks on Halley Road at the <rs key="Armistice Day" ref="http://www.wikidata.org/entity/Q6597183">Armistice Celebrations</rs>. She said she would give anything to put on a nice hat and take the tram into the centre of <placeName key="London" ref="http://www.wikidata.org/entity/Q84">London</placeName> and have tea at <placeName key="J. Lyons and Co." ref="http://www.wikidata.org/entity/Q6106384">Lyons Corner House</placeName>.</p>
                 <p>Lyons is jolly but I’d rather learn to milk Sally and drive a team.</p>
                 <p>After dinner Mr. Burgess who runs the <rs key="general store" ref="http://www.wikidata.org/entity/Q1244860">general store</rs> arrived and everybody looked serious and Mother sent me away with the twins and Baby Jack. That’s where I am now. Banished to the fields. Baby Jack can walk if you hold his hands. Harry and Gladys are making him laugh by pulling faces.</p>
                 <p>I wonder what is happening back at the house. Felt like some grown-ups-only secret when Mother shoved me out the door. William will tell me.</p>
