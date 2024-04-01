@@ -1049,6 +1049,7 @@
 	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240328172915929",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-28T17:29:15.929Z",
+	"dcterms:modified": "2024-04-01T17:31:03.012Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/likethetree",
 		"@type": [
@@ -1080,7 +1081,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "owl:Thing",
-		"@id": "https://www.pendemonium.com/sites/default/files/styles/large/public/con68_7.jpg?itok=d-ByNhlC",
+		"@id": "https://likethetree.github.io/reference/#fountain-pen",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -2873,84 +2874,6 @@
 	"oa:hasBody": {
 		"@type": "xsd:date",
 		"rdf:value": "1926-05-09"
-	},
-	"as:generator": {
-		"@id": "https://leaf-writer.leaf-vre.org",
-		"@type": "as:Application",
-		"rdfs:label": "LEAF-Writer",
-		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.4.0"
-	}
-}]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
-	"@context": {
-		"dcterms:created": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:created"
-		},
-		"dcterms:issued": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:issued"
-		},
-		"oa:motivatedBy": {
-			"@type": "oa:Motivation"
-		},
-		"@language": "en",
-		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
-		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-		"as": "http://www.w3.org/ns/activitystreams#",
-		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
-		"dc": "http://purl.org/dc/elements/1.1/",
-		"dcterms": "http://purl.org/dc/terms/",
-		"foaf": "http://xmlns.com/foaf/0.1/",
-		"geo": "http://www.geonames.org/ontology#",
-		"oa": "http://www.w3.org/ns/oa#",
-		"schema": "http://schema.org/",
-		"xsd": "http://www.w3.org/2001/XMLSchema#",
-		"fabio": "https://purl.org/spar/fabio#",
-		"bf": "http://www.openlinksw.com/schemas/bif#",
-		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
-		"org": "http://www.w3.org/ns/org#"
-	},
-	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240328163238934",
-	"type": "oa:Annotation",
-	"dcterms:created": "2024-03-28T16:32:38.934Z",
-	"dcterms:creator": {
-		"@id": "https://github.com/likethetree",
-		"@type": [
-			"cwrc:NaturalPerson",
-			"schema:Person"
-		],
-		"cwrc:hasName": "Acacia McClay"
-	},
-	"oa:motivatedBy": "oa:identifying",
-	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240328163238934#Target",
-		"@type": "oa:SpecificResource",
-		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml",
-			"@type": "dctypes:Text",
-			"dc:format": "text/xml"
-		},
-		"oa:renderedVia": {
-			"@id": "https://leaf-writer.leaf-vre.org",
-			"@type": "as:Application",
-			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.4.0"
-		},
-		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240328163238934#Selector",
-			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[10]/p[2]/rs"
-		}
-	},
-	"oa:hasBody": {
-		"@type": "owl:Thing",
-		"@id": "http://www.wikidata.org/entity/Q3273392",
-		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -52658,6 +52581,85 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240401183036023",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-04-01T17:30:36.023Z",
+	"dcterms:modified": "2024-04-01T17:30:36.023Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/likethetree",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Acacia McClay"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240401183036023#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240401183036023#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[10]/p[2]/rs"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "owl:Thing",
+		"@id": "https://likethetree.github.io/reference/#deck-quoits",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData></teiHeader>
         
     
@@ -52685,7 +52687,7 @@
             <div type="entry" n="1">
                 <p><date when="1926-05-01">May 1, 1926</date></p>
                 <p><placeName key="107 Halley Road" ref="https://www.google.com/maps/place/107+Halley+Rd,+London+E7+8DX,+UK/@51.5447287,0.0373236,19.49z/data=!4m15!1m8!3m7!1s0x47d8a7a3b9417f29:0x9f64c757238c31d2!2sForest+Gate,+London,+UK!3b1!8m2!3d51.5439215!4d0.0264272!16zL20vMDNzbXA3!3m5!1s0x47d8a7b046034ec3:0xbbdf45f8194e9550!8m2!3d51.544946!4d0.0374327!16s%2Fg%2F11c22y4qwm?entry=ttu">107 Halley Road</placeName>, <placeName key="Forest Gate" ref="http://www.wikidata.org/entity/Q1656032">Forest Gate</placeName>, <placeName key="City of London" ref="http://www.wikidata.org/entity/Q23311">London</placeName>, <placeName key="England" ref="http://www.wikidata.org/entity/Q21">England</placeName></p>
-                <p>My name is Ivy Doris Weatherall. I am eleven years old. This is the first diary I have ever had. Auntie Lou gave it to me because she said that I was starting the greatest adventure of my life and I should record it. The greatest adventure is that we are emigrating to <placeName key="Canada" ref="http://www.wikidata.org/entity/Q16">Canada</placeName>. Auntie Lou also gave me a <rs key="fountain pen" ref="https://www.pendemonium.com/sites/default/files/styles/large/public/con68_7.jpg?itok=d-ByNhlC">fountain pen</rs>. I am going to use my best penmanship and I am going to write every day. She also gave me a book called <title key="Lost in the Backwoods" ref="https://books.google.ie/books/about/Lost_in_the_Backwoods_Esprios_Classics.html?id=UtxezgEACAAJ&amp;source=kp_book_description&amp;redir_esc=y" level="s">Lost in the Backwoods</title>, which is a Canadian story. Auntie Lou is the kindest relative. I wish she were coming to <placeName key="Canada" ref="http://www.wikidata.org/entity/Q16">Canada</placeName> too.</p>
+                <p>My name is Ivy Doris Weatherall. I am eleven years old. This is the first diary I have ever had. Auntie Lou gave it to me because she said that I was starting the greatest adventure of my life and I should record it. The greatest adventure is that we are emigrating to <placeName key="Canada" ref="http://www.wikidata.org/entity/Q16">Canada</placeName>. Auntie Lou also gave me a <rs key="fountain pen" ref="https://likethetree.github.io/reference/#fountain-pen">fountain pen</rs>. I am going to use my best penmanship and I am going to write every day. She also gave me a book called <title key="Lost in the Backwoods" ref="https://books.google.ie/books/about/Lost_in_the_Backwoods_Esprios_Classics.html?id=UtxezgEACAAJ&amp;source=kp_book_description&amp;redir_esc=y" level="s">Lost in the Backwoods</title>, which is a Canadian story. Auntie Lou is the kindest relative. I wish she were coming to <placeName key="Canada" ref="http://www.wikidata.org/entity/Q16">Canada</placeName> too.</p>
                 <p>We leave tomorrow. All our things are packed into trunks and hampers. We are camping in our house. Tonight all the relatives are coming to say goodbye. I can’t wait until tomorrow. I wish I could snap my fingers and make it be now. I wish I were a conjurer. I would pull tomorrow out of a hat.</p>
                 <p>Mother just came and said I should go down to the pub and fetch Dad. He’s saying goodbye to his mates. I told her I was busy recording the greatest adventure of my life and why couldn’t William go. She said I was being cheeky and I had five minutes and then she wanted to see the back of me going out the door.</p>
                 <p>So now I am just going to write some facts. We are Mother, Dad, William (14), me, and the twins, Harry and Gladys (6). We are emigrating to Milorie, <placeName key="Saskatchewan" ref="http://www.wikidata.org/entity/Q1989">Saskatchewan</placeName>, where our Uncle Alf has a ranch. A ranch is like a farm with horses and cows, but much grander.</p>
@@ -52740,7 +52742,7 @@
             </div>
             <div type="entry" n="8">
                 <p><date when="1926-05-09">May 9</date></p>
-                <p>The captain of this ship is a fine gentleman. Today Dad and William were having a game of deck <rs key="quoits" ref="http://www.wikidata.org/entity/Q3273392">quoits</rs> and the captain walked by. He looks lovely, so polished and clean with a perfect black beard. He asked if he could join the game and then William won! Can girls be sea captains? If they can I would be one, just like ours. Friendly and not proud. (But I wouldn’t like to have a beard.)</p>
+                <p>The captain of this ship is a fine gentleman. Today Dad and William were having a game of <rs key="deck quoits" ref="https://likethetree.github.io/reference/#deck-quoits">deck quoits</rs> and the captain walked by. He looks lovely, so polished and clean with a perfect black beard. He asked if he could join the game and then William won! Can girls be sea captains? If they can I would be one, just like ours. Friendly and not proud. (But I wouldn’t like to have a beard.)</p>
                 <p>This evening William entertained the twins by   reading them names from the map of <placeName key="Canada" ref="http://www.wikidata.org/entity/Q16">Canada</placeName>. “<placeName key="Moose Jaw" ref="http://www.wikidata.org/entity/Q1019496">Moose Jaw</placeName>” and “<placeName key="Medicine Hat" ref="http://www.wikidata.org/entity/Q368241">Medicine Hat</placeName>” made them laugh so much they got the hiccups. Mother says it is all very well to laugh at Canadian place names, but remember, we come from a country that has places like “<placeName key="Wigglesworth" ref="http://www.wikidata.org/entity/Q2611875">Wigglesworth</placeName>.”</p>    
             </div>
             <div type="entry" n="9">
