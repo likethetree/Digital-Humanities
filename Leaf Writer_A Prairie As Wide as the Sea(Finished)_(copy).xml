@@ -8060,7 +8060,7 @@
 	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240329152433177",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-29T15:24:33.177Z",
-	"dcterms:modified": "2024-04-01T17:39:38.405Z",
+	"dcterms:modified": "2024-04-01T17:40:31.845Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/likethetree",
 		"@type": [
@@ -23914,7 +23914,7 @@
 	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240329160822846",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-29T16:08:22.846Z",
-	"dcterms:modified": "2024-04-01T17:40:01.801Z",
+	"dcterms:modified": "2024-04-01T17:41:08.470Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/likethetree",
 		"@type": [
@@ -30757,7 +30757,7 @@
 	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240329165252505",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-29T16:52:52.505Z",
-	"dcterms:modified": "2024-03-29T16:52:52.505Z",
+	"dcterms:modified": "2024-04-01T17:41:23.339Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/likethetree",
 		"@type": [
@@ -30789,7 +30789,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "owl:Thing",
-		"@id": "http://www.wikidata.org/entity/Q12061338",
+		"@id": "https://likethetree.github.io/reference/#livery-stable",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -53143,6 +53143,164 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240401184016952",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-04-01T17:40:16.952Z",
+	"dcterms:modified": "2024-04-01T17:40:16.952Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/likethetree",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Acacia McClay"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240401184016952#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240401184016952#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[19]/p[5]/rs"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "owl:Thing",
+		"@id": "https://likethetree.github.io/reference/#livery-stable",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240401184046912",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-04-01T17:40:46.912Z",
+	"dcterms:modified": "2024-04-01T17:40:46.912Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/likethetree",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Acacia McClay"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240401184046912#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240401184046912#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[32]/p[4]/rs"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "owl:Thing",
+		"@id": "https://likethetree.github.io/reference/#livery-stable",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData></teiHeader>
         
     
@@ -53283,7 +53441,7 @@
                 <p><placeName key="Winnipeg" ref="http://www.wikidata.org/entity/Q2135">Winnipeg</placeName>, <placeName key="Manitoba" ref="http://www.wikidata.org/entity/Q1948">Manitoba</placeName></p>
                 <p>We’re on a new train. This line is called the <rs key="Canadian Pacific Railway" ref="http://www.wikidata.org/entity/Q46974">Canadian Pacific</rs>. Everyone is asking why the train isn’t leaving. We had a few hours in this city, which is called <placeName key="Winnipeg" ref="http://www.wikidata.org/entity/Q2135">Winnipeg</placeName>. At school there were two sisters called Winnie and Peggy Plumley. They should come and live here.</p>
                 <p>We went to a Chinese restaurant. I was a bit scared because I have never seen a Chinese person before and in Magnet magazine all the Chinese men have long moustaches and long knives. But it wasn’t like that. In real life the Chinese restaurant man was just ordinary. Had a joke with the twins. The only knife he had was the one he used to cut the blueberry pie. Blueberry pie must be a Canadian food. It is lovely. The twins had blue mouths. We sat at a counter with red stools that twirled.</p>
-                <p>Then we went for a walk. We saw a sign on a livery stable that said, “Help Wanted. Englishmen Need Not Apply.” Mother said wasn’t that a fine welcome. I don’t understand. In the <title key="Canada West" ref="https://thediscoverblog.files.wordpress.com/2017/05/e008748903-v8.jpg">Canada West</title> book it says that Canadians want English people to come. What if nobody likes us? But that’s rushing to meet trouble halfway and I’m not going to. It is probably just one grumpy livery man.</p>
+                <p>Then we went for a walk. We saw a sign on a <rs key="livery stable" ref="https://likethetree.github.io/reference/#livery-stable">livery stable</rs> that said, “Help Wanted. Englishmen Need Not Apply.” Mother said wasn’t that a fine welcome. I don’t understand. In the <title key="Canada West" ref="https://thediscoverblog.files.wordpress.com/2017/05/e008748903-v8.jpg">Canada West</title> book it says that Canadians want English people to come. What if nobody likes us? But that’s rushing to meet trouble halfway and I’m not going to. It is probably just one grumpy livery man.</p>
                 <p>Anyway, the horses were lovely. I peeked in. But Mother said come along. I wanted to say, “Where does it say ‘English Girls Need Not Peek?’” But I didn’t because that would be cheeky.</p>
                 <p>First Chinaman. First blueberry pie. First twirly stool.</p>
             </div>
@@ -53418,7 +53576,7 @@
                 <p><date when="1926-06-01">June 1</date></p>
                 <p>Cotton Confusion</p>
                 <p>I’m in trouble again. I think I was born under an unlucky star. It started when we went to visit Auntie Millie. Auntie Millie and Mother were sitting and talking and mending. Auntie Millie’s mending basket was overflowing. I think Mother was trying to get Auntie Millie to buck up. Mother likes people to buck up and buckle down. Especially me.</p>
-                <p>But they ran out of cotton. Dad and Uncle Alf were going into town anyway so I went with them to go to the store and buy some. I was a bit shy to go into the store alone but I did. Dad and Uncle Alf went off to the livery stables to see about a job for Dad. (There wasn’t one.) First thing I saw in the store was William. He was wearing a long blue apron and serving a woman and he didn’t see me at first. Just for a minute he looked like a grown-up that I didn’t even know. Then he saw me and grinned and he was himself again. If only he had served me. But he doesn’t do that part of the store.</p>
+                <p>But they ran out of cotton. Dad and Uncle Alf were going into town anyway so I went with them to go to the store and buy some. I was a bit shy to go into the store alone but I did. Dad and Uncle Alf went off to the <rs key="livery stables" ref="https://likethetree.github.io/reference/#livery-stable">livery stables</rs> to see about a job for Dad. (There wasn’t one.) First thing I saw in the store was William. He was wearing a long blue apron and serving a woman and he didn’t see me at first. Just for a minute he looked like a grown-up that I didn’t even know. Then he saw me and grinned and he was himself again. If only he had served me. But he doesn’t do that part of the store.</p>
                 <p>Instead it was Mrs. Burgess. When I asked for white cotton she said, “Plain white cotton?” I said yes, wondering if they have some fancy kind in <placeName key="Canada" ref="http://www.wikidata.org/entity/Q16">Canada</placeName>. Then she said, “How many yards?” This seemed like a funny question but I tried to be resourceful so I thought maybe they sell cotton by the yard in <placeName key="Canada" ref="http://www.wikidata.org/entity/Q16">Canada</placeName>, rather than by the spool, so I guessed and said, “Five yards.” Then she reached up to a shelf and pulled down a bolt of white cloth! She began to unroll it on the counter. Wham! Wham! Wham! Then she took out a huge pair of scissors. I knew I should have said something but I got tongue-tied. She began to cut. The sound of the scissors made my blood run cold. Then she folded the cloth into a neat package and said, “Do you also need some thread, dear?”</p>
                 <p>Thread! That’s what Canadians call cotton. All I could do was nod. Then she wrote it all in a book and I left.</p>
                 <p>I hid the cloth when I got to Auntie Millie’s and gave the cotton, I mean the thread, to Mother. What will happen at the end of the month when they go to pay the bill? I’ll probably have to go to debtor’s prison and live on scraps of bread and only have rats for company. This would never happen to Catharine. I wish I lived in the wilderness.</p>
@@ -53960,7 +54118,7 @@
             <div type="entry" n="104">
                 <p><date when="1926-10-12">October 12</date></p>
                 <p>Worry</p>
-                <p>Dot is sick. When I went to get her from the barn after school she was lying down and she wouldn’t get up. I didn’t know what to do but Miss Hutchinson said I should go to the <rs key="livery yard" ref="http://www.wikidata.org/entity/Q12061338">livery stable</rs> and get Mr. Battrum. He said that it was likely <rs key="colic" ref="http://www.wikidata.org/entity/Q13522706">colic</rs> and he came over to the school with some ginger and <rs key="turpentine" ref="http://www.wikidata.org/entity/Q201382">turpentine</rs>. But Dot still didn’t get up. Mr. Battrum said it would take a while and we should just walk home. He said he would keep an eye on Dot until tomorrow. It was a long sad walk home. Harry held my hand and tried to cheer me up by saying riddles. I wish I could have stayed with Dot. I love her.</p>
+                <p>Dot is sick. When I went to get her from the barn after school she was lying down and she wouldn’t get up. I didn’t know what to do but Miss Hutchinson said I should go to the <rs key="livery yard" ref="https://likethetree.github.io/reference/#livery-stable">livery stable</rs> and get Mr. Battrum. He said that it was likely <rs key="colic" ref="http://www.wikidata.org/entity/Q13522706">colic</rs> and he came over to the school with some ginger and <rs key="turpentine" ref="http://www.wikidata.org/entity/Q201382">turpentine</rs>. But Dot still didn’t get up. Mr. Battrum said it would take a while and we should just walk home. He said he would keep an eye on Dot until tomorrow. It was a long sad walk home. Harry held my hand and tried to cheer me up by saying riddles. I wish I could have stayed with Dot. I love her.</p>
             </div>
             <div type="entry" n="105">
                 <p><date when="1926-10-13">October 13</date></p>
