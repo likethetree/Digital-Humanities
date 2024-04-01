@@ -1127,7 +1127,7 @@
 	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240328161951229",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-28T16:19:51.229Z",
-	"dcterms:modified": "2024-03-31T18:18:07.297Z",
+	"dcterms:modified": "2024-04-01T17:29:15.485Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/likethetree",
 		"@type": [
@@ -1159,7 +1159,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "owl:Thing",
-		"@id": "http://dbpedia.org/resource/Cadbury",
+		"@id": "https://likethetree.github.io/reference/#cadbury-chocolate",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -4943,6 +4943,7 @@
 	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240328173212780",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-28T17:32:12.780Z",
+	"dcterms:modified": "2024-04-01T17:29:45.367Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/likethetree",
 		"@type": [
@@ -4974,7 +4975,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "owl:Thing",
-		"@id": "https://www.ctvnews.ca/polopoly_fs/1.4102679.1537469132!/httpImage/image.jpg_gen/derivatives/landscape_620/image.jpg",
+		"@id": "https://likethetree.github.io/reference/#colonist-car",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -52578,6 +52579,85 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240401182846462",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-04-01T17:28:46.462Z",
+	"dcterms:modified": "2024-04-01T17:28:46.462Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/likethetree",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Acacia McClay"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240401182846462#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240401182846462#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[29]/p[7]/rs[2]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "owl:Thing",
+		"@id": "https://likethetree.github.io/reference/#butter-churn",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData></teiHeader>
         
     
@@ -52618,7 +52698,7 @@
                 <p>We’re off. A man standing near me pointed out the <placeName key="Isles of Scilly" ref="http://www.wikidata.org/entity/Q180209">Scilly Isles</placeName> and said it was the last we would see of the old country. I watched them until they disappeared.</p>
                 <p>Goodbye, <placeName key="England" ref="http://www.wikidata.org/entity/Q21">England</placeName>. Goodbye, Auntie Lou. Good-bye, Chivers.</p>
                 <p>I’m sitting on the deck of our ship. There is a sheltered place around the end of one of the lifeboats. It is a fine day. Dad says that is a good omen.</p>
-                <p>More happened today than happens in a month of ordinary life. Early this morning Mother and I and the twins took the train to <placeName key="Southampton" ref="http://www.wikidata.org/entity/Q79848">Southampton</placeName>. Dad and William went in a lorry – Dad says that Canadians call it a truck – with our things. I wanted to go in the lorry too. But Mother said no. Why do boys get to do more things? But we did get <rs key="Cadbury" ref="http://dbpedia.org/resource/Cadbury">Cadbury chocolate</rs> for the train.</p>
+                <p>More happened today than happens in a month of ordinary life. Early this morning Mother and I and the twins took the train to <placeName key="Southampton" ref="http://www.wikidata.org/entity/Q79848">Southampton</placeName>. Dad and William went in a lorry – Dad says that Canadians call it a truck – with our things. I wanted to go in the lorry too. But Mother said no. Why do boys get to do more things? But we did get <rs key="Cadbury" ref="https://likethetree.github.io/reference/#cadbury-chocolate">Cadbury chocolate</rs> for the train.</p>
                 <p>At the dock there were so many people. People crowded on the pier, people coming out of carriages. Thousands of bags and trunks. And everybody was shouting questions. “Is that our ship?” “Where’s Frank?” “What are we stopping for?” “Who’s got the luggage?” It was like the <placeName key="Tower of Babel" ref="http://www.wikidata.org/entity/Q41213">Tower of Babel</placeName>. I kept hold of a twin with either hand.</p>
                 <p>We had to walk by a medical inspector, a doctor in a gold braided uniform. He looked very grand and stern. He peered at the twins and he looked into Dad’s eyes. I suddenly got frightened. What if he looked at me and thought I was sickly? Sometimes I get wheezy in the winter. What if the whole family were turned back? In a flash I saw us all standing on the dock crying as the ship pulled away. So I tried to walk with good posture and look sturdy. He hardly glanced at me.</p>
                 <p>Mother says I’m like one of the sillies in the story, rushing to meet trouble halfway. But I can’t help it. Tragic stories just pop into my head.</p>
@@ -52682,7 +52762,7 @@
             </div>
             <div type="entry" n="12">
                 <p><date when="1926-05-12">May 12</date></p>
-                <p>Welcome back, diary. <placeName key="Quebec City" ref="http://www.wikidata.org/entity/Q2145">Quebec City</placeName> was like <placeName key="Southampton" ref="http://www.wikidata.org/entity/Q79848">Southampton</placeName>. Crowds and piles of luggage and muddle. We took a taxi to the train station. The taxi driver was Scottish so we haven’t met any real Canadians yet. Canadian trains are different. They have huge engines and corridors that go right down the middle. Ours is called a <rs key="Colonist car" ref="https://www.ctvnews.ca/polopoly_fs/1.4102679.1537469132!/httpImage/image.jpg_gen/derivatives/landscape_620/image.jpg">Colonist Car</rs>. It is divided into sections and because we are six we get a whole section. In the day the luggage is stored overhead in a sort of pull-down bin. At night the seats change to a bed and the luggage goes underneath and the overhead bin becomes another bed, with a little curtain over it. At the end of the car there is water and a stove for cooking.</p>
+                <p>Welcome back, diary. <placeName key="Quebec City" ref="http://www.wikidata.org/entity/Q2145">Quebec City</placeName> was like <placeName key="Southampton" ref="http://www.wikidata.org/entity/Q79848">Southampton</placeName>. Crowds and piles of luggage and muddle. We took a taxi to the train station. The taxi driver was Scottish so we haven’t met any real Canadians yet. Canadian trains are different. They have huge engines and corridors that go right down the middle. Ours is called a <rs key="Colonist car" ref="https://likethetree.github.io/reference/#colonist-car">Colonist Car</rs>. It is divided into sections and because we are six we get a whole section. In the day the luggage is stored overhead in a sort of pull-down bin. At night the seats change to a bed and the luggage goes underneath and the overhead bin becomes another bed, with a little curtain over it. At the end of the car there is water and a stove for cooking.</p>
                 <p>I love sleeping on the train. It is like being rocked to sleep. NOT like the seasickness rocking of the ship.</p>
             </div>
             <div type="entry" n="13">
@@ -52830,7 +52910,7 @@
                     <l>Waiting for the butter cake</l>
                     <l>Come butter come.</l>
                 </p>
-                <p>Elizabeth offered to help but I wanted to make butter all by myself. It takes about an hour but it feels like a week. Then finally the sound changes. Then you drain off the buttermilk (which is the milk without the butter; shouldn’t it be called nobuttermilk?). Then you put water in the <rs key="churn" ref="https://likethetree.github.io/reference/#butter-churn">churn</rs> to wash the butter. When you take it out it looks like little lumps. You add salt with a paddle. This is fun. Churning is not fun.</p>
+                <p>Elizabeth offered to help but I wanted to make butter all by myself. It takes about an hour but it feels like a week. Then finally the sound changes. Then you drain off the buttermilk (which is the milk without the butter; shouldn’t it be called nobuttermilk?). Then you put water in the <rs key="churn" ref="https://likethetree.github.io/reference/#butter-churn">churn</rs> to wash the butter. When you take it out it looks like little lumps. You add salt with a paddle. This is fun. <rs key="Churning" ref="https://likethetree.github.io/reference/#butter-churn">Churning</rs> is not fun.</p>
                 <p>When I used to have bread and butter for my tea at home I never wondered how butter was made. Mrs. Muller says that sometimes the cow gets into the stinkweed and then the butter is smelly and not worth eating. But this butter was lovely and well worth eating. I ate a lot on <rs key="scone" ref="http://www.wikidata.org/entity/Q869660">scones</rs> when we had tea.</p>
                 <p>Mr. Muller was out in the fields so we didn’t get to meet him. The Mullers’ house is quite grand. They have carpets on their floors. (Except they call them “rugs” and what we call “rugs” they call “blankets.” Confusing.) It has a verandah that goes around three sides and stairs and a banister and a front door with coloured glass. You can stand close to the door on the inside and move back and forth and make the world go red green gold, red green gold, red green gold.</p>
                 <p>William started at the store today. It is two and a half miles for him to walk so he has to go very early. I can’t wait for him to come home so I can tell him about milking and churning.</p>
