@@ -8138,7 +8138,7 @@
 	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240329141808636",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-29T14:18:08.636Z",
-	"dcterms:modified": "2024-03-29T14:18:08.636Z",
+	"dcterms:modified": "2024-04-01T17:37:27.376Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/likethetree",
 		"@type": [
@@ -8170,7 +8170,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "owl:Thing",
-		"@id": "https://unsplash.com/photos/white-and-brown-concrete-building-F_1cg1Mwbtk",
+		"@id": "https://likethetree.github.io/reference/#grain-elevator",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -53060,6 +53060,85 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240401183750264",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-04-01T17:37:50.264Z",
+	"dcterms:modified": "2024-04-01T17:37:50.264Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/likethetree",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Acacia McClay"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240401183750264#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240401183750264#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[95]/p[4]/rs"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "owl:Thing",
+		"@id": "https://likethetree.github.io/reference/#grain-elevator",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData></teiHeader>
         
     
@@ -53233,7 +53312,7 @@
                     </p>
                 <p>The only thing the same is me and <placeName key="Earth" ref="http://www.wikidata.org/entity/Q2">The World</placeName>.</p>
                 <p>When we arrived at the train station in Milorie there were a lot of people on the platform. It took us a few minutes to find Uncle Alf. He was there with a team and wagon. A team means horses, not like the West Ham United football team. He gave us huge hugs and pretended not to know me because I was so grown-up and Mother cried a little bit. Auntie Millie and Baby Jack didn’t come, because we would need all the room on the wagon for our things. Mr. Gilmour, a nice man called a station master, took us all home and his wife gave us tea and scones. Mrs. Gilmour said she made scones to make us feel at home because we are English. Mr. Gilmour told us that most of the people at the station had come down to look at us. “You’re the big news in Milorie today,” he said. I’ve never been news before.</p>
-                <p>Then we walked down the road and looked at the shops, which are a <rs key="general store" ref="https://likethetree.github.io/reference/#general-store">general store</rs>, two banks, a hardware store (that’s Canadian for ironmongers), a garage, a <rs key="livery yard" ref="http://www.wikidata.org/entity/Q12061338">livery stable</rs>, a blacksmith, and a doctor’s office. Also there is a school and a church. The only tall buildings are two <rs key="grain elevator" ref="https://unsplash.com/photos/white-and-brown-concrete-building-F_1cg1Mwbtk">grain elevators</rs>. That’s where they store wheat and that.</p>
+                <p>Then we walked down the road and looked at the shops, which are a <rs key="general store" ref="https://likethetree.github.io/reference/#general-store">general store</rs>, two banks, a hardware store (that’s Canadian for ironmongers), a garage, a <rs key="livery yard" ref="http://www.wikidata.org/entity/Q12061338">livery stable</rs>, a blacksmith, and a doctor’s office. Also there is a school and a church. The only tall buildings are two <rs key="grain elevator" ref="https://likethetree.github.io/reference/#grain-elevator">grain elevators</rs>. That’s where they store wheat and that.</p>
                 <p>Then we all got on the wagon and we went along this dirt road full of ruts and the wagon went up and down and tippy and the two horses went plod plod. The twins went to sleep. How could they go to sleep when it is the most exciting day of our lives?</p>
                 <p>Dad asked Uncle Alf how many head of cattle he had and then I asked if he had a wireless. Then Uncle Alf got quiet and said that things in <placeName key="Canada" ref="http://www.wikidata.org/entity/Q16">Canada</placeName> weren’t quite what they told you up at <placeName key="Canada House" ref="http://www.wikidata.org/entity/Q195905">Canada House</placeName> in <placeName key="London" ref="http://www.wikidata.org/entity/Q84">London</placeName>. Then he started to talk about the government and the railroad and politics and he sounded angry. But when he asked about all the relatives he got funny again.</p>
                 <p>William didn’t sleep. He was excited too and he held my hand. Dad asked Uncle Alf where the pub was and Uncle Alf said there wasn’t one and then Dad said, “What kind of godforsaken country have I come to?” and then Mother flicked him on the skull with her finger.</p>
@@ -53810,7 +53889,7 @@
                 <p><date when="1926-09-27">September 27</date></p>
                 <p>Poor William</p>
                 <p>Dad and William are away. They both have jobs on a threshing rig in some town called Stanton. Mr. Burgess is managing without William because he knows that threshing is a well-paid job.</p>
-                <p>I wish I could get a job. Dad said that when we came to <placeName key="Canada" ref="http://www.wikidata.org/entity/Q16">Canada</placeName> there would be lots of proper jobs but so far it is just like home with a bit of this and that. Dad has been a farm worker, a blacksmith’s helper, a grain elevator cleaner and a railway track repairman. Mother has been an egg lady. Mr. Burgess has been very kind to us but William is the only one with a proper job. Hope we don’t end up like Uncle Alf, owing money and living in a dirt house.</p>
+                <p>I wish I could get a job. Dad said that when we came to <placeName key="Canada" ref="http://www.wikidata.org/entity/Q16">Canada</placeName> there would be lots of proper jobs but so far it is just like home with a bit of this and that. Dad has been a farm worker, a blacksmith’s helper, a <rs key="grain elevator" ref="https://likethetree.github.io/reference/#grain-elevator">grain elevator</rs> cleaner and a railway track repairman. Mother has been an egg lady. Mr. Burgess has been very kind to us but William is the only one with a proper job. Hope we don’t end up like Uncle Alf, owing money and living in a dirt house.</p>
                 <p>If we were at home William would be out playing conkers with his school friends on Halley Road. Here he is working like a grown-up man. This makes me feel a bit sad, as though he is a stranger.</p>
             </div>
             <div type="entry" n="94">
