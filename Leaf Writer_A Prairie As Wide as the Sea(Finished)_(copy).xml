@@ -11493,7 +11493,7 @@
 	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240329152031882",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-29T15:20:31.882Z",
-	"dcterms:modified": "2024-03-31T18:37:14.010Z",
+	"dcterms:modified": "2024-04-01T17:33:41.992Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/likethetree",
 		"@type": [
@@ -11525,7 +11525,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "owl:Thing",
-		"@id": "https://images.squarespace-cdn.com/content/v1/53ac1211e4b0a7d6603b36c3/1415744062039-39QN6VRFDJT9KIA4RM8E/image-asset.jpeg?format=1500w",
+		"@id": "https://likethetree.github.io/reference/#gopher",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -21314,6 +21314,7 @@
 	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240329152059977",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-29T15:20:59.977Z",
+	"dcterms:modified": "2024-04-01T17:33:49.015Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/likethetree",
 		"@type": [
@@ -21345,7 +21346,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "owl:Thing",
-		"@id": "https://images.squarespace-cdn.com/content/v1/53ac1211e4b0a7d6603b36c3/1415744062039-39QN6VRFDJT9KIA4RM8E/image-asset.jpeg?format=1500w",
+		"@id": "https://likethetree.github.io/reference/#gopher",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -21392,6 +21393,7 @@
 	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240329152115431",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-29T15:21:15.431Z",
+	"dcterms:modified": "2024-04-01T17:33:54.072Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/likethetree",
 		"@type": [
@@ -21423,7 +21425,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "owl:Thing",
-		"@id": "https://images.squarespace-cdn.com/content/v1/53ac1211e4b0a7d6603b36c3/1415744062039-39QN6VRFDJT9KIA4RM8E/image-asset.jpeg?format=1500w",
+		"@id": "https://likethetree.github.io/reference/#gopher",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -21470,6 +21472,7 @@
 	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240329152131125",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-29T15:21:31.125Z",
+	"dcterms:modified": "2024-04-01T17:33:59.041Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/likethetree",
 		"@type": [
@@ -21501,7 +21504,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "owl:Thing",
-		"@id": "https://images.squarespace-cdn.com/content/v1/53ac1211e4b0a7d6603b36c3/1415744062039-39QN6VRFDJT9KIA4RM8E/image-asset.jpeg?format=1500w",
+		"@id": "https://likethetree.github.io/reference/#gopher",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -21548,7 +21551,7 @@
 	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240329152144002",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-29T15:21:44.002Z",
-	"dcterms:modified": "2024-03-29T15:21:44.002Z",
+	"dcterms:modified": "2024-04-01T17:34:05.653Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/likethetree",
 		"@type": [
@@ -21580,7 +21583,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "owl:Thing",
-		"@id": "https://images.squarespace-cdn.com/content/v1/53ac1211e4b0a7d6603b36c3/1415744062039-39QN6VRFDJT9KIA4RM8E/image-asset.jpeg?format=1500w",
+		"@id": "https://likethetree.github.io/reference/#gopher",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -21627,7 +21630,7 @@
 	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240329152157039",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-29T15:21:57.039Z",
-	"dcterms:modified": "2024-03-29T15:21:57.039Z",
+	"dcterms:modified": "2024-04-01T17:34:11.757Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/likethetree",
 		"@type": [
@@ -21659,7 +21662,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "owl:Thing",
-		"@id": "https://images.squarespace-cdn.com/content/v1/53ac1211e4b0a7d6603b36c3/1415744062039-39QN6VRFDJT9KIA4RM8E/image-asset.jpeg?format=1500w",
+		"@id": "https://likethetree.github.io/reference/#gopher",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -21785,7 +21788,7 @@
 	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240329152250964",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-29T15:22:50.964Z",
-	"dcterms:modified": "2024-03-29T15:22:50.964Z",
+	"dcterms:modified": "2024-04-01T17:34:18.996Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/likethetree",
 		"@type": [
@@ -21817,7 +21820,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "owl:Thing",
-		"@id": "https://images.squarespace-cdn.com/content/v1/53ac1211e4b0a7d6603b36c3/1415744062039-39QN6VRFDJT9KIA4RM8E/image-asset.jpeg?format=1500w",
+		"@id": "https://likethetree.github.io/reference/#gopher",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -21864,7 +21867,7 @@
 	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240329152305178",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-29T15:23:05.178Z",
-	"dcterms:modified": "2024-03-29T15:23:05.178Z",
+	"dcterms:modified": "2024-04-01T17:34:34.133Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/likethetree",
 		"@type": [
@@ -21896,7 +21899,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "owl:Thing",
-		"@id": "https://images.squarespace-cdn.com/content/v1/53ac1211e4b0a7d6603b36c3/1415744062039-39QN6VRFDJT9KIA4RM8E/image-asset.jpeg?format=1500w",
+		"@id": "https://likethetree.github.io/reference/#gopher",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -21943,7 +21946,7 @@
 	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240329152320460",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-29T15:23:20.460Z",
-	"dcterms:modified": "2024-03-29T15:23:20.460Z",
+	"dcterms:modified": "2024-04-01T17:35:01.344Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/likethetree",
 		"@type": [
@@ -21975,7 +21978,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "owl:Thing",
-		"@id": "https://images.squarespace-cdn.com/content/v1/53ac1211e4b0a7d6603b36c3/1415744062039-39QN6VRFDJT9KIA4RM8E/image-asset.jpeg?format=1500w",
+		"@id": "https://likethetree.github.io/reference/#gopher",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -22022,7 +22025,7 @@
 	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240329152331512",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-29T15:23:31.512Z",
-	"dcterms:modified": "2024-03-29T15:23:31.512Z",
+	"dcterms:modified": "2024-04-01T17:35:07.393Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/likethetree",
 		"@type": [
@@ -22054,7 +22057,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "owl:Thing",
-		"@id": "https://images.squarespace-cdn.com/content/v1/53ac1211e4b0a7d6603b36c3/1415744062039-39QN6VRFDJT9KIA4RM8E/image-asset.jpeg?format=1500w",
+		"@id": "https://likethetree.github.io/reference/#gopher",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -53017,7 +53020,7 @@
             <div type="entry" n="21">
                 <p>Later</p>
                 <p>I still don’t know the secret – if that’s what it is. Dad and Uncle Alf and William went off with Mr. Burgess in his wagon. And Mother, of course, isn’t saying.</p>
-                <p>The creatures are called <rs key="gopher" ref="https://images.squarespace-cdn.com/content/v1/53ac1211e4b0a7d6603b36c3/1415744062039-39QN6VRFDJT9KIA4RM8E/image-asset.jpeg?format=1500w">gophers</rs>.</p>
+                <p>The creatures are called <rs key="gopher" ref="https://likethetree.github.io/reference/#gopher">gophers</rs>.</p>
             </div>
             <div type="entry" n="22">
                 <p><date when="1926-05-21">May 21</date></p>
@@ -53364,10 +53367,10 @@
                 <p>Traitor</p>
                 
                 <p>I hate William. I hate and detest and loathe him and I am never going to speak to him for the rest of my life. This I vow and promise and I won’t go back on it ever. He is a sneak and a loathsome vermin.</p>
-                <p>Today I went to town with Dad. I was supposed to go to Bill Bowler the butcher to get the free liver. (Canadians don’t like to eat liver and kidney so Bill Bowler gives it to us for free.) I was walking by the <rs key="general store" ref="https://likethetree.github.io/reference/#general-store">general store</rs> and there was a bunch of boys larking about the back door. They were all carrying <rs key="gopher" ref="https://images.squarespace-cdn.com/content/v1/53ac1211e4b0a7d6603b36c3/1415744062039-39QN6VRFDJT9KIA4RM8E/image-asset.jpeg?format=1500w">gopher</rs> tails and waiting to collect their money from Mr. Burgess. I hardly looked at them. I hate seeing those bloody tails. You know what they do, dear diary? They pour water down the holes and when the <rs key="gophers" ref="https://images.squarespace-cdn.com/content/v1/53ac1211e4b0a7d6603b36c3/1415744062039-39QN6VRFDJT9KIA4RM8E/image-asset.jpeg?format=1500w">gophers</rs> come up they bash them on the heads. Those little faces and the way they pop up and look around. The farmers say they eat the grain. I DON’T CARE. There is lots of grain. There is grain till half past tomorrow. The <rs key="gophers" ref="https://images.squarespace-cdn.com/content/v1/53ac1211e4b0a7d6603b36c3/1415744062039-39QN6VRFDJT9KIA4RM8E/image-asset.jpeg?format=1500w">gophers</rs> can have some.</p>
-                <p>Anyway, the way those boys were laughing I knew they liked killing the <rs key="gophers" ref="https://images.squarespace-cdn.com/content/v1/53ac1211e4b0a7d6603b36c3/1415744062039-39QN6VRFDJT9KIA4RM8E/image-asset.jpeg?format=1500w">gophers</rs>, they liked being murderers. Boys are horrible.</p>
+                <p>Today I went to town with Dad. I was supposed to go to Bill Bowler the butcher to get the free liver. (Canadians don’t like to eat liver and kidney so Bill Bowler gives it to us for free.) I was walking by the <rs key="general store" ref="https://likethetree.github.io/reference/#general-store">general store</rs> and there was a bunch of boys larking about the back door. They were all carrying <rs key="gopher" ref="https://likethetree.github.io/reference/#gopher">gopher</rs> tails and waiting to collect their money from Mr. Burgess. I hardly looked at them. I hate seeing those bloody tails. You know what they do, dear diary? They pour water down the holes and when the <rs key="gophers" ref="https://likethetree.github.io/reference/#gopher">gophers</rs> come up they bash them on the heads. Those little faces and the way they pop up and look around. The farmers say they eat the grain. I DON’T CARE. There is lots of grain. There is grain till half past tomorrow. The <rs key="gophers" ref="https://likethetree.github.io/reference/#gopher">gophers</rs> can have some.</p>
+                <p>Anyway, the way those boys were laughing I knew they liked killing the <rs key="gophers" ref="https://likethetree.github.io/reference/#gopher">gophers</rs>, they liked being murderers. Boys are horrible.</p>
                 <p>And William is ONE OF THEM.</p>
-                <p>He was there. With those boys. With <rs key="gopher" ref="https://images.squarespace-cdn.com/content/v1/53ac1211e4b0a7d6603b36c3/1415744062039-39QN6VRFDJT9KIA4RM8E/image-asset.jpeg?format=1500w">gopher</rs> tails in his hands. With the murderers. He didn’t see me. I ran away as fast as I could. And then I looked down at the package of liver in my hands and blood was leaking out of it so I threw it over the fence into the Battrum’s yard. Then I had to climb over the fence and go get it, because that’s what we’re having for tea.</p>
+                <p>He was there. With those boys. With <rs key="gopher" ref="https://likethetree.github.io/reference/#gopher">gopher</rs> tails in his hands. With the murderers. He didn’t see me. I ran away as fast as I could. And then I looked down at the package of liver in my hands and blood was leaking out of it so I threw it over the fence into the Battrum’s yard. Then I had to climb over the fence and go get it, because that’s what we’re having for tea.</p>
                 <p>From this day forward, now and forevermore, William Walter Weatherall is not my brother and so I sign in blood.</p>
             </div>
             <div type="entry" n="66">
@@ -53375,8 +53378,8 @@
                 <p>Dear Diary, I take it back. I can because I didn’t sign in blood after all. I tried to pull the scab off my knee to get some blood but it hurt too much. Then I went down to the kitchen to get some liver blood but Mother was already cooking it.</p>
                 <p>Here is what happened. I didn’t speak to William at tea. I treated him with cold disdain. But nobody noticed. Mother was talking about the cutworms who ate her lettuce. Then the twins started speaking their secret language and pretending not to know English, which makes Mother furious, and there was a big row. I felt like I was wasting my disdain.</p>
                 <p>But then after tea I went to the outhouse and there was William, behind it, vomiting. He was white as milk. And he was blinking. He has been blinking a lot since we came to <placeName key="Canada" ref="http://www.wikidata.org/entity/Q16">Canada</placeName>. And he looked so miserable and white and blinky that I forgot my vow of silence and asked him what was what. He put his head under the pump and then we walked away from the house, where no twins could find us, out to the coulee.</p>
-                <p>He told me how much he hated killing the <rs key="gophers" ref="https://images.squarespace-cdn.com/content/v1/53ac1211e4b0a7d6603b36c3/1415744062039-39QN6VRFDJT9KIA4RM8E/image-asset.jpeg?format=1500w">gophers</rs>, how they bleed when you bash them but how if he didn’t go kill <rs key="gophers" ref="https://images.squarespace-cdn.com/content/v1/53ac1211e4b0a7d6603b36c3/1415744062039-39QN6VRFDJT9KIA4RM8E/image-asset.jpeg?format=1500w">gophers</rs> he wouldn’t have any friends. He says all the boys hate him because he is English and they say he talks funny and he doesn’t know how to swim and they call him “Dirty Will” because of the elevator cleaning job. So he pretended to like killing <rs key="gophers" ref="https://images.squarespace-cdn.com/content/v1/53ac1211e4b0a7d6603b36c3/1415744062039-39QN6VRFDJT9KIA4RM8E/image-asset.jpeg?format=1500w">gophers</rs>. But he said that he’s not going to do it anymore. He said, “I’ll learn to swim and I’ll talk like a Canadian, but I’m not going to do any more killing.”</p>
-                <p>I asked him how much money he got from the <rs key="gophers" ref="https://images.squarespace-cdn.com/content/v1/53ac1211e4b0a7d6603b36c3/1415744062039-39QN6VRFDJT9KIA4RM8E/image-asset.jpeg?format=1500w">gophers</rs>. He said fifteen cents but he gave it away to Daft Binnie who sits in front of the <rs key="livery yard" ref="http://www.wikidata.org/entity/Q12061338">livery stables</rs>. He said I was his only friend and I felt bad that I wrote that he was a loathsome vermin. At least he didn’t know. Sometimes it is better to insult people in a diary than to their face.</p>
+                <p>He told me how much he hated killing the <rs key="gophers" ref="https://likethetree.github.io/reference/#gopher">gophers</rs>, how they bleed when you bash them but how if he didn’t go kill <rs key="gophers" ref="https://likethetree.github.io/reference/#gopher">gophers</rs> he wouldn’t have any friends. He says all the boys hate him because he is English and they say he talks funny and he doesn’t know how to swim and they call him “Dirty Will” because of the elevator cleaning job. So he pretended to like killing <rs key="gophers" ref="https://likethetree.github.io/reference/#gopher">gophers</rs>. But he said that he’s not going to do it anymore. He said, “I’ll learn to swim and I’ll talk like a Canadian, but I’m not going to do any more killing.”</p>
+                <p>I asked him how much money he got from the <rs key="gophers" ref="https://likethetree.github.io/reference/#gopher">gophers</rs>. He said fifteen cents but he gave it away to Daft Binnie who sits in front of the <rs key="livery yard" ref="http://www.wikidata.org/entity/Q12061338">livery stables</rs>. He said I was his only friend and I felt bad that I wrote that he was a loathsome vermin. At least he didn’t know. Sometimes it is better to insult people in a diary than to their face.</p>
                 <p>I feel really sad that William doesn’t have any friends. Elizabeth Muller doesn’t mind that I don’t talk Canadian. She likes it when I say treacle and nappies and tea instead of syrup and diapers and supper. I think it is harder being a boy. I’m glad I’m not one.</p>
                 <p>I asked William if he wanted to go home to <placeName key="England" ref="http://www.wikidata.org/entity/Q21">England</placeName> but he said that he didn’t because in <placeName key="England" ref="http://www.wikidata.org/entity/Q21">England</placeName> he would never get to be anybody in particular, but here he was going to be somebody. He sounded very fierce. Walking back to the house I wondered if I was going to be somebody. I’ve never thought of that before.</p>
             </div>
