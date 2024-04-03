@@ -8460,6 +8460,7 @@
 	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240328170116504",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-28T17:01:16.504Z",
+	"dcterms:modified": "2024-04-03T12:17:09.345Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/likethetree",
 		"@type": [
@@ -8491,7 +8492,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "owl:Thing",
-		"@id": "http://www.wikidata.org/entity/Q2106766",
+		"@id": "https://likethetree.github.io/reference/#sod-house",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -45024,7 +45025,7 @@
 	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?title_annotation_20240330134245439",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-30T13:42:45.439Z",
-	"dcterms:modified": "2024-03-30T13:42:45.439Z",
+	"dcterms:modified": "2024-04-03T12:18:15.152Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/likethetree",
 		"@type": [
@@ -45056,7 +45057,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "bf:Title",
-		"@id": "https://books.google.ie/books/about/Sowing_Seeds_in_Danny.html?id=nNe4QwAACAAJ&amp;source=kp_book_description&amp;redir_esc=y",
+		"@id": "https://likethetree.github.io/reference/#sowing-seeds",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -55374,6 +55375,85 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240403131750088",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-04-03T12:17:50.088Z",
+	"dcterms:modified": "2024-04-03T12:17:50.088Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/likethetree",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Acacia McClay"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240403131750088#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240403131750088#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[159]/p[7]/rs"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "owl:Thing",
+		"@id": "https://likethetree.github.io/reference/#sod-house",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData></teiHeader>
         
     
@@ -55551,7 +55631,7 @@
                 <p>Then we all got on the wagon and we went along this dirt road full of ruts and the wagon went up and down and tippy and the two horses went plod plod. The twins went to sleep. How could they go to sleep when it is the most exciting day of our lives?</p>
                 <p>Dad asked Uncle Alf how many head of cattle he had and then I asked if he had a wireless. Then Uncle Alf got quiet and said that things in <placeName key="Canada" ref="http://www.wikidata.org/entity/Q16">Canada</placeName> weren’t quite what they told you up at <placeName key="Canada House" ref="http://www.wikidata.org/entity/Q195905">Canada House</placeName> in <placeName key="London" ref="http://www.wikidata.org/entity/Q84">London</placeName>. Then he started to talk about the government and the railroad and politics and he sounded angry. But when he asked about all the relatives he got funny again.</p>
                 <p>William didn’t sleep. He was excited too and he held my hand. Dad asked Uncle Alf where the pub was and Uncle Alf said there wasn’t one and then Dad said, “What kind of godforsaken country have I come to?” and then Mother flicked him on the skull with her finger.</p>
-                <p>Then we got to Uncle Alf’s house and it was a big surprise. We saw a wooden building, not painted at all, almost tumbledown, with rooms on either side made of <rs key="sod house" ref="http://www.wikidata.org/entity/Q2106766">sod</rs>. That’s like dirt bricks. It has grass on the roof, like in the story of the silly woman who tried to put her cow up on her roof. I thought this was a shed for animals but I’m glad I didn’t say so, because it is their real house!</p>
+                <p>Then we got to Uncle Alf’s house and it was a big surprise. We saw a wooden building, not painted at all, almost tumbledown, with rooms on either side made of <rs key="sod house" ref="https://likethetree.github.io/reference/#sod-house">sod</rs>. That’s like dirt bricks. It has grass on the roof, like in the story of the silly woman who tried to put her cow up on her roof. I thought this was a shed for animals but I’m glad I didn’t say so, because it is their real house!</p>
                 <p>When I thought of Halley Road and the flowers in the front garden and how Dad paints the front door every year I felt scared and homesick. I could tell that Mother and Dad were surprised too. Mother didn’t say anything at all, and I saw her give Dad a look. But then Auntie Millie and Baby Jack came out to greet us and there was more crying and more hugging and then more tea. Baby Jack is lovely. Then there were stories about all the aunts and uncles and cousins and Uncle Alf got silly and it was fine again.</p>
                 <p>William and I took the twins exploring. There is an outdoor privy and a barn. In the barn are chickens and a cow. Gladys found an egg! And when we took it back Auntie Millie said that I could milk the cow in the morning. The cow’s name is Sally and she looks very friendly. I can hardly wait. At least part of the wait will be sleeping. I don’t know where we will sleep because the shanty is small for six extra people. Maybe I can sleep up on the grass roof.</p>
                 <p>My hand is tired from writing. Today there is so much to say that I wish I had one of those typewriting machines that Auntie Lou has in her office in <placeName key="London" ref="http://www.wikidata.org/entity/Q84">London</placeName>.</p>
@@ -56582,7 +56662,7 @@
                 <p>Christmas dinner was lovely, with roast duck and a Christmas pudding that Mr. Gilmour lit on fire. We had crackers with mottoes and silly paper hats. My motto was “The longest way round may be the shortest way home.” After dinner we played <rs key="charades" ref="http://www.wikidata.org/entity/Q2144077">charades</rs>. Mrs. Gilmour is very clever with charades. She was on our team and she made up a wonderful act for the word “pilgrim.” First she was “pill.” That was fairly easy. Then she was “grim,” which made everyone laugh a lot because she kept pulling these dreadful faces. Then we all dressed up as pilgrims with bathrobes and wooden poles as our staffs and went walking around the room.</p>
                 <p>This morning we opened our presents and stockings. My present from Auntie Lou was a book. It is called <title key="At the Back of the North Wind" ref="https://likethetree.github.io/reference/#north-wind">At the Back of the North Wind</title>. I don’t want to start it too soon. I’m torturing myself by opening it and reading just one sentence on a page. Auntie Lou sent a book for William too. It is <title key="The Adventures of Sherlock Holmes" ref="http://www.wikidata.org/entity/Q392147">The Adventures of Sherlock Holmes</title>.</p>
                 <p>My other presents were mitts and a box of watercolours. William got mitts and snowshoes. Gladys got mitts and a doll. Harry got mitts and a set of <rs key="Tinkertoy" ref="http://dbpedia.org/resource/Tinkertoy">Tinkertoys</rs>. Now I know what Mother was mysteriously knitting!</p>
-                <p>Then we went to church. Even Dad came, and he hardly ever goes to church. It was carols and the Christmas story. I never thought before how the Christmas story is about travelling to a new place. Also, the holy land isn’t very much like Milorie but I did wonder if the stable with the manger was a bit like a sod hut.</p>
+                <p>Then we went to church. Even Dad came, and he hardly ever goes to church. It was carols and the Christmas story. I never thought before how the Christmas story is about travelling to a new place. Also, the holy land isn’t very much like Milorie but I did wonder if the stable with the manger was a bit like a <rs key="sod hut" ref="https://likethetree.github.io/reference/#sod-house">sod hut</rs>.</p>
                 <p>Goose and crackers and the shepherds and oranges in our stockings. So many things are just the same about Christmas in <placeName key="Canada" ref="http://www.wikidata.org/entity/Q16">Canada</placeName>. It is making me sad for the things that are different, like no Auntie Lou and no Grandad.</p>
                 <p>William has gone off to try out his snowshoes. He has left a trail of dinted snow, just like in “<title key="Good King Wenceslas" ref="http://www.wikidata.org/entity/Q1529116">Good King Wenceslas</title>.”</p>
                 <p>Paint or read? Christmas cake or humbugs?</p>
@@ -56606,7 +56686,7 @@
                 <p><date when="1927-01-07">January 7</date></p>
                 <p>Shivers</p>
                 <p>Holy Moses! It suddenly got a lot colder. Went out this morning and it was like the cold wind went right into my brain. I wrapped my scarf around my face but breathing through it makes it wet and then it freezes and then there is a lump of ice-wool against your mouth. Also, my eyes watered and then the eyelashes froze together.</p>
-                <p>But still I got to school plenty early to light the stove and put the ink bottles on it to thaw. But it was so cold that the ink was still frozen at 9:30 so we had double the time of oral arithmetic drills and then we played <title key="The Grand Old Duke of York" ref="http://www.wikidata.org/entity/Q7737488">The Grand Old Duke of York</title> up and down the aisles to get warm. Even then Miss Hutchinson let us sit on our desks because the floor was so cold for our feet. But at least it was Friday so we had a story in the afternoon. Miss Hutchinson has started a new book. It is called <title key="Sowing Seeds in Danny" ref="https://books.google.ie/books/about/Sowing_Seeds_in_Danny.html?id=nNe4QwAACAAJ&amp;source=kp_book_description&amp;redir_esc=y">Sowing Seeds in Danny</title>. I like it because the main girl, Pearlie Watson, is twelve, and because the family lives in a boxcar and because they have twins, just like us. Also it is funny.</p>
+                <p>But still I got to school plenty early to light the stove and put the ink bottles on it to thaw. But it was so cold that the ink was still frozen at 9:30 so we had double the time of oral arithmetic drills and then we played <title key="The Grand Old Duke of York" ref="http://www.wikidata.org/entity/Q7737488">The Grand Old Duke of York</title> up and down the aisles to get warm. Even then Miss Hutchinson let us sit on our desks because the floor was so cold for our feet. But at least it was Friday so we had a story in the afternoon. Miss Hutchinson has started a new book. It is called <title key="Sowing Seeds in Danny" ref="https://likethetree.github.io/reference/#sowing-seeds">Sowing Seeds in Danny</title>. I like it because the main girl, Pearlie Watson, is twelve, and because the family lives in a boxcar and because they have twins, just like us. Also it is funny.</p>
                 <p>Dad got some work at the blacksmith’s shop. I went over after school and he was sharpening a <rs key="plowshare" ref="http://www.wikidata.org/entity/Q1553280">ploughshare</rs>. I like it there because it is so warm. He let me turn the blower on the forge. The metal turned white with heat and then I had to stand clear whilst Dad put it on the anvil and hammered away. Sparks were flying everywhere. Sweat was running down Dad’s face. Then he lowered the tip of the <rs key="plowshare" ref="http://www.wikidata.org/entity/Q1553280">ploughshare</rs> into the barrel of water and there was a huge hiss and steam.</p>
                 <p>Why is white hotter than red when frost and snow are white and fire and the sun are red? I could ask Dad but I think I’ll save this question for Mr. Ambrose when he gets back because questions make him so happy.</p>
                 <p>We’ve got a new guest. It is the Rawleigh man. He goes around the country selling house things like medicine and spices made by the <rs key="W.T. Rawleigh Company" ref="http://www.wikidata.org/entity/Q120966282">W.T. Rawleigh Company</rs>. He sniffs. I guess he doesn’t have any medicine for sniffing. It was steak-and-kidney pie for dinner and he picked out all the kidney.</p>
