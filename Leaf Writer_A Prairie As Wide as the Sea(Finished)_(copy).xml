@@ -37218,7 +37218,7 @@
 	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?title_annotation_20240329200107858",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-29T20:01:07.858Z",
-	"dcterms:modified": "2024-03-29T20:01:07.858Z",
+	"dcterms:modified": "2024-04-03T11:36:22.611Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/likethetree",
 		"@type": [
@@ -37250,7 +37250,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "bf:Title",
-		"@id": "http://www.wikidata.org/entity/Q58190302",
+		"@id": "https://likethetree.github.io/reference/#ali-baba",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -54381,7 +54381,7 @@
                 <p><date when="1926-11-17">November 17</date></p>
                 <p>Magic Words</p>
                 <p>Snow. Not a blizzard, but big white flakes. It started this morning just after we went in to school. Everybody was looking out the windows and not paying attention. Finally Miss Hutchinson said we could have early recess. Everybody practically fell over each other getting on their mitts and scarves. Harry was disappointed because it still isn’t the kind of snow you can pack into snowballs or igloos. But he cheered up when everyone started playing <rs key="British bulldogs" ref="http://www.wikidata.org/entity/Q2975713">fox and geese</rs>. For this game you tramp out the pattern of a wagon wheel in the snow. It is sort of like tag. The fox is It and everyone else is a goose. But you have to stay on the lines of the wheel and the spokes. If you have to pass someone mostly you fall over in the snow and then you’re out. Miss Hutchinson played with us and she let us have double recess. I had to pass Nyla and she fell over and then she got very huffy and dropped out of the game. She gave me a nasty look, which is ridiculous.</p>
-                <p>When we came back in everyone was soaking so Miss Hutchinson let us sit around the stove and she read to us instead of doing our lessons. She made us promise to work extra hard tomorrow. The story she read was <title key="Ali Baba and the Forty Thieves" ref="http://www.wikidata.org/entity/Q58190302">Ali Baba and the Forty Thieves</title>.</p>
+                <p>When we came back in everyone was soaking so Miss Hutchinson let us sit around the stove and she read to us instead of doing our lessons. She made us promise to work extra hard tomorrow. The story she read was <title key="Ali Baba and the Forty Thieves" ref="https://likethetree.github.io/reference/#ali-baba">Ali Baba and the Forty Thieves</title>.</p>
                 <p>All the boys liked this story because of the gruesome deaths, like being drowned in boiling oil.</p>
                 <p>I liked the part where the greedy brother forgets the magic words Open Sesame and starts saying things like Open Barley. That is exactly what would happen to me. I’d forget the magic words. There I would be, Ivy Weatherall stuck in a cave. I would heard the bloodthirsty robbers coming. Open Wheat! I would hear their horses. Open Rye! I would hear the crash of their cruel weapons. Open Oatmeal! Trapped!</p>
                 <p>This is what I was thinking about when I wasn’t doing my dictionary drill.</p>
