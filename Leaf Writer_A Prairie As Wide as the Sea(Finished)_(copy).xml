@@ -17485,7 +17485,7 @@
 	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240329145350402",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-29T14:53:50.402Z",
-	"dcterms:modified": "2024-03-29T14:53:50.402Z",
+	"dcterms:modified": "2024-04-03T12:19:23.872Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/likethetree",
 		"@type": [
@@ -17517,7 +17517,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "owl:Thing",
-		"@id": "https://www.merriam-webster.com/dictionary/tacamahac",
+		"@id": "https://likethetree.github.io/reference/#tacmahac",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -20157,7 +20157,7 @@
 	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240329151214352",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-29T15:12:14.352Z",
-	"dcterms:modified": "2024-03-29T15:12:14.352Z",
+	"dcterms:modified": "2024-04-03T12:19:46.988Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/likethetree",
 		"@type": [
@@ -20189,7 +20189,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "owl:Thing",
-		"@id": "http://www.wikidata.org/entity/Q506839",
+		"@id": "https://likethetree.github.io/reference/#threshing-machine",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -27007,7 +27007,7 @@
 	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240329163611290",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-29T16:36:11.290Z",
-	"dcterms:modified": "2024-03-29T16:36:11.290Z",
+	"dcterms:modified": "2024-04-03T12:18:36.088Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/likethetree",
 		"@type": [
@@ -27034,12 +27034,12 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240329163611290#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[84]/p[10]/rs"
+			"rdf:value": "TEI/text/body/div[84]/p[10]/rs[2]"
 		}
 	},
 	"oa:hasBody": {
 		"@type": "owl:Thing",
-		"@id": "https://thelondontanners.com/wp-content/uploads/2013/12/Irish-school-strap-new-1024x996.jpg",
+		"@id": "https://likethetree.github.io/reference/#strap",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -27086,7 +27086,7 @@
 	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240329163645714",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-29T16:36:45.714Z",
-	"dcterms:modified": "2024-03-29T16:36:45.714Z",
+	"dcterms:modified": "2024-04-03T12:19:01.340Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/likethetree",
 		"@type": [
@@ -27113,12 +27113,12 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240329163645714#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[84]/p[10]/rs[2]"
+			"rdf:value": "TEI/text/body/div[84]/p[10]/rs[3]"
 		}
 	},
 	"oa:hasBody": {
 		"@type": "owl:Thing",
-		"@id": "https://thelondontanners.com/wp-content/uploads/2013/12/Irish-school-strap-new-1024x996.jpg",
+		"@id": "https://likethetree.github.io/reference/#strap",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -55454,6 +55454,85 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240403131849434",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-04-03T12:18:49.434Z",
+	"dcterms:modified": "2024-04-03T12:18:49.434Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/likethetree",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Acacia McClay"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240403131849434#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240403131849434#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[84]/p[10]/rs"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "owl:Thing",
+		"@id": "https://likethetree.github.io/reference/#strap",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData></teiHeader>
         
     
@@ -55861,7 +55940,7 @@
                 <p>Flying Jack</p>
                 <p>I’m in trouble again. I took Baby Jack over to Elizabeth’s house and we were playing with him and Otto. <rs key="peekaboo" ref="http://www.wikidata.org/entity/Q53705">Peepo</rs> and that. (In Canada they call it <rs key="peekaboo" ref="http://www.wikidata.org/entity/Q53705">peekaboo</rs>). Then we got this idea to put them in a flour sack and give them swings. It worked fine with Otto. And at first it was fine with Baby Jack. He loved it. He made this hiccup noise he makes when he’s really happy. But then the bottom of the flour sack ripped open and Jack went flying through the air, headfirst into the Mullers’ <rs key="chiffonier" ref="https://likethetree.github.io/reference/#chiffonier">chiffonier</rs>. He got a nosebleed and quite a lot of blood got onto the <rs key="doily" ref="https://likethetree.github.io/reference/#doily">doilies</rs> on the <rs key="chiffonier" ref="https://likethetree.github.io/reference/#chiffonier">chiffonier</rs>. And of course he cried a lot. I felt awful.</p>
                 <p>At least we’re both in trouble. It’s not quite so bad being in trouble with a friend. And Mrs. Muller is pretty nice. Truth to tell, it was my idea but Elizabeth took half the blame.</p>
-                <p>Mrs. Muller put <rs key="Mercurochrome" ref="https://likethetree.github.io/reference/#mercurochrome">Mercurochrome</rs> on Jack’s wounds. I thought perhaps we could bind them with cooling leaves of <rs key="tacmahac" ref="https://www.merriam-webster.com/dictionary/tacamahac">tacmahac</rs>, like Catharine does in <title key="Lost in the Backwoods" ref="https://likethetree.github.io/reference/#lost-in-the-backwoods">Lost in the Backwoods</title>, but Mrs. Muller thought <rs key="Mercurochrome" ref="https://likethetree.github.io/reference/#mercurochrome">Mercurochrome</rs> would be better. And she told me that if the blood doesn’t come out of the <rs key="doily" ref="https://likethetree.github.io/reference/#doily">doilies</rs> she’ll teach me to tat and I can make new ones.</p>
+                <p>Mrs. Muller put <rs key="Mercurochrome" ref="https://likethetree.github.io/reference/#mercurochrome">Mercurochrome</rs> on Jack’s wounds. I thought perhaps we could bind them with cooling leaves of <rs key="tacmahac" ref="https://likethetree.github.io/reference/#tacmahac">tacmahac</rs>, like Catharine does in <title key="Lost in the Backwoods" ref="https://likethetree.github.io/reference/#lost-in-the-backwoods">Lost in the Backwoods</title>, but Mrs. Muller thought <rs key="Mercurochrome" ref="https://likethetree.github.io/reference/#mercurochrome">Mercurochrome</rs> would be better. And she told me that if the blood doesn’t come out of the <rs key="doily" ref="https://likethetree.github.io/reference/#doily">doilies</rs> she’ll teach me to tat and I can make new ones.</p>
                 <p>At least Jack doesn’t blame me. He sat on my lap all evening and held onto my ear.</p>
             </div>
             <div type="entry" n="46">
@@ -55953,7 +56032,7 @@
                 <p><date when="1926-07-24">July 24</date></p>
                 <p>Defeat</p>
                 <p>Phooey. Guess who entered Junior Jams and Jellies? Guess who entered with crabapple jelly, just like us? Guess who cut little circles of gingham cloth with her pinking shears to make little bonnets for her jelly jars? Guess who won first prize? The answer to all of the above questions is a girl whose initials are N.M., also known as Toffee-Nose. I think she won for her bonnets, not for her jelly, which wasn’t nearly as beautiful as ours. We won third prize.</p>
-                <p>The fair was fun, though. Mrs. Muller won a prize for her quilt. There was a new kind of <rs key="threshing machine" ref="http://www.wikidata.org/entity/Q506839">threshing machine</rs> that had all the men admiring it. I wanted to look too but the salesman was a grump. “No kids around here,” he said.</p>
+                <p>The fair was fun, though. Mrs. Muller won a prize for her quilt. There was a new kind of <rs key="threshing machine" ref="https://likethetree.github.io/reference/#threshing-machine">threshing machine</rs> that had all the men admiring it. I wanted to look too but the salesman was a grump. “No kids around here,” he said.</p>
                 <p>We did get to ride home in the <rs key="Ford Model T" ref="https://likethetree.github.io/reference/#model-t">Model T</rs>. I guess we are forgiven.</p>
                 <p>Good thing about <placeName key="Canada" ref="http://www.wikidata.org/entity/Q16">Canada</placeName>: bare feet. Dusty roads are very soft.</p>
             </div>
@@ -56132,7 +56211,7 @@
                 <p>At the back there is a black stove and at the side is a bench with a pail of water and a tin cup.</p>
                 <p>We started off with the <title key="Lord's Prayer" ref="http://www.wikidata.org/entity/Q23393">Lord’s Prayer</title>, just like home. Then we sang “<title key="The Maple Leaf Forever" ref="http://www.wikidata.org/entity/Q830364">The Maple Leaf Forever</title>,” which is different. Then we got our readers and rearranged the desks.</p>
                 <p>We didn’t do much work. We got our new <rs key="scribbler" ref="https://likethetree.github.io/reference/#scribbler">scribblers</rs>. Mine is called a Red Monarch and it has a lovely picture of a lion on the front. On the back it has weights and measures. This is useful because I can never remember all that about <rs key="peck" ref="http://www.wikidata.org/entity/Q351646">pecks</rs> and <rs key="bushel" ref="http://www.wikidata.org/entity/Q216658">bushels</rs> and <rs key="rod" ref="http://www.wikidata.org/entity/Q1165588">rods</rs> and <rs key="furlong" ref="http://www.wikidata.org/entity/Q494083">furlongs</rs> and <rs key="mile" ref="http://www.wikidata.org/entity/Q253276">miles</rs>. This year I am going to be very neat.</p>
-                <p>The grade eight boys, Lars Hansen, Ralph Battrum, and Hans started to act like they knew it all and were making noise and answering back and then Miss Hutchinson did something very remarkable. She took the strap out of her desk. We were shocked. We thought she was going to <rs key="strap" ref="https://thelondontanners.com/wp-content/uploads/2013/12/Irish-school-strap-new-1024x996.jpg">strap</rs> them. But instead she threw it in the stove and said, “If anybody disrupts the class so that we cannot learn, what will happen to them will make them wish I had kept the <rs key="strap" ref="https://thelondontanners.com/wp-content/uploads/2013/12/Irish-school-strap-new-1024x996.jpg">strap</rs>.” Well! That made even Lars, Ralph and Hans be quiet as mice.</p>
+                <p>The grade eight boys, Lars Hansen, Ralph Battrum, and Hans started to act like they knew it all and were making noise and answering back and then Miss Hutchinson did something very remarkable. She took the <rs key="strap" ref="https://likethetree.github.io/reference/#strap">strap</rs> out of her desk. We were shocked. We thought she was going to <rs key="strap" ref="https://likethetree.github.io/reference/#strap">strap</rs> them. But instead she threw it in the stove and said, “If anybody disrupts the class so that we cannot learn, what will happen to them will make them wish I had kept the <rs key="strap" ref="https://likethetree.github.io/reference/#strap">strap</rs>.” Well! That made even Lars, Ralph and Hans be quiet as mice.</p>
             </div>
             <div type="entry" n="83">
                 <p><date when="1926-09-08">September 8</date></p>
