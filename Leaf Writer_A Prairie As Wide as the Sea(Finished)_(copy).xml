@@ -10879,6 +10879,7 @@
 	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?title_annotation_20240328171605078",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-28T17:16:05.078Z",
+	"dcterms:modified": "2024-04-03T11:37:51.143Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/likethetree",
 		"@type": [
@@ -10910,7 +10911,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "bf:Title",
-		"@id": "http://www.wikidata.org/entity/Q565911",
+		"@id": "https://likethetree.github.io/reference/#anne-of-green-gables",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -23685,7 +23686,7 @@
 	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?title_annotation_20240329160426822",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-29T16:04:26.822Z",
-	"dcterms:modified": "2024-03-29T16:04:26.822Z",
+	"dcterms:modified": "2024-04-03T11:37:42.535Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/likethetree",
 		"@type": [
@@ -23717,7 +23718,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "bf:Title",
-		"@id": "http://www.wikidata.org/entity/Q565911",
+		"@id": "https://likethetree.github.io/reference/#anne-of-green-gables",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -53615,7 +53616,7 @@
                 <p>Ivy on Horseback</p>
                 <p>Today we had callers. They came in a wagon from a nearby farm. They were a lady named Mrs. Muller, a boy named Hans, and a girl named Elizabeth. Mrs. Muller brought two <rs key="Saskatoon berry pie" ref="https://likethetree.github.io/reference/#saskatoon-pie">saskatoon berry pies</rs> to welcome us to <placeName key="Canada" ref="http://www.wikidata.org/entity/Q16">Canada</placeName>. They were scrumptious. I don’t think we have <rs key="Saskatoon Berries" ref="https://likethetree.github.io/reference/#saskatoon-berries">saskatoon berries</rs> in <placeName key="England" ref="http://www.wikidata.org/entity/Q21">England</placeName>.</p>
                 <p>Mother liked Mrs. Muller right away because she said her name was Gwyneth and Mother said was she Welsh and she said that her father was and then Mother said “So was my father” and then they just started talking and talking. Mr. Muller didn’t come to visit. He’s not Welsh. He’s German.</p>
-                <p>Elizabeth is just my age. She likes to read. I told her about <title key="Lost in the Backwoods" ref="https://books.google.ie/books/about/Lost_in_the_Backwoods_Esprios_Classics.html?id=UtxezgEACAAJ&amp;source=kp_book_description&amp;redir_esc=y">Lost in the Backwoods</title> and she would like to borrow it when I’m done. She has a book called <title key="Anne of Green Gables" ref="http://www.wikidata.org/entity/Q565911">Anne of Green Gables</title> that she is going to bring me. It sounds super. Now I don’t need to make myself go slow with <title key="Lost in the Backwoods" ref="https://books.google.ie/books/about/Lost_in_the_Backwoods_Esprios_Classics.html?id=UtxezgEACAAJ&amp;source=kp_book_description&amp;redir_esc=y">Lost in the Backwoods</title>.</p>
+                <p>Elizabeth is just my age. She likes to read. I told her about <title key="Lost in the Backwoods" ref="https://books.google.ie/books/about/Lost_in_the_Backwoods_Esprios_Classics.html?id=UtxezgEACAAJ&amp;source=kp_book_description&amp;redir_esc=y">Lost in the Backwoods</title> and she would like to borrow it when I’m done. She has a book called <title key="Anne of Green Gables" ref="https://likethetree.github.io/reference/#anne-of-green-gables">Anne of Green Gables</title> that she is going to bring me. It sounds super. Now I don’t need to make myself go slow with <title key="Lost in the Backwoods" ref="https://books.google.ie/books/about/Lost_in_the_Backwoods_Esprios_Classics.html?id=UtxezgEACAAJ&amp;source=kp_book_description&amp;redir_esc=y">Lost in the Backwoods</title>.</p>
                 <p>Elizabeth told me about school. There are only twenty-three students in the whole school and three of them are her and two of her brothers. She has four brothers and no sisters. Her brothers are Otto (2), Herman (6), Hans (13), and Gerhard (16). There is only one teacher for everyone. I said that would be terrible if you didn’t like the teacher. I was thinking of Toad Eyes at home. Elizabeth said that it was because last year they had a horrid man who beat the big boys and frightened the little ones. But this year they have a nice teacher named Miss Hutchinson. I hope she stays until next year when I go to school. Elizabeth said Miss Hutchinson plays <rs key="baseball" ref="http://www.wikidata.org/entity/Q5369">baseball</rs> with them at recess. (I didn’t know what baseball was so Elizabeth told me. It sounds a bit like <rs key="rounders" ref="http://www.wikidata.org/entity/Q1075286">rounders</rs>.) This made me want to go to school right away, but Mother says there isn’t any point so late in the year.</p>
                 <p>Elizabeth asked if I had been to <placeName key="Buckingham Palace" ref="http://www.wikidata.org/entity/Q42182">Buckingham Palace</placeName> to have tea with the king. I told her that ordinary people don’t get to. Then she introduced me to the horse. Her name is Ruby. She is dark brown and as shiny as a conker. Elizabeth was amazed that I don’t know how to ride. Then she just unhitched Ruby from the wagon and said did I want to get on. So I climbed onto the fence and then onto Ruby. Elizabeth said I should just hold onto her mane. She was higher and wider than I expected. Then Elizabeth led me around in a circle. It was lovely. My first time on a horse! I wanted everyone to see me. I wanted them to faint with astonishment. But nobody did and then Elizabeth hitched Ruby back up to the wagon. She is very good with reins and bridles and that. I think Elizabeth is resourceful and capable, like Catharine. I hope she would like to be my friend.</p>
                 <p>P.S. “<rs key="Saskatoon berries" ref="https://likethetree.github.io/reference/#saskatoon-berries">Saskatoon berries</rs>” sounds like something in a nursery rhyme if you say it a few times.</p>
@@ -54002,7 +54003,7 @@
             <div type="entry" n="74">
                 <p><date when="1926-08-25">August 25</date></p>
                 <p>Thoughts on Mosquitoes</p>
-                <p>I’m nearly at the end of <title key="Lost in the Backwoods" ref="https://books.google.ie/books/about/Lost_in_the_Backwoods_Esprios_Classics.html?id=UtxezgEACAAJ&amp;source=kp_book_description&amp;redir_esc=y">Lost in the Backwoods</title>. (I stopped for a while because Elizabeth lent me her <title key="Anne of Green Gables" ref="http://www.wikidata.org/entity/Q565911">Anne of Green Gables</title>. It was swell.) Catharine has been captured by Indians. Louis has given way to transports of grief and despair. I’m pretty sure Louis is sweet on Catharine. Mrs. Traill does not mention mosquitoes. I have twenty-seven mosquito bites. I tried sleeping with my sheet over my head but I nearly died of sweating. I am trying self-control not to scratch them. Gladys’s are all bleeding. Mother tried putting a baking-soda paste on them but it doesn’t really help. The only thing that helps is slapping the bites. But it only helps for a minute. And you have to slap hard.</p>
+                <p>I’m nearly at the end of <title key="Lost in the Backwoods" ref="https://books.google.ie/books/about/Lost_in_the_Backwoods_Esprios_Classics.html?id=UtxezgEACAAJ&amp;source=kp_book_description&amp;redir_esc=y">Lost in the Backwoods</title>. (I stopped for a while because Elizabeth lent me her <title key="Anne of Green Gables" ref="https://likethetree.github.io/reference/#anne-of-green-gables">Anne of Green Gables</title>. It was swell.) Catharine has been captured by Indians. Louis has given way to transports of grief and despair. I’m pretty sure Louis is sweet on Catharine. Mrs. Traill does not mention mosquitoes. I have twenty-seven mosquito bites. I tried sleeping with my sheet over my head but I nearly died of sweating. I am trying self-control not to scratch them. Gladys’s are all bleeding. Mother tried putting a baking-soda paste on them but it doesn’t really help. The only thing that helps is slapping the bites. But it only helps for a minute. And you have to slap hard.</p>
                 <p>Dad says mosquitoes like fresh English blood. He says they say to each other, “Fee fi fo fum, I smell the blood of an Englishman.”</p>
                 <p>Question about mosquitoes: Why? I understand about them biting. They want our blood for lunch. But why make an itchy bite? It doesn’t do the mosquitoes any good. It makes us more likely to swat them and kill them. And it doesn’t do humans any good. Aren’t we more likely to get infections if we have bloody wounds on us? It would work out better for everybody if we could just hold out our arms and say, “Come and get it,” and give mosquitoes a free lunch without getting itchy.</p>
                 <p>Mother was at the Homemaker’s Club today. The news is that Doctor Johnstone’s niece is coming to visit. Her name is Lorayne LaMott and she is seventeen years old and she attends the Marvel School of Cosmetology in <placeName key="Regina" ref="http://www.wikidata.org/entity/Q2123">Regina</placeName>.</p>
