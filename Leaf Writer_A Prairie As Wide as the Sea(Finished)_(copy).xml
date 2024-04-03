@@ -10805,6 +10805,7 @@
 	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?title_annotation_20240328171551054",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-28T17:15:51.054Z",
+	"dcterms:modified": "2024-04-03T12:03:11.835Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/likethetree",
 		"@type": [
@@ -10836,7 +10837,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "bf:Title",
-		"@id": "https://books.google.ie/books/about/Lost_in_the_Backwoods_Esprios_Classics.html?id=UtxezgEACAAJ&source=kp_book_description&redir_esc=y",
+		"@id": "https://likethetree.github.io/reference/#lost-in-the-backwoods",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -10962,6 +10963,7 @@
 	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?title_annotation_20240328171617646",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-28T17:16:17.646Z",
+	"dcterms:modified": "2024-04-03T12:03:21.029Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/likethetree",
 		"@type": [
@@ -10993,7 +10995,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "bf:Title",
-		"@id": "https://books.google.ie/books/about/Lost_in_the_Backwoods_Esprios_Classics.html?id=UtxezgEACAAJ&source=kp_book_description&redir_esc=y",
+		"@id": "https://likethetree.github.io/reference/#lost-in-the-backwoods",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -16612,7 +16614,7 @@
 	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?title_annotation_20240329144924166",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-29T14:49:24.166Z",
-	"dcterms:modified": "2024-03-29T14:49:24.166Z",
+	"dcterms:modified": "2024-04-03T12:03:30.352Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/likethetree",
 		"@type": [
@@ -16644,7 +16646,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "bf:Title",
-		"@id": "https://books.google.ie/books/about/Lost_in_the_Backwoods_Esprios_Classics.html?id=UtxezgEACAAJ&amp;source=kp_book_description&amp;redir_esc=y",
+		"@id": "https://likethetree.github.io/reference/#lost-in-the-backwoods",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -16770,7 +16772,7 @@
 	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?title_annotation_20240329144954377",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-29T14:49:54.377Z",
-	"dcterms:modified": "2024-03-29T14:49:54.377Z",
+	"dcterms:modified": "2024-04-03T12:03:39.390Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/likethetree",
 		"@type": [
@@ -16802,7 +16804,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "bf:Title",
-		"@id": "https://books.google.ie/books/about/Lost_in_the_Backwoods_Esprios_Classics.html?id=UtxezgEACAAJ&amp;source=kp_book_description&amp;redir_esc=y",
+		"@id": "https://likethetree.github.io/reference/#lost-in-the-backwoods",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -17559,7 +17561,7 @@
 	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?title_annotation_20240329145406702",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-29T14:54:06.702Z",
-	"dcterms:modified": "2024-03-29T14:54:06.702Z",
+	"dcterms:modified": "2024-04-03T12:03:47.797Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/likethetree",
 		"@type": [
@@ -17591,7 +17593,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "bf:Title",
-		"@id": "https://books.google.ie/books/about/Lost_in_the_Backwoods_Esprios_Classics.html?id=UtxezgEACAAJ&amp;source=kp_book_description&amp;redir_esc=y",
+		"@id": "https://likethetree.github.io/reference/#lost-in-the-backwoods",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -23142,7 +23144,7 @@
 	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?title_annotation_20240329155837911",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-29T15:58:37.911Z",
-	"dcterms:modified": "2024-03-29T15:58:37.911Z",
+	"dcterms:modified": "2024-04-03T12:03:57.269Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/likethetree",
 		"@type": [
@@ -23174,7 +23176,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "bf:Title",
-		"@id": "https://books.google.ie/books/about/Lost_in_the_Backwoods_Esprios_Classics.html?id=UtxezgEACAAJ&amp;source=kp_book_description&amp;redir_esc=y",
+		"@id": "https://likethetree.github.io/reference/#lost-in-the-backwoods",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -23614,7 +23616,7 @@
 	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?title_annotation_20240329160348614",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-29T16:03:48.614Z",
-	"dcterms:modified": "2024-03-29T16:03:48.614Z",
+	"dcterms:modified": "2024-04-03T12:04:05.164Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/likethetree",
 		"@type": [
@@ -23646,7 +23648,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "bf:Title",
-		"@id": "https://books.google.ie/books/about/Lost_in_the_Backwoods_Esprios_Classics.html?id=UtxezgEACAAJ&amp;source=kp_book_description&amp;redir_esc=y",
+		"@id": "https://likethetree.github.io/reference/#lost-in-the-backwoods",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -25897,7 +25899,7 @@
 	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?title_annotation_20240329162835368",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-29T16:28:35.368Z",
-	"dcterms:modified": "2024-03-29T16:28:35.368Z",
+	"dcterms:modified": "2024-04-03T12:04:16.520Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/likethetree",
 		"@type": [
@@ -25929,7 +25931,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "bf:Title",
-		"@id": "https://books.google.ie/books/about/Lost_in_the_Backwoods_Esprios_Classics.html?id=UtxezgEACAAJ&amp;source=kp_book_description&amp;redir_esc=y",
+		"@id": "https://likethetree.github.io/reference/#lost-in-the-backwoods",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -54887,7 +54889,7 @@
                 <p>Ivy on Horseback</p>
                 <p>Today we had callers. They came in a wagon from a nearby farm. They were a lady named Mrs. Muller, a boy named Hans, and a girl named Elizabeth. Mrs. Muller brought two <rs key="Saskatoon berry pie" ref="https://likethetree.github.io/reference/#saskatoon-pie">saskatoon berry pies</rs> to welcome us to <placeName key="Canada" ref="http://www.wikidata.org/entity/Q16">Canada</placeName>. They were scrumptious. I don’t think we have <rs key="Saskatoon Berries" ref="https://likethetree.github.io/reference/#saskatoon-berries">saskatoon berries</rs> in <placeName key="England" ref="http://www.wikidata.org/entity/Q21">England</placeName>.</p>
                 <p>Mother liked Mrs. Muller right away because she said her name was Gwyneth and Mother said was she Welsh and she said that her father was and then Mother said “So was my father” and then they just started talking and talking. Mr. Muller didn’t come to visit. He’s not Welsh. He’s German.</p>
-                <p>Elizabeth is just my age. She likes to read. I told her about <title key="Lost in the Backwoods" ref="https://books.google.ie/books/about/Lost_in_the_Backwoods_Esprios_Classics.html?id=UtxezgEACAAJ&amp;source=kp_book_description&amp;redir_esc=y">Lost in the Backwoods</title> and she would like to borrow it when I’m done. She has a book called <title key="Anne of Green Gables" ref="https://likethetree.github.io/reference/#anne-of-green-gables">Anne of Green Gables</title> that she is going to bring me. It sounds super. Now I don’t need to make myself go slow with <title key="Lost in the Backwoods" ref="https://books.google.ie/books/about/Lost_in_the_Backwoods_Esprios_Classics.html?id=UtxezgEACAAJ&amp;source=kp_book_description&amp;redir_esc=y">Lost in the Backwoods</title>.</p>
+                <p>Elizabeth is just my age. She likes to read. I told her about <title key="Lost in the Backwoods" ref="https://likethetree.github.io/reference/#lost-in-the-backwoods">Lost in the Backwoods</title> and she would like to borrow it when I’m done. She has a book called <title key="Anne of Green Gables" ref="https://likethetree.github.io/reference/#anne-of-green-gables">Anne of Green Gables</title> that she is going to bring me. It sounds super. Now I don’t need to make myself go slow with <title key="Lost in the Backwoods" ref="https://likethetree.github.io/reference/#lost-in-the-backwoods">Lost in the Backwoods</title>.</p>
                 <p>Elizabeth told me about school. There are only twenty-three students in the whole school and three of them are her and two of her brothers. She has four brothers and no sisters. Her brothers are Otto (2), Herman (6), Hans (13), and Gerhard (16). There is only one teacher for everyone. I said that would be terrible if you didn’t like the teacher. I was thinking of Toad Eyes at home. Elizabeth said that it was because last year they had a horrid man who beat the big boys and frightened the little ones. But this year they have a nice teacher named Miss Hutchinson. I hope she stays until next year when I go to school. Elizabeth said Miss Hutchinson plays <rs key="baseball" ref="http://www.wikidata.org/entity/Q5369">baseball</rs> with them at recess. (I didn’t know what baseball was so Elizabeth told me. It sounds a bit like <rs key="rounders" ref="http://www.wikidata.org/entity/Q1075286">rounders</rs>.) This made me want to go to school right away, but Mother says there isn’t any point so late in the year.</p>
                 <p>Elizabeth asked if I had been to <placeName key="Buckingham Palace" ref="http://www.wikidata.org/entity/Q42182">Buckingham Palace</placeName> to have tea with the king. I told her that ordinary people don’t get to. Then she introduced me to the horse. Her name is Ruby. She is dark brown and as shiny as a conker. Elizabeth was amazed that I don’t know how to ride. Then she just unhitched Ruby from the wagon and said did I want to get on. So I climbed onto the fence and then onto Ruby. Elizabeth said I should just hold onto her mane. She was higher and wider than I expected. Then Elizabeth led me around in a circle. It was lovely. My first time on a horse! I wanted everyone to see me. I wanted them to faint with astonishment. But nobody did and then Elizabeth hitched Ruby back up to the wagon. She is very good with reins and bridles and that. I think Elizabeth is resourceful and capable, like Catharine. I hope she would like to be my friend.</p>
                 <p>P.S. “<rs key="Saskatoon berries" ref="https://likethetree.github.io/reference/#saskatoon-berries">Saskatoon berries</rs>” sounds like something in a nursery rhyme if you say it a few times.</p>
@@ -55057,8 +55059,8 @@
                 <p>Baby Jack has come to live with us. Mother brought him back from Uncle Alf and Auntie Millie’s. He is sleeping in a drawer at the end of my bed. He is making a tiny little popping sound as he sleeps. I’m not supposed to know why he’s here, but I do. I heard Mother telling Dad. There’s a hole in the floor where the heat comes up in winter but the sound of voices comes up all year long.</p>
                 <p>(True confession: Actually you have to lie on the floor and put your ear to the grate, which I happened to be doing.)</p>
                 <p>Mother went to visit Auntie Millie and when she got there Auntie Millie was just lying on the bed and staring and Baby Jack was crying and his nappy hadn’t been changed in ever so long. Mother says that Auntie Millie is sick but I know it isn’t like the flu or something. Mother says Auntie Millie should never have left England, that she isn’t the pioneer sort. But then Dad said that living with someone like Uncle Alf would drive anyone round the twist, what with the lies and the debts. Then Mother got quiet. After all, Uncle Alf is her brother. I wouldn’t like anyone to say bad things about William.</p>
-                <p>I wonder if Auntie Millie would like to read <title key="Lost in the Backwoods" ref="https://books.google.ie/books/about/Lost_in_the_Backwoods_Esprios_Classics.html?id=UtxezgEACAAJ&amp;source=kp_book_description&amp;redir_esc=y">Lost in the Backwoods</title>. It says, “To be up and doing is the maxim of a Canadian; and it is this that nerves his arm to do and bear.” Isn’t that good? It makes me feel all holy, like hymns or “<title key="God Save the King" ref="http://www.wikidata.org/entity/Q40807">God Save the King</title>.”</p>
-                <p>In <title key="Lost in the Backwoods" ref="https://books.google.ie/books/about/Lost_in_the_Backwoods_Esprios_Classics.html?id=UtxezgEACAAJ&amp;source=kp_book_description&amp;redir_esc=y">Lost in the Backwoods</title> Catharine and the boys have built themselves sleds and are whizzing down hills. I CAN’T WAIT for winter and snow. There’s a good hill out by the coulee.</p>
+                <p>I wonder if Auntie Millie would like to read <title key="Lost in the Backwoods" ref="https://likethetree.github.io/reference/#lost-in-the-backwoods">Lost in the Backwoods</title>. It says, “To be up and doing is the maxim of a Canadian; and it is this that nerves his arm to do and bear.” Isn’t that good? It makes me feel all holy, like hymns or “<title key="God Save the King" ref="http://www.wikidata.org/entity/Q40807">God Save the King</title>.”</p>
+                <p>In <title key="Lost in the Backwoods" ref="https://likethetree.github.io/reference/#lost-in-the-backwoods">Lost in the Backwoods</title> Catharine and the boys have built themselves sleds and are whizzing down hills. I CAN’T WAIT for winter and snow. There’s a good hill out by the coulee.</p>
                 <p>Mother and Dad had words before tea. Mother said, “Now that we have Jack to take care of we absolutely need to buy a copper to boil the nappies.” (We didn’t bring our copper from home because it was too big and heavy.) Then Dad said that we couldn’t afford to buy a copper because we needed to save for shoes and that. (Then I remembered the secret under my mattress. But I cast the thought from my mind.) Then Mother got cross. But it all turned out to be for nothing because Elizabeth’s mother came over and told Mother that they don’t boil nappies in <placeName key="Canada" ref="http://www.wikidata.org/entity/Q16">Canada</placeName>. They just peg them out and the prairie sun bleaches them. Too sleepy to write more.</p>
             </div>
             <div type="entry" n="45">
@@ -55066,7 +55068,7 @@
                 <p>Flying Jack</p>
                 <p>I’m in trouble again. I took Baby Jack over to Elizabeth’s house and we were playing with him and Otto. <rs key="peekaboo" ref="http://www.wikidata.org/entity/Q53705">Peepo</rs> and that. (In Canada they call it <rs key="peekaboo" ref="http://www.wikidata.org/entity/Q53705">peekaboo</rs>). Then we got this idea to put them in a flour sack and give them swings. It worked fine with Otto. And at first it was fine with Baby Jack. He loved it. He made this hiccup noise he makes when he’s really happy. But then the bottom of the flour sack ripped open and Jack went flying through the air, headfirst into the Mullers’ <rs key="chiffonier" ref="https://likethetree.github.io/reference/#chiffonier">chiffonier</rs>. He got a nosebleed and quite a lot of blood got onto the <rs key="doily" ref="https://likethetree.github.io/reference/#doily">doilies</rs> on the <rs key="chiffonier" ref="https://likethetree.github.io/reference/#chiffonier">chiffonier</rs>. And of course he cried a lot. I felt awful.</p>
                 <p>At least we’re both in trouble. It’s not quite so bad being in trouble with a friend. And Mrs. Muller is pretty nice. Truth to tell, it was my idea but Elizabeth took half the blame.</p>
-                <p>Mrs. Muller put <rs key="Mercurochrome" ref="http://www.wikidata.org/entity/Q16664098">Mercurochrome</rs> on Jack’s wounds. I thought perhaps we could bind them with cooling leaves of <rs key="tacmahac" ref="https://www.merriam-webster.com/dictionary/tacamahac">tacmahac</rs>, like Catharine does in <title key="Lost in the Backwoods" ref="https://books.google.ie/books/about/Lost_in_the_Backwoods_Esprios_Classics.html?id=UtxezgEACAAJ&amp;source=kp_book_description&amp;redir_esc=y">Lost in the Backwoods</title>, but Mrs. Muller thought <rs key="Mercurochrome" ref="http://www.wikidata.org/entity/Q16664098">Mercurochrome</rs> would be better. And she told me that if the blood doesn’t come out of the <rs key="doily" ref="https://likethetree.github.io/reference/#doily">doilies</rs> she’ll teach me to tat and I can make new ones.</p>
+                <p>Mrs. Muller put <rs key="Mercurochrome" ref="http://www.wikidata.org/entity/Q16664098">Mercurochrome</rs> on Jack’s wounds. I thought perhaps we could bind them with cooling leaves of <rs key="tacmahac" ref="https://www.merriam-webster.com/dictionary/tacamahac">tacmahac</rs>, like Catharine does in <title key="Lost in the Backwoods" ref="https://likethetree.github.io/reference/#lost-in-the-backwoods">Lost in the Backwoods</title>, but Mrs. Muller thought <rs key="Mercurochrome" ref="http://www.wikidata.org/entity/Q16664098">Mercurochrome</rs> would be better. And she told me that if the blood doesn’t come out of the <rs key="doily" ref="https://likethetree.github.io/reference/#doily">doilies</rs> she’ll teach me to tat and I can make new ones.</p>
                 <p>At least Jack doesn’t blame me. He sat on my lap all evening and held onto my ear.</p>
             </div>
             <div type="entry" n="46">
@@ -55239,7 +55241,7 @@
             <div type="entry" n="70">
                 <p><date when="1926-08-11">August 11</date></p>
                 <p>I ache all over. Gladys and I both have blue bruises on our legs and arms. The hail is all melted and outside it just looks like ordinary summer again. But part of me thinks it is a trick. Mother says I am excused from chickens today. Gladys and I are going to help make a cake for the Chicken Lady to thank her.</p>
-                <p>This is the most <title key="Lost in the Backwoods" ref="https://books.google.ie/books/about/Lost_in_the_Backwoods_Esprios_Classics.html?id=UtxezgEACAAJ&amp;source=kp_book_description&amp;redir_esc=y">Lost in the Backwoods</title> thing that has ever happened to me.</p>
+                <p>This is the most <title key="Lost in the Backwoods" ref="https://likethetree.github.io/reference/#lost-in-the-backwoods">Lost in the Backwoods</title> thing that has ever happened to me.</p>
                 <p>Mother wasn’t angry about the quilt. She said that she will teach me how to take out the inky piece and put a new piece in.</p>
             </div>
             <div type="entry" n="71">
@@ -55274,7 +55276,7 @@
             <div type="entry" n="74">
                 <p><date when="1926-08-25">August 25</date></p>
                 <p>Thoughts on Mosquitoes</p>
-                <p>I’m nearly at the end of <title key="Lost in the Backwoods" ref="https://books.google.ie/books/about/Lost_in_the_Backwoods_Esprios_Classics.html?id=UtxezgEACAAJ&amp;source=kp_book_description&amp;redir_esc=y">Lost in the Backwoods</title>. (I stopped for a while because Elizabeth lent me her <title key="Anne of Green Gables" ref="https://likethetree.github.io/reference/#anne-of-green-gables">Anne of Green Gables</title>. It was swell.) Catharine has been captured by Indians. Louis has given way to transports of grief and despair. I’m pretty sure Louis is sweet on Catharine. Mrs. Traill does not mention mosquitoes. I have twenty-seven mosquito bites. I tried sleeping with my sheet over my head but I nearly died of sweating. I am trying self-control not to scratch them. Gladys’s are all bleeding. Mother tried putting a baking-soda paste on them but it doesn’t really help. The only thing that helps is slapping the bites. But it only helps for a minute. And you have to slap hard.</p>
+                <p>I’m nearly at the end of <title key="Lost in the Backwoods" ref="https://likethetree.github.io/reference/#lost-in-the-backwoods">Lost in the Backwoods</title>. (I stopped for a while because Elizabeth lent me her <title key="Anne of Green Gables" ref="https://likethetree.github.io/reference/#anne-of-green-gables">Anne of Green Gables</title>. It was swell.) Catharine has been captured by Indians. Louis has given way to transports of grief and despair. I’m pretty sure Louis is sweet on Catharine. Mrs. Traill does not mention mosquitoes. I have twenty-seven mosquito bites. I tried sleeping with my sheet over my head but I nearly died of sweating. I am trying self-control not to scratch them. Gladys’s are all bleeding. Mother tried putting a baking-soda paste on them but it doesn’t really help. The only thing that helps is slapping the bites. But it only helps for a minute. And you have to slap hard.</p>
                 <p>Dad says mosquitoes like fresh English blood. He says they say to each other, “Fee fi fo fum, I smell the blood of an Englishman.”</p>
                 <p>Question about mosquitoes: Why? I understand about them biting. They want our blood for lunch. But why make an itchy bite? It doesn’t do the mosquitoes any good. It makes us more likely to swat them and kill them. And it doesn’t do humans any good. Aren’t we more likely to get infections if we have bloody wounds on us? It would work out better for everybody if we could just hold out our arms and say, “Come and get it,” and give mosquitoes a free lunch without getting itchy.</p>
                 <p>Mother was at the Homemaker’s Club today. The news is that Doctor Johnstone’s niece is coming to visit. Her name is Lorayne LaMott and she is seventeen years old and she attends the Marvel School of Cosmetology in <placeName key="Regina" ref="http://www.wikidata.org/entity/Q2123">Regina</placeName>.</p>
@@ -55325,7 +55327,7 @@
             <div type="entry" n="81">
                 <p><date when="1926-09-06">September 6</date></p>
                 <p>A Happy End to Adversity (I stole this from Mrs. Traill)</p>
-                <p>I finished <title key="Lost in the Backwoods" ref="https://books.google.ie/books/about/Lost_in_the_Backwoods_Esprios_Classics.html?id=UtxezgEACAAJ&amp;source=kp_book_description&amp;redir_esc=y">Lost in the Backwoods</title>. Catharine was rescued. After three years they all get home safely. Later on Catharine and Louis get married. It seems to me that she is going to find it a bit dull, cooking breakfast and washing nappies.</p>
+                <p>I finished <title key="Lost in the Backwoods" ref="https://likethetree.github.io/reference/#lost-in-the-backwoods">Lost in the Backwoods</title>. Catharine was rescued. After three years they all get home safely. Later on Catharine and Louis get married. It seems to me that she is going to find it a bit dull, cooking breakfast and washing nappies.</p>
             </div>
             <div type="entry" n="82">
                 <p><date when="1926-09-07">September 7</date></p>
