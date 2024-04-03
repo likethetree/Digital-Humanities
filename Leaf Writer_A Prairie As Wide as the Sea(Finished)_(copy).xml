@@ -29599,7 +29599,7 @@
 	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240329164701442",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-29T16:47:01.442Z",
-	"dcterms:modified": "2024-03-29T16:47:01.442Z",
+	"dcterms:modified": "2024-04-03T12:20:26.356Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/likethetree",
 		"@type": [
@@ -29631,7 +29631,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "owl:Thing",
-		"@id": "http://www.wikidata.org/entity/Q506839",
+		"@id": "https://likethetree.github.io/reference/#threshing-machine",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -44238,7 +44238,7 @@
 	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240330133616443",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-30T13:36:16.443Z",
-	"dcterms:modified": "2024-03-30T13:36:16.443Z",
+	"dcterms:modified": "2024-04-03T12:20:54.746Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/likethetree",
 		"@type": [
@@ -44270,7 +44270,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "owl:Thing",
-		"@id": "http://dbpedia.org/resource/Tinkertoy",
+		"@id": "https://likethetree.github.io/reference/#tinkertoys",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -45814,7 +45814,7 @@
 	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240330134559389",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-30T13:45:59.389Z",
-	"dcterms:modified": "2024-03-30T13:45:59.389Z",
+	"dcterms:modified": "2024-04-03T12:21:02.297Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/likethetree",
 		"@type": [
@@ -45846,7 +45846,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "owl:Thing",
-		"@id": "http://dbpedia.org/resource/Tinkertoy",
+		"@id": "https://likethetree.github.io/reference/#tinkertoys",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -51069,7 +51069,7 @@
 	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240330143814694",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-30T14:38:14.694Z",
-	"dcterms:modified": "2024-03-30T14:38:14.694Z",
+	"dcterms:modified": "2024-04-03T12:21:15.969Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/likethetree",
 		"@type": [
@@ -51101,7 +51101,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "owl:Thing",
-		"@id": "http://www.wikidata.org/entity/Q29200715",
+		"@id": "https://likethetree.github.io/reference/#toque",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -56309,7 +56309,7 @@
                 <p>Harvest</p>
                 <p>Today I went over to Elizabeth’s to help take doughnuts to the harvesters.</p>
                 <p>The harvesters have their breakfast (bacon, sausages, eggs, pancakes, toast, jam and apple pie) at five o’clock, so by nine o’clock they need more food. Mrs. Muller’s doughnuts are delicious. No, delicious isn’t the right word. It is too little. They are <rs key="manna" ref="http://www.wikidata.org/entity/Q241156">manna</rs>. Last Sunday in church, Mr. Quigley read the lesson about the children of <placeName key="Kingdom of Israel" ref="http://www.wikidata.org/entity/Q230407">Israel</placeName> lost in the wilderness and how God sent them manna in the morning. Mr. Quigley said that the <title key="Bible" ref="http://www.wikidata.org/entity/Q1845">Bible</title> said that manna was like wafers made with honey and we should think of the most delicious thing we could. I thought of Mrs. Muller’s doughnuts. She piles those doughnuts into big baskets lined with napkins and Elizabeth and I take them out to the fields. Then when we come back Mrs. Muller gives us little round doughnut holes.</p>
-                <p>Then we went out to watch the <rs key="threshing machine" ref="http://www.wikidata.org/entity/Q506839">threshing machine</rs>. It is a wonder. It looks like a hungry animal gobbling the sheaves of grain. You can watch it for hours without getting bored. Gears and wheels and belts and big knives and a big steam engine. Grain spilling into the granary and straw blowing out a pipe and making a big pile. Mr. Muller walks around oiling and greasing and adjusting bits of machinery. It is the first time I’ve seen him smile.</p>
+                <p>Then we went out to watch the <rs key="threshing machine" ref="https://likethetree.github.io/reference/#threshing-machine">threshing machine</rs>. It is a wonder. It looks like a hungry animal gobbling the sheaves of grain. You can watch it for hours without getting bored. Gears and wheels and belts and big knives and a big steam engine. Grain spilling into the granary and straw blowing out a pipe and making a big pile. Mr. Muller walks around oiling and greasing and adjusting bits of machinery. It is the first time I’ve seen him smile.</p>
                 <p>P.S. One more thing about doughnuts and manna. The best part of the <title key="Bible" ref="http://www.wikidata.org/entity/Q1845">Bible</title> story is how the children of Israel aren’t allowed to save any of their manna for the next day. If they try it the manna gets worms in it and goes all nasty. Mrs. Muller wouldn’t need to worry about that. There would be no chance of finding worms in the doughnuts the next day because the harvesters never leave ANY LEFTOVERS.</p>
             </div>
             <div type="entry" n="98">
@@ -56740,7 +56740,7 @@
                 <p>It is now Christmas afternoon. I feel happy and also a kind of sad that is almost like happy.</p>
                 <p>Christmas dinner was lovely, with roast duck and a Christmas pudding that Mr. Gilmour lit on fire. We had crackers with mottoes and silly paper hats. My motto was “The longest way round may be the shortest way home.” After dinner we played <rs key="charades" ref="http://www.wikidata.org/entity/Q2144077">charades</rs>. Mrs. Gilmour is very clever with charades. She was on our team and she made up a wonderful act for the word “pilgrim.” First she was “pill.” That was fairly easy. Then she was “grim,” which made everyone laugh a lot because she kept pulling these dreadful faces. Then we all dressed up as pilgrims with bathrobes and wooden poles as our staffs and went walking around the room.</p>
                 <p>This morning we opened our presents and stockings. My present from Auntie Lou was a book. It is called <title key="At the Back of the North Wind" ref="https://likethetree.github.io/reference/#north-wind">At the Back of the North Wind</title>. I don’t want to start it too soon. I’m torturing myself by opening it and reading just one sentence on a page. Auntie Lou sent a book for William too. It is <title key="The Adventures of Sherlock Holmes" ref="http://www.wikidata.org/entity/Q392147">The Adventures of Sherlock Holmes</title>.</p>
-                <p>My other presents were mitts and a box of watercolours. William got mitts and snowshoes. Gladys got mitts and a doll. Harry got mitts and a set of <rs key="Tinkertoy" ref="http://dbpedia.org/resource/Tinkertoy">Tinkertoys</rs>. Now I know what Mother was mysteriously knitting!</p>
+                <p>My other presents were mitts and a box of watercolours. William got mitts and snowshoes. Gladys got mitts and a doll. Harry got mitts and a set of <rs key="Tinkertoy" ref="https://likethetree.github.io/reference/#tinkertoys">Tinkertoys</rs>. Now I know what Mother was mysteriously knitting!</p>
                 <p>Then we went to church. Even Dad came, and he hardly ever goes to church. It was carols and the Christmas story. I never thought before how the Christmas story is about travelling to a new place. Also, the holy land isn’t very much like Milorie but I did wonder if the stable with the manger was a bit like a <rs key="sod hut" ref="https://likethetree.github.io/reference/#sod-house">sod hut</rs>.</p>
                 <p>Goose and crackers and the shepherds and oranges in our stockings. So many things are just the same about Christmas in <placeName key="Canada" ref="http://www.wikidata.org/entity/Q16">Canada</placeName>. It is making me sad for the things that are different, like no Auntie Lou and no Grandad.</p>
                 <p>William has gone off to try out his snowshoes. He has left a trail of dinted snow, just like in “<title key="Good King Wenceslas" ref="http://www.wikidata.org/entity/Q1529116">Good King Wenceslas</title>.”</p>
@@ -56776,7 +56776,7 @@
                 <p>Bits and Pieces</p>
                 <p>Still very cold. Went to church this morning. Mr. Quigley read the story about when <persName key="Jesus" ref="http://www.wikidata.org/entity/Q302">Jesus</persName> was twelve years old he wandered off and his parents found him in the temple, talking to the priests. I thought of the twelve-year-old boys I know, but I don’t think <persName key="Jesus" ref="http://www.wikidata.org/entity/Q302">Jesus</persName> was messy and loud like them. Maybe it isn’t even proper to wonder about that.</p>
                 <p><title key="At the Back of the North Wind" ref="https://likethetree.github.io/reference/#north-wind">At the Back of the North Wind</title> is about a very poor boy named Diamond. His father named him after a horse. This is a good idea. I would be happy to name a daughter Dot.</p>
-                <p>Harry has made the <rs key="Eiffel Tower" ref="http://www.wikidata.org/entity/Q243">Eiffel Tower</rs> with his <rs key="Tinkertoy" ref="http://dbpedia.org/resource/Tinkertoy">Tinkertoys</rs>. He put the walnut turtle on the top.</p>
+                <p>Harry has made the <rs key="Eiffel Tower" ref="http://www.wikidata.org/entity/Q243">Eiffel Tower</rs> with his <rs key="Tinkertoy" ref="https://likethetree.github.io/reference/#tinkertoys">Tinkertoys</rs>. He put the walnut turtle on the top.</p>
             </div>
             <div type="entry" n="162">
                 <p><date when="1927-01-12">January 12</date></p>
@@ -57101,7 +57101,7 @@
                 <p>On Tuesday, the snow day, I did write to Auntie Lou. Then I helped Mother make bread. I had to do the kneading. We made cloverleaf rolls for a treat. The snow got heavier and heavier and blowier and blowier (blowier is probably not grammar but Miss Hutchinson is not going to be reading this). I remembered the day last fall when I burnt up the chairs.</p>
                 <p>After the bread was set to rise I went upstairs to play juicy meat with the twins when it all started. (If you want to know how to play juicy meat see the P.S. Otherwise just go on with this story.) Mother came upstairs and she looked so serious that I thought we were going to get in trouble. (Juicy meat can be quite a noisy game.) But she just told the twins to go down to the kitchen and then she sat on the edge of the bed and told me she needed me. She told me that Mr. Nygaard was downstairs and that Mrs. Nygaard had started to have her baby and that the doctor was snowed in at a farm near Stanton and couldn’t come. Mr. Nygaard needed Mother to come because he knew she had been a midwife in <placeName key="England" ref="http://www.wikidata.org/entity/Q21">England</placeName>. “But,” said Mother, “I can’t manage with my wrist. Mr. Nygaard thinks I need to come straight away and the snow is getting heavier by the minute. Mrs. Johnstone has gone to Stanton with the doctor and I don’t have time to fetch Mrs. Gilmour. I need you to come and help. Do you think you can do it?”</p>
                 <p>How do you know if you can do something you’ve never done? I felt scared. I said, “I think so.”</p>
-                <p>Then Mother got very brisk. She got out her carpetbag and I went around and collected things like scissors, soap, the ragbag and the oilcloth from our table. At the last minute Mother put the cloverleaf rolls in a bag. “Don’t know what we’ll find,” she said. We put on our warmest clothes. I borrowed William’s jacket and <rs key="tuque" ref="http://www.wikidata.org/entity/Q29200715">toque</rs>. The only good thing about the walk to the Nygaards’ was that the wind was behind us, pushing us along.</p>
+                <p>Then Mother got very brisk. She got out her carpetbag and I went around and collected things like scissors, soap, the ragbag and the oilcloth from our table. At the last minute Mother put the cloverleaf rolls in a bag. “Don’t know what we’ll find,” she said. We put on our warmest clothes. I borrowed William’s jacket and <rs key="tuque" ref="https://likethetree.github.io/reference/#toque">toque</rs>. The only good thing about the walk to the Nygaards’ was that the wind was behind us, pushing us along.</p>
                 <p>We arrived at the Nygaards’ farm. Mother went right into the bedroom. I unpacked the bag. When Mother came out she said it would be a while yet and that Mr. Nygaard should go out and water the stock. Then she made a cup of tea and we sat for a minute and she talked to me. She was serious but not cross. She said that it took a long time for a baby to be born, that there was going to be pain and mess, but that we must keep our minds on the fact that we had a job to do, to help Mrs. Nygaard as much as we could. Then she said it was a good thing that she had never been one for telling us that babies were found under gooseberry bushes or any of that nonsense and we both laughed a little bit.</p>
                 <p>It’s true. I did know how babies are born. But I didn’t really know. Not like you know when you’ve been there and seen it. It was very surprising and amazing and scary and happy and I don’t know what other descriptive words to use.</p>
                 <p>We arrived at the farm about three o’clock in the afternoon and the baby was born at ten the next morning. An afternoon, evening, night and morning and everything got mixed up in time. First thing we did was cut our fingernails and scrub our hands until they were pink. Then we remade Mrs. Nygaard’s bed with the oilcloth under the sheet. Nobody said this was because there was going to be blood and things but I figured it out and it made my stomach jump up and down a bit. Then Mother got me to sew clean rags around fat bundles of sheets of newspaper. It wasn’t good sewing but nobody cared.</p>
