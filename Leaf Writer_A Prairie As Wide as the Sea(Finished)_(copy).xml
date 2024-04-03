@@ -426,6 +426,7 @@
 	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?title_annotation_20240328161333787",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-28T16:13:33.787Z",
+	"dcterms:modified": "2024-04-03T12:02:30.959Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/likethetree",
 		"@type": [
@@ -457,7 +458,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "bf:Title",
-		"@id": "https://books.google.ie/books/about/Lost_in_the_Backwoods_Esprios_Classics.html?id=UtxezgEACAAJ&source=kp_book_description&redir_esc=y",
+		"@id": "https://likethetree.github.io/reference/#lost-in-the-backwoods",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -1910,6 +1911,7 @@
 	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?title_annotation_20240328162402146",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-28T16:24:02.146Z",
+	"dcterms:modified": "2024-04-03T12:02:48.685Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/likethetree",
 		"@type": [
@@ -1941,7 +1943,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "bf:Title",
-		"@id": "https://books.google.ie/books/about/Lost_in_the_Backwoods_Esprios_Classics.html?id=UtxezgEACAAJ&source=kp_book_description&redir_esc=y",
+		"@id": "https://likethetree.github.io/reference/#lost-in-the-backwoods",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -8847,6 +8849,7 @@
 	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?title_annotation_20240328170321110",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-28T17:03:21.110Z",
+	"dcterms:modified": "2024-04-03T12:03:01.206Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/likethetree",
 		"@type": [
@@ -8878,7 +8881,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "bf:Title",
-		"@id": "https://books.google.ie/books/about/Lost_in_the_Backwoods_Esprios_Classics.html?id=UtxezgEACAAJ&source=kp_book_description&redir_esc=y",
+		"@id": "https://likethetree.github.io/reference/#lost-in-the-backwoods",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -30141,7 +30144,7 @@
 	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240329164957292",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-29T16:49:57.292Z",
-	"dcterms:modified": "2024-03-29T16:49:57.292Z",
+	"dcterms:modified": "2024-04-03T12:00:49.966Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/likethetree",
 		"@type": [
@@ -30173,7 +30176,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "owl:Thing",
-		"@id": "http://www.wikidata.org/entity/Q2472769",
+		"@id": "https://likethetree.github.io/reference/#long-underwear",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -30534,7 +30537,7 @@
 	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240329165115095",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-29T16:51:15.095Z",
-	"dcterms:modified": "2024-03-29T16:51:15.095Z",
+	"dcterms:modified": "2024-04-03T12:01:03.174Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/likethetree",
 		"@type": [
@@ -30566,7 +30569,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "owl:Thing",
-		"@id": "http://www.wikidata.org/entity/Q2472769",
+		"@id": "https://likethetree.github.io/reference/#long-underwear",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -54217,7 +54220,7 @@
 	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240403125909165",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-03T11:59:09.165Z",
-	"dcterms:modified": "2024-04-03T11:59:09.165Z",
+	"dcterms:modified": "2024-04-03T12:01:13.893Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/likethetree",
 		"@type": [
@@ -54296,7 +54299,7 @@
 	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240403125927845",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-03T11:59:27.845Z",
-	"dcterms:modified": "2024-04-03T11:59:27.845Z",
+	"dcterms:modified": "2024-04-03T12:01:22.605Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/likethetree",
 		"@type": [
@@ -54683,7 +54686,7 @@
             <div type="entry" n="1">
                 <p><date when="1926-05-01">May 1, 1926</date></p>
                 <p><placeName key="107 Halley Road" ref="https://www.google.com/maps/place/107+Halley+Rd,+London+E7+8DX,+UK/@51.5447287,0.0373236,19.49z/data=!4m15!1m8!3m7!1s0x47d8a7a3b9417f29:0x9f64c757238c31d2!2sForest+Gate,+London,+UK!3b1!8m2!3d51.5439215!4d0.0264272!16zL20vMDNzbXA3!3m5!1s0x47d8a7b046034ec3:0xbbdf45f8194e9550!8m2!3d51.544946!4d0.0374327!16s%2Fg%2F11c22y4qwm?entry=ttu">107 Halley Road</placeName>, <placeName key="Forest Gate" ref="http://www.wikidata.org/entity/Q1656032">Forest Gate</placeName>, <placeName key="City of London" ref="http://www.wikidata.org/entity/Q23311">London</placeName>, <placeName key="England" ref="http://www.wikidata.org/entity/Q21">England</placeName></p>
-                <p>My name is Ivy Doris Weatherall. I am eleven years old. This is the first diary I have ever had. Auntie Lou gave it to me because she said that I was starting the greatest adventure of my life and I should record it. The greatest adventure is that we are emigrating to <placeName key="Canada" ref="http://www.wikidata.org/entity/Q16">Canada</placeName>. Auntie Lou also gave me a <rs key="fountain pen" ref="https://likethetree.github.io/reference/#fountain-pen">fountain pen</rs>. I am going to use my best penmanship and I am going to write every day. She also gave me a book called <title key="Lost in the Backwoods" ref="https://books.google.ie/books/about/Lost_in_the_Backwoods_Esprios_Classics.html?id=UtxezgEACAAJ&amp;source=kp_book_description&amp;redir_esc=y" level="s">Lost in the Backwoods</title>, which is a Canadian story. Auntie Lou is the kindest relative. I wish she were coming to <placeName key="Canada" ref="http://www.wikidata.org/entity/Q16">Canada</placeName> too.</p>
+                <p>My name is Ivy Doris Weatherall. I am eleven years old. This is the first diary I have ever had. Auntie Lou gave it to me because she said that I was starting the greatest adventure of my life and I should record it. The greatest adventure is that we are emigrating to <placeName key="Canada" ref="http://www.wikidata.org/entity/Q16">Canada</placeName>. Auntie Lou also gave me a <rs key="fountain pen" ref="https://likethetree.github.io/reference/#fountain-pen">fountain pen</rs>. I am going to use my best penmanship and I am going to write every day. She also gave me a book called <title key="Lost in the Backwoods" ref="https://likethetree.github.io/reference/#lost-in-the-backwoods" level="s">Lost in the Backwoods</title>, which is a Canadian story. Auntie Lou is the kindest relative. I wish she were coming to <placeName key="Canada" ref="http://www.wikidata.org/entity/Q16">Canada</placeName> too.</p>
                 <p>We leave tomorrow. All our things are packed into trunks and hampers. We are camping in our house. Tonight all the relatives are coming to say goodbye. I can’t wait until tomorrow. I wish I could snap my fingers and make it be now. I wish I were a conjurer. I would pull tomorrow out of a hat.</p>
                 <p>Mother just came and said I should go down to the pub and fetch Dad. He’s saying goodbye to his mates. I told her I was busy recording the greatest adventure of my life and why couldn’t William go. She said I was being cheeky and I had five minutes and then she wanted to see the back of me going out the door.</p>
                 <p>So now I am just going to write some facts. We are Mother, Dad, William (14), me, and the twins, Harry and Gladys (6). We are emigrating to Milorie, <placeName key="Saskatchewan" ref="http://www.wikidata.org/entity/Q1989">Saskatchewan</placeName>, where our Uncle Alf has a ranch. A ranch is like a farm with horses and cows, but much grander.</p>
@@ -54714,7 +54717,7 @@
                 <p><date when="1926-05-03">May 3</date></p>
                 <p>I love sleeping in our cabin. I was too excited to go to sleep right away so I just lay there and listened to everybody breathing. I had a dream about riding a horse, except it was riding across the ocean.</p>
                 <p>After breakfast Lloyd and William and I went exploring. Lloyd is very jolly. We came to a sign that said “Third Class Passengers Not Allowed Beyond This Point” and William was all for turning back. (William is inclined to be too well behaved.) But Lloyd put on a funny foreign accent and said, “I don’t read the English, do you?” So of course we said no. We carried on and found the first-class dining room. It is like <placeName key="Buckingham Palace" ref="http://www.wikidata.org/entity/Q42182">Buckingham Palace</placeName>, with silver, and chandeliers with diamonds. We peeked in the windows but then one of the officers found us and made us go back to third class. He was nice, though. I suppose we would be in trouble if Mother found out but she didn’t.</p>
-                <p>I have started reading <title key="Lost in the Backwoods" ref="https://books.google.ie/books/about/Lost_in_the_Backwoods_Esprios_Classics.html?id=UtxezgEACAAJ&amp;source=kp_book_description&amp;redir_esc=y" level="s">Lost in the Backwoods</title>. It is about pioneer families in <placeName key="Canada" ref="http://www.wikidata.org/entity/Q16">Canada</placeName>. There are three children, Catharine, her brother Hector and her cousin Louis. Catharine is twelve.</p>
+                <p>I have started reading <title key="Lost in the Backwoods" ref="https://likethetree.github.io/reference/#lost-in-the-backwoods" level="s">Lost in the Backwoods</title>. It is about pioneer families in <placeName key="Canada" ref="http://www.wikidata.org/entity/Q16">Canada</placeName>. There are three children, Catharine, her brother Hector and her cousin Louis. Catharine is twelve.</p>
                 <p>Tomorrow is lifeboat drill.</p>
             </div>
             <div type="entry" n="5">
@@ -54842,7 +54845,7 @@
             <div type="entry" n="20">
                 <p><date when="1926-05-20">May 20</date></p>
                 <p>Banished to the Fields</p>
-                <p>(In <title key="Lost in the Backwoods" ref="https://books.google.ie/books/about/Lost_in_the_Backwoods_Esprios_Classics.html?id=UtxezgEACAAJ&amp;source=kp_book_description&amp;redir_esc=y">Lost in the Backwoods</title> each page has a title, like “A Weighty Consideration” or “Forest Dainties.” I’m going to try it.)</p>
+                <p>(In <title key="Lost in the Backwoods" ref="https://likethetree.github.io/reference/#lost-in-the-backwoods">Lost in the Backwoods</title> each page has a title, like “A Weighty Consideration” or “Forest Dainties.” I’m going to try it.)</p>
                 <p>All my life I’ve wanted to sleep out under the stars and last night I did! (But not on the roof.) Uncle Alf put a couple of straw mattresses out for William and me. The moon was so bright it made shadows. I kept waking up and wondering where I was and why I wasn’t moving.</p>
                 <p>Chickens wake up very early. William and I went down the road a bit before anyone else stirred. We saw little furry creatures who pop out of holes and have a look round and pop down again. They are dear. I picked some flowers. (If I were Catharine I would know all their common and Latin names but I’m not and I don’t.) When we got back I gave the flowers to Auntie Millie and she got sad and said they would die right away and how much she missed her rose garden at home in <placeName key="England" ref="http://www.wikidata.org/entity/Q21">England</placeName>.</p>
                 <p>She cheered up after breakfast and tried to teach me to milk Sally. It is much harder than it looks. I couldn’t manage it. The cow kept turning her head and giving me a comical look.</p>
@@ -55450,7 +55453,7 @@
             <div type="entry" n="100">
                 <p><date when="1926-10-05">October 5</date></p>
                 <p>A Package from <title key="Eaton's" ref="http://www.wikidata.org/entity/Q3046643">Eaton’s</title></p>
-                <p>My <rs key="long underwear" ref="http://www.wikidata.org/entity/Q2472769">long underwear</rs> arrived. Two pairs. They are scratchy and they make me look lumpy. Mother says I have to wear them even though it is hardly cold at all. I’m sure that <persName key="Renée Adorée" ref="http://www.wikidata.org/entity/Q284722">Renee Adoree</persName> never had to wear <rs key="long underwear" ref="https://likethetree.github.io/reference/#long-underwear">long underwear</rs>.</p>
+                <p>My <rs key="long underwear" ref="https://likethetree.github.io/reference/#long-underwear">long underwear</rs> arrived. Two pairs. They are scratchy and they make me look lumpy. Mother says I have to wear them even though it is hardly cold at all. I’m sure that <persName key="Renée Adorée" ref="http://www.wikidata.org/entity/Q284722">Renee Adoree</persName> never had to wear <rs key="long underwear" ref="https://likethetree.github.io/reference/#long-underwear">long underwear</rs>.</p>
             </div>
             <div type="entry" n="101">
                 <p><date when="1926-10-06">October 6</date></p>
@@ -55462,7 +55465,7 @@
             </div>
             <div type="entry" n="102">
                 <p><date when="1926-10-09">October 9</date></p>
-                <p>The Truth About <rs key="long underwear" ref="http://www.wikidata.org/entity/Q2472769">Long Underwear</rs></p>
+                <p>The Truth About <rs key="long underwear" ref="https://likethetree.github.io/reference/#long-underwear">Long Underwear</rs></p>
                 <p>It stretches. Every day the legs get longer and longer. After the third day you have to roll them up. By Friday – elephant legs!</p>
             </div>
             <div type="entry" n="103">
