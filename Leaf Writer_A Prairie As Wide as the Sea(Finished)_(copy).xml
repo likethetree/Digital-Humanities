@@ -737,7 +737,7 @@
 	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240328161731878",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-28T16:17:31.878Z",
-	"dcterms:modified": "2024-04-03T11:32:14.118Z",
+	"dcterms:modified": "2024-04-03T11:33:52.529Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/likethetree",
 		"@type": [
@@ -4557,6 +4557,7 @@
 	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240328163905334",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-28T16:39:05.334Z",
+	"dcterms:modified": "2024-04-03T11:34:00.980Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/likethetree",
 		"@type": [
@@ -4588,7 +4589,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "owl:Thing",
-		"@id": "https://en.wikipedia.org/wiki/RMS_Ausonia",
+		"@id": "https://likethetree.github.io/reference/#ausonia",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -43042,7 +43043,7 @@
 	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240330133130381",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-30T13:31:30.381Z",
-	"dcterms:modified": "2024-03-30T13:31:30.381Z",
+	"dcterms:modified": "2024-04-03T11:33:32.537Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/likethetree",
 		"@type": [
@@ -43074,7 +43075,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "owl:Thing",
-		"@id": "https://en.wikipedia.org/wiki/RMS_Ausonia",
+		"@id": "https://likethetree.github.io/reference/#ausonia",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -53486,7 +53487,7 @@
                 <p>This morning the fog cleared and there was <placeName key="Canada" ref="http://www.wikidata.org/entity/Q16">Canada</placeName>! Land ahoy! <placeName key="Canada" ref="http://www.wikidata.org/entity/Q16">Canada</placeName> isn’t a trick after all. We are in the <placeName key="Gulf of Saint Lawrence" ref="http://www.wikidata.org/entity/Q169523">Gulf of the St. Lawrence River</placeName>. It is very wide. Far away on both sides are mountains, woods, villages, puffs of smoke. I’ve seen some fishing boats but I haven’t seen any Canadians yet. I told Gladys that it was <placeName key="Canada" ref="http://www.wikidata.org/entity/Q16">Canada</placeName> and she asked where Uncle Alf is. She doesn’t understand how big <placeName key="Canada" ref="http://www.wikidata.org/entity/Q16">Canada</placeName> is.</p>
                 <p>I’m trying and trying to imagine the ranch. Is it like <placeName key="Wanstead Flats" ref="http://www.wikidata.org/entity/Q7968099">Wanstead Flats</placeName> except with cows and horses?</p>
                 <p>Now it is time for our last meal on board. I hope they serve those scrumptious little crackers. Mother says I have to pack away this diary until we are on the train. She doesn’t want me to lose it and likely I will because I’m such a scatterbrain. That’s what Mother says. It’s not fair. I’m not a scatterbrain. I just think about a lot of things at the same time.</p>
-                <p>Goodbye, <rs key="Ausonia" ref="https://en.wikipedia.org/wiki/RMS_Ausonia">Ausonia</rs>. Goodbye, port and starboard. Goodbye, bow and stern. Goodbye, lifeboats. Goodbye, Lloyd. Goodbye, our home on the waves. Goodbye, lovely sea captain. Goodbye, captain’s beard. Goodbye, dear diary. But just for a day.</p>
+                <p>Goodbye, <rs key="Ausonia" ref="https://likethetree.github.io/reference/#ausonia">Ausonia</rs>. Goodbye, port and starboard. Goodbye, bow and stern. Goodbye, lifeboats. Goodbye, Lloyd. Goodbye, our home on the waves. Goodbye, lovely sea captain. Goodbye, captain’s beard. Goodbye, dear diary. But just for a day.</p>
             </div>
             <div type="entry" n="12">
                 <p><date when="1926-05-12">May 12</date></p>
@@ -54573,7 +54574,7 @@
             <div type="entry" n="154">
                 <p><date when="1926-12-21">December 21</date></p>
                 <p>Planning Presents</p>
-                <p>Today is my day to make presents. For Mother and Dad I’m going to make a picture of the <rs key="Ausonia" ref="https://en.wikipedia.org/wiki/RMS_Ausonia">Ausonia</rs> at sea. For Harry a walnut-shell turtle. For Gladys a set of paper dolls. For William a pen-wiper.</p>
+                <p>Today is my day to make presents. For Mother and Dad I’m going to make a picture of the <rs key="Ausonia" ref="https://likethetree.github.io/reference/#ausonia">Ausonia</rs> at sea. For Harry a walnut-shell turtle. For Gladys a set of paper dolls. For William a pen-wiper.</p>
                 <p>Mother is doing secret knitting.</p>
             </div>    
             <div type="entry" n="155">
