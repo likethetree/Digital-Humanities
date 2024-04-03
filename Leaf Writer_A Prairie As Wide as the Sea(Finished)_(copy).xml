@@ -19058,7 +19058,7 @@
 	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240329150404590",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-29T15:04:04.590Z",
-	"dcterms:modified": "2024-03-29T15:04:04.590Z",
+	"dcterms:modified": "2024-04-03T12:09:14.346Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/likethetree",
 		"@type": [
@@ -19090,7 +19090,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "owl:Thing",
-		"@id": "http://www.wikidata.org/entity/Q182323",
+		"@id": "https://likethetree.github.io/reference/#model-t",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -19371,7 +19371,7 @@
 	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240329150752597",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-29T15:07:52.597Z",
-	"dcterms:modified": "2024-03-29T15:07:52.597Z",
+	"dcterms:modified": "2024-04-03T12:09:21.748Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/likethetree",
 		"@type": [
@@ -19403,7 +19403,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "owl:Thing",
-		"@id": "http://www.wikidata.org/entity/Q182323",
+		"@id": "https://likethetree.github.io/reference/#model-t",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -19528,7 +19528,7 @@
 	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240329150839751",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-29T15:08:39.751Z",
-	"dcterms:modified": "2024-03-29T15:08:39.751Z",
+	"dcterms:modified": "2024-04-03T12:09:28.633Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/likethetree",
 		"@type": [
@@ -19560,7 +19560,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "owl:Thing",
-		"@id": "http://www.wikidata.org/entity/Q182323",
+		"@id": "https://likethetree.github.io/reference/#model-t",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -19763,7 +19763,7 @@
 	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240329150947029",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-29T15:09:47.029Z",
-	"dcterms:modified": "2024-03-29T15:09:47.029Z",
+	"dcterms:modified": "2024-04-03T12:10:57.042Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/likethetree",
 		"@type": [
@@ -19795,7 +19795,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "owl:Thing",
-		"@id": "http://www.wikidata.org/entity/Q182323",
+		"@id": "https://likethetree.github.io/reference/#model-t",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -20234,7 +20234,7 @@
 	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240329151230248",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-29T15:12:30.248Z",
-	"dcterms:modified": "2024-03-29T15:12:30.248Z",
+	"dcterms:modified": "2024-04-03T12:11:02.878Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/likethetree",
 		"@type": [
@@ -20266,7 +20266,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "owl:Thing",
-		"@id": "http://www.wikidata.org/entity/Q182323",
+		"@id": "https://likethetree.github.io/reference/#model-t",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -55186,7 +55186,7 @@
                 <p><date when="1926-07-03">July 3</date></p>
                 <p>Going for a Spin</p>
                 <p>I got too tired to write this yesterday and I was running out of ink anyway. Back to <rs key="Canada Day" ref="http://www.wikidata.org/entity/Q639756">Dominion Day</rs>.</p>
-                <p>It was hot in the barn and the twins and Baby Jack went to sleep almost right away, lying on a pile of straw. I was nearly asleep too when William came over and whispered that I should come with him. We went outside, around the corner of the barn and there was Hans sitting in the Mullers’ <rs key="Ford Model T" ref="http://www.wikidata.org/entity/Q182323">Model T</rs>. “Want to go for a spin?” he said. Hans is only thirteen years old. I asked him if he was allowed to drive and he just gave me a big wink. I knew it was naughty but I wanted to go SO MUCH so I said yes. Besides I figured that if we got into trouble William would get into bigger trouble than me. So I got in and Hans and William started saying things like spark lever and throttle lever and how you could break your wrist if the car backfired whilst you were cranking. Then Hans cranked and the motor started and both boys jumped in and we were off. My first ride in a private car. It was lovely lovely lovely. I could hardly breathe for being so happy. When Hans really “opened up” (that’s car talk for going fast) we must have been going thirty miles an hour. It felt as fast as the train except instead of being cooped up and tied to the track you can look up to the sky or down to the weeds along the side of the road which are WHIZZING by. If you put your cupped hand out you can scoop up air like water. It was like flying, but bumpier. Every bump made us whoop. We went down the road a piece and then back. I wanted to go all the way to Milorie, to Regina, to the North Pole! Most of all I would love to drive a car myself. When we got back nobody noticed except some men who were around the back of the barn passing around a bottle and they didn’t seem very interested.</p>
+                <p>It was hot in the barn and the twins and Baby Jack went to sleep almost right away, lying on a pile of straw. I was nearly asleep too when William came over and whispered that I should come with him. We went outside, around the corner of the barn and there was Hans sitting in the Mullers’ <rs key="Ford Model T" ref="https://likethetree.github.io/reference/#model-t">Model T</rs>. “Want to go for a spin?” he said. Hans is only thirteen years old. I asked him if he was allowed to drive and he just gave me a big wink. I knew it was naughty but I wanted to go SO MUCH so I said yes. Besides I figured that if we got into trouble William would get into bigger trouble than me. So I got in and Hans and William started saying things like spark lever and throttle lever and how you could break your wrist if the car backfired whilst you were cranking. Then Hans cranked and the motor started and both boys jumped in and we were off. My first ride in a private car. It was lovely lovely lovely. I could hardly breathe for being so happy. When Hans really “opened up” (that’s car talk for going fast) we must have been going thirty miles an hour. It felt as fast as the train except instead of being cooped up and tied to the track you can look up to the sky or down to the weeds along the side of the road which are WHIZZING by. If you put your cupped hand out you can scoop up air like water. It was like flying, but bumpier. Every bump made us whoop. We went down the road a piece and then back. I wanted to go all the way to Milorie, to Regina, to the North Pole! Most of all I would love to drive a car myself. When we got back nobody noticed except some men who were around the back of the barn passing around a bottle and they didn’t seem very interested.</p>
                 <p>So that was the first of July and the first of banana eating and the first of running three-legged and the first of going to a square dance and the first of riding in a car.</p>
             </div>
             <div type="entry" n="51">
@@ -55203,12 +55203,12 @@
             <div type="entry" n="53">
                 <p><date when="1926-07-15">July 15</date></p>
                 <p>Zowie</p>
-                <p>We get to go to the fair in the Mullers’ car! Flying all the way to Stanton. Eight miles! Mr. and Mrs. Muller are going with the wagon but Gerhard is going to drive the <rs key="Ford Model T" ref="http://www.wikidata.org/entity/Q182323">Model T</rs> and take me and Elizabeth. Hurray! Hurray! O frabjous day. How can I stand to wait a whole week and one day? (Reminder to myself: Remember to pretend that this is my first ride in a car.)</p>
+                <p>We get to go to the fair in the Mullers’ car! Flying all the way to Stanton. Eight miles! Mr. and Mrs. Muller are going with the wagon but Gerhard is going to drive the <rs key="Ford Model T" ref="https://likethetree.github.io/reference/#model-t">Model T</rs> and take me and Elizabeth. Hurray! Hurray! O frabjous day. How can I stand to wait a whole week and one day? (Reminder to myself: Remember to pretend that this is my first ride in a car.)</p>
             </div>
             <div type="entry" n="54">
                 <p><date when="1926-07-16">July 16</date></p>
                 <p>Toad Tale</p>
-                <p>Gerhard Muller is a toad. A toad of toads. This morning I was under Elizabeth’s front porch with Elizabeth. We didn’t go down there to eavesdrop. We were there before Toad-Gerhard and Worm-Emily Piggott even came onto the porch. Emily was supposedly at the Mullers’ to help Mrs. Muller make pies. But Elizabeth says she’s sweet on Gerhard and he’s sweet on her and that’s why she comes over so often. Toad-Gerhard and Worm-Emily started talking about the fair and the first thing we hear is Gerhard inviting Emily to join him in the <rs key="Ford Model T" ref="http://www.wikidata.org/entity/Q182323">Model T</rs>. Emily said that would be “looooovely.” (How come Gerhard doesn’t notice how silly Emily sounds? I think being sweet on somebody is like some sort of influenza that causes a person to be stupid.) Then Emily said how much more “looooovely” it would be if they would travel to the fair alone, just the two of them. So Gerhard hemmed and hawed and then he said that he would think of a way to get rid of the nuisances. NUISANCES! That’s the very word he used. Elizabeth and I were so mad that we could hardly keep quiet. But we did. Which was good. Because now we can plan our secret revenge.</p>
+                <p>Gerhard Muller is a toad. A toad of toads. This morning I was under Elizabeth’s front porch with Elizabeth. We didn’t go down there to eavesdrop. We were there before Toad-Gerhard and Worm-Emily Piggott even came onto the porch. Emily was supposedly at the Mullers’ to help Mrs. Muller make pies. But Elizabeth says she’s sweet on Gerhard and he’s sweet on her and that’s why she comes over so often. Toad-Gerhard and Worm-Emily started talking about the fair and the first thing we hear is Gerhard inviting Emily to join him in the <rs key="Ford Model T" ref="https://likethetree.github.io/reference/#model-t">Model T</rs>. Emily said that would be “looooovely.” (How come Gerhard doesn’t notice how silly Emily sounds? I think being sweet on somebody is like some sort of influenza that causes a person to be stupid.) Then Emily said how much more “looooovely” it would be if they would travel to the fair alone, just the two of them. So Gerhard hemmed and hawed and then he said that he would think of a way to get rid of the nuisances. NUISANCES! That’s the very word he used. Elizabeth and I were so mad that we could hardly keep quiet. But we did. Which was good. Because now we can plan our secret revenge.</p>
             </div>
             <div type="entry" n="55">
                 <p><date when="1926-07-17">July 17</date></p>
@@ -55219,7 +55219,7 @@
             <div type="entry" n="56">
                 <p><date when="1926-07-18">July 18</date></p>
                 <p>In the Doghouse</p>
-                <p>Elizabeth and I are in the doghouse. Who would have thought that Gerhard was not only a toad but a snitch? My punishment is that I have to clean the henhouse for a whole week by myself. Elizabeth’s punishment is that she has to weed the whole garden. Our punishment together is that we don’t get to go to the fair in the <rs key="Ford Model T" ref="http://www.wikidata.org/entity/Q182323">Model T</rs>, but only in the wagon like everybody else. (How do mothers think of these punishments? Do they have a secret book somewhere?) But here’s a secret, dear diary: I would do it again in a minute.</p>
+                <p>Elizabeth and I are in the doghouse. Who would have thought that Gerhard was not only a toad but a snitch? My punishment is that I have to clean the henhouse for a whole week by myself. Elizabeth’s punishment is that she has to weed the whole garden. Our punishment together is that we don’t get to go to the fair in the <rs key="Ford Model T" ref="https://likethetree.github.io/reference/#model-t">Model T</rs>, but only in the wagon like everybody else. (How do mothers think of these punishments? Do they have a secret book somewhere?) But here’s a secret, dear diary: I would do it again in a minute.</p>
                 <p>This afternoon after church and dinner Elizabeth and I hung around Gerhard whilst he groomed Ruby and cleaned all the harness and polished his boots. We were nice as pie but all the time we were thinking, “nuisance, nuisance, nuisance.” Then when he went off to change his clothes and slick back his hair and all that, we disappeared. We went out to a field along the road to the Piggott place. What did we have with us? My lunch pail full of cracked eggs.</p>
                 <p>When Gerhard rode by he got it. A full egg attack. The best one was right on Gerhard’s hat. One egg covers a lot when it is broken. We spent the afternoon down by the coulee and then we got hungry so we went back to the farm, wondering if we would have to face the music. We did. I drew a veil.</p>
                 <p>One funny thing: Mrs. Muller told everyone that we wouldn’t be mentioning this to Mr. Muller. They have a lot of secrets in that family.</p>
@@ -55241,7 +55241,7 @@
                 <p>Defeat</p>
                 <p>Phooey. Guess who entered Junior Jams and Jellies? Guess who entered with crabapple jelly, just like us? Guess who cut little circles of gingham cloth with her pinking shears to make little bonnets for her jelly jars? Guess who won first prize? The answer to all of the above questions is a girl whose initials are N.M., also known as Toffee-Nose. I think she won for her bonnets, not for her jelly, which wasn’t nearly as beautiful as ours. We won third prize.</p>
                 <p>The fair was fun, though. Mrs. Muller won a prize for her quilt. There was a new kind of <rs key="threshing machine" ref="http://www.wikidata.org/entity/Q506839">threshing machine</rs> that had all the men admiring it. I wanted to look too but the salesman was a grump. “No kids around here,” he said.</p>
-                <p>We did get to ride home in the <rs key="Ford Model T" ref="http://www.wikidata.org/entity/Q182323">Model T</rs>. I guess we are forgiven.</p>
+                <p>We did get to ride home in the <rs key="Ford Model T" ref="https://likethetree.github.io/reference/#model-t">Model T</rs>. I guess we are forgiven.</p>
                 <p>Good thing about <placeName key="Canada" ref="http://www.wikidata.org/entity/Q16">Canada</placeName>: bare feet. Dusty roads are very soft.</p>
             </div>
             <div type="entry" n="60">
