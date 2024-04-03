@@ -9317,7 +9317,7 @@
 	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240328170527083",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-28T17:05:27.083Z",
-	"dcterms:modified": "2024-04-01T17:31:45.366Z",
+	"dcterms:modified": "2024-04-03T11:56:15.082Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/likethetree",
 		"@type": [
@@ -9473,7 +9473,7 @@
 	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240328170623667",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-28T17:06:23.667Z",
-	"dcterms:modified": "2024-04-01T17:31:50.921Z",
+	"dcterms:modified": "2024-04-03T11:56:20.995Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/likethetree",
 		"@type": [
@@ -13850,7 +13850,7 @@
 	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240329143125200",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-29T14:31:25.200Z",
-	"dcterms:modified": "2024-04-01T17:32:01.829Z",
+	"dcterms:modified": "2024-04-03T11:56:42.377Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/likethetree",
 		"@type": [
@@ -14874,7 +14874,7 @@
 	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240329143743974",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-29T14:37:43.974Z",
-	"dcterms:modified": "2024-03-29T14:37:43.974Z",
+	"dcterms:modified": "2024-04-03T11:57:47.768Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/likethetree",
 		"@type": [
@@ -14906,7 +14906,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "owl:Thing",
-		"@id": "http://www.wikidata.org/entity/Q2335617",
+		"@id": "https://likethetree.github.io/reference/#hobby-horse",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -36673,7 +36673,7 @@
 	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240329171824945",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-29T17:18:24.945Z",
-	"dcterms:modified": "2024-03-29T17:18:24.945Z",
+	"dcterms:modified": "2024-04-03T11:57:25.516Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/likethetree",
 		"@type": [
@@ -36705,7 +36705,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "owl:Thing",
-		"@id": "http://www.wikidata.org/entity/Q189193",
+		"@id": "https://likethetree.github.io/reference/#great-auk",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -52716,7 +52716,7 @@
 	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240401183221553",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-01T17:32:21.553Z",
-	"dcterms:modified": "2024-04-01T17:32:21.553Z",
+	"dcterms:modified": "2024-04-03T11:56:58.460Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/likethetree",
 		"@type": [
@@ -52795,7 +52795,7 @@
 	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240401183247814",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-01T17:32:47.814Z",
-	"dcterms:modified": "2024-04-01T17:32:47.814Z",
+	"dcterms:modified": "2024-04-03T11:57:01.088Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/likethetree",
 		"@type": [
@@ -54545,7 +54545,7 @@
             <div type="entry" n="41">
                 <p><date when="1926-06-17">June 17</date></p>
                 <p>Parade</p>
-                <p>Today we went to the <rs key="Chautauqua" ref="https://likethetree.github.io/reference/#chautauqua">Chautauqua</rs> parade. It was children and animals. It was ever so funny. There was a marching drum band which was boys with dishpans. There were two boys on stilts. There were some small children riding <rs key="hobby horse" ref="http://www.wikidata.org/entity/Q2335617">hobby horses</rs>. There were all sorts of costumes like train conductor, clown and fairy. The animals were ponies, dogs, cats, a rabbit, two mice in a cage, and a pig. The animals started off with costumes but mostly they got rid of them by the end. The pig in the baby bonnet just lay down in the road about halfway along and refused to move. So they moved him into a wagon pulled by boys pretending to be horses.</p>
+                <p>Today we went to the <rs key="Chautauqua" ref="https://likethetree.github.io/reference/#chautauqua">Chautauqua</rs> parade. It was children and animals. It was ever so funny. There was a marching drum band which was boys with dishpans. There were two boys on stilts. There were some small children riding <rs key="hobby horse" ref="https://likethetree.github.io/reference/#hobby-horse">hobby horses</rs>. There were all sorts of costumes like train conductor, clown and fairy. The animals were ponies, dogs, cats, a rabbit, two mice in a cage, and a pig. The animals started off with costumes but mostly they got rid of them by the end. The pig in the baby bonnet just lay down in the road about halfway along and refused to move. So they moved him into a wagon pulled by boys pretending to be horses.</p>
                 <p>Everyone laughed.</p>
                 <p>Elizabeth told me the names of everyone. It was very muddling. The boy with the pig is called Abel Butt. One of the fairies was a very pretty girl called Nyla Muir. Elizabeth told me that she is a terrible show-off. I said was she a toffee-nose? Elizabeth didn’t know what that meant, so I told her it means that you act so superior that your nose is stuck in the air. Elizabeth said that was a perfect description of Nyla.</p>
                 <p>Lots of the girls have <rs key="bobs" ref="https://likethetree.github.io/reference/#bobbed-hair">bobs</rs>. I HAVE to get my hair <rs key="bobbed" ref="https://likethetree.github.io/reference/#bobbed-hair">bobbed</rs> before I start school.</p>
@@ -55155,7 +55155,7 @@
             <div type="entry" n="129">
                 <p><date when="1926-11-12">November 12</date></p>
                 <p>Extinction</p>
-                <p>Mystery solved. The heavy boxes were an encyclopedia. Today when I came home after school Mr. Ambrose was in the sitting room reading this fat leather book. He started to tell me about this huge flightless bird called the <rs key="Great Auk" ref="http://www.wikidata.org/entity/Q189193">great auk</rs>. I knew he liked stimulating conversation so I asked what happened to the auk and he told me about extinction. Then he told me that since he stopped farming he has started to read the encyclopedia, because he didn’t have much chance of an education when he was a lad and it is never too late. Then he said that it would be a great favour to him if I would think of a question every day to ask him.</p>
+                <p>Mystery solved. The heavy boxes were an encyclopedia. Today when I came home after school Mr. Ambrose was in the sitting room reading this fat leather book. He started to tell me about this huge flightless bird called the <rs key="Great Auk" ref="https://likethetree.github.io/reference/#great-auk">great auk</rs>. I knew he liked stimulating conversation so I asked what happened to the auk and he told me about extinction. Then he told me that since he stopped farming he has started to read the encyclopedia, because he didn’t have much chance of an education when he was a lad and it is never too late. Then he said that it would be a great favour to him if I would think of a question every day to ask him.</p>
             </div>
             <div type="entry" n="130">
                 <p><date when="1926-11-15">November 15</date></p>
