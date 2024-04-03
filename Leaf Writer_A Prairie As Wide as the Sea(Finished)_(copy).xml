@@ -17404,7 +17404,7 @@
 	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240329145249370",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-29T14:52:49.370Z",
-	"dcterms:modified": "2024-03-29T14:52:49.370Z",
+	"dcterms:modified": "2024-04-03T12:08:33.029Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/likethetree",
 		"@type": [
@@ -17436,7 +17436,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "owl:Thing",
-		"@id": "http://www.wikidata.org/entity/Q16664098",
+		"@id": "https://likethetree.github.io/reference/#mercurochrome",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -17641,7 +17641,7 @@
 	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240329145415908",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-29T14:54:15.908Z",
-	"dcterms:modified": "2024-03-29T14:54:15.908Z",
+	"dcterms:modified": "2024-04-03T12:08:39.665Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/likethetree",
 		"@type": [
@@ -17673,7 +17673,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "owl:Thing",
-		"@id": "http://www.wikidata.org/entity/Q16664098",
+		"@id": "https://likethetree.github.io/reference/#mercurochrome",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -54662,6 +54662,85 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240403130610554",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-04-03T12:06:10.554Z",
+	"dcterms:modified": "2024-04-03T12:06:10.554Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/likethetree",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Acacia McClay"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240403130610554#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240403130610554#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[155]/p[6]/rs[2]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "owl:Thing",
+		"@id": "https://likethetree.github.io/reference/#lyles-syrup",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData></teiHeader>
         
     
@@ -55069,7 +55148,7 @@
                 <p>Flying Jack</p>
                 <p>I’m in trouble again. I took Baby Jack over to Elizabeth’s house and we were playing with him and Otto. <rs key="peekaboo" ref="http://www.wikidata.org/entity/Q53705">Peepo</rs> and that. (In Canada they call it <rs key="peekaboo" ref="http://www.wikidata.org/entity/Q53705">peekaboo</rs>). Then we got this idea to put them in a flour sack and give them swings. It worked fine with Otto. And at first it was fine with Baby Jack. He loved it. He made this hiccup noise he makes when he’s really happy. But then the bottom of the flour sack ripped open and Jack went flying through the air, headfirst into the Mullers’ <rs key="chiffonier" ref="https://likethetree.github.io/reference/#chiffonier">chiffonier</rs>. He got a nosebleed and quite a lot of blood got onto the <rs key="doily" ref="https://likethetree.github.io/reference/#doily">doilies</rs> on the <rs key="chiffonier" ref="https://likethetree.github.io/reference/#chiffonier">chiffonier</rs>. And of course he cried a lot. I felt awful.</p>
                 <p>At least we’re both in trouble. It’s not quite so bad being in trouble with a friend. And Mrs. Muller is pretty nice. Truth to tell, it was my idea but Elizabeth took half the blame.</p>
-                <p>Mrs. Muller put <rs key="Mercurochrome" ref="http://www.wikidata.org/entity/Q16664098">Mercurochrome</rs> on Jack’s wounds. I thought perhaps we could bind them with cooling leaves of <rs key="tacmahac" ref="https://www.merriam-webster.com/dictionary/tacamahac">tacmahac</rs>, like Catharine does in <title key="Lost in the Backwoods" ref="https://likethetree.github.io/reference/#lost-in-the-backwoods">Lost in the Backwoods</title>, but Mrs. Muller thought <rs key="Mercurochrome" ref="http://www.wikidata.org/entity/Q16664098">Mercurochrome</rs> would be better. And she told me that if the blood doesn’t come out of the <rs key="doily" ref="https://likethetree.github.io/reference/#doily">doilies</rs> she’ll teach me to tat and I can make new ones.</p>
+                <p>Mrs. Muller put <rs key="Mercurochrome" ref="https://likethetree.github.io/reference/#mercurochrome">Mercurochrome</rs> on Jack’s wounds. I thought perhaps we could bind them with cooling leaves of <rs key="tacmahac" ref="https://www.merriam-webster.com/dictionary/tacamahac">tacmahac</rs>, like Catharine does in <title key="Lost in the Backwoods" ref="https://likethetree.github.io/reference/#lost-in-the-backwoods">Lost in the Backwoods</title>, but Mrs. Muller thought <rs key="Mercurochrome" ref="https://likethetree.github.io/reference/#mercurochrome">Mercurochrome</rs> would be better. And she told me that if the blood doesn’t come out of the <rs key="doily" ref="https://likethetree.github.io/reference/#doily">doilies</rs> she’ll teach me to tat and I can make new ones.</p>
                 <p>At least Jack doesn’t blame me. He sat on my lap all evening and held onto my ear.</p>
             </div>
             <div type="entry" n="46">
@@ -55831,7 +55910,7 @@
                     <l>Like The Girl Who Burst With Waiting.</l>
                 </p>
                 <p>There’s something not right with line four. You might meet the fate … You might end up in bits … That’s better but still too long. Why are beginnings and ending of poems easier than middles?</p>
-                <p>But I didn’t burst and when William FINALLY came home we opened up the box and it was a treasure chest. A fruitcake in a pretty tin with fancy paper round the edge and covered in marzipan with a piece of holly. A box with six glass Christmas balls. You can look inside them to a little scene. A tin of <rs key="Lyle's Golden Syrup" ref="https://likethetree.github.io/reference/#lyles-syrup">Lyle’s Golden Syrup</rs>. (William said it made him think of collecting horse manure because he used to collect it on <placeName key="Halley Road" ref="https://www.google.com/maps/place/107+Halley+Rd,+London+E7+8DX,+UK/@51.5449493,0.0348524,17z/data=!3m1!4b1!4m6!3m5!1s0x47d8a7b046034ec3:0xbbdf45f8194e9550!8m2!3d51.544946!4d0.0374327!16s%2Fg%2F11c22y4qwm?entry=ttu">Halley Road</placeName> with a Lyle’s box. Of course it wouldn’t be our family if somebody didn’t bring that up.) A box of almonds. A box of Chivers Jellies. A bag of ribbon sweets and humbugs. A wrapped present for each of us. (Mine has edges like a book). Some English newspapers. A big pile of Magnets.</p>
+                <p>But I didn’t burst and when William FINALLY came home we opened up the box and it was a treasure chest. A fruitcake in a pretty tin with fancy paper round the edge and covered in marzipan with a piece of holly. A box with six glass Christmas balls. You can look inside them to a little scene. A tin of <rs key="Lyle's Golden Syrup" ref="https://likethetree.github.io/reference/#lyles-syrup">Lyle’s Golden Syrup</rs>. (William said it made him think of collecting horse manure because he used to collect it on <placeName key="Halley Road" ref="https://www.google.com/maps/place/107+Halley+Rd,+London+E7+8DX,+UK/@51.5449493,0.0348524,17z/data=!3m1!4b1!4m6!3m5!1s0x47d8a7b046034ec3:0xbbdf45f8194e9550!8m2!3d51.544946!4d0.0374327!16s%2Fg%2F11c22y4qwm?entry=ttu">Halley Road</placeName> with a <rs key="Lyle’s" ref="https://likethetree.github.io/reference/#lyles-syrup">Lyle’s</rs> box. Of course it wouldn’t be our family if somebody didn’t bring that up.) A box of almonds. A box of Chivers Jellies. A bag of ribbon sweets and humbugs. A wrapped present for each of us. (Mine has edges like a book). Some English newspapers. A big pile of Magnets.</p>
                 <p>Of course we have to save it for Christmas but Mother must have understood a little bit about bursting because she made a pot of tea and we all had a sliver of fruitcake. I eat cake then marzipan. William eats marzipan then cake.</p>
                 <p>Then William started flipping through the Magnets. He used to buy one every Saturday at home. The Magnet is supposed to be a magazine just for boys, but I always liked it too. William started to read out loud a Famous Five story, with lovely Harry Wharton, and cheery Bob Cherry, studious Frank Nugent, Billy Bunter the fat boy, and all the other boys and masters at Greyfriars School. It was like meeting old friends from home. It was all there, the cricket game, the scrumptious tea, the jokes about Latin, Loder of the Sixth (that cad!), and the visit of a mysterious stranger. We wouldn’t let William stop. Even Mother.</p>
                 <p>Then Harry asked, “Would Billy Bunter ever come to Milorie?” Harry was too young for the Magnet at home and he sometimes gets mixed up about stories and real things. But this made Dad and William start talking like the Magnet, but putting in everything about our life in <placeName key="Canada" ref="http://www.wikidata.org/entity/Q16">Canada</placeName>. Mother and I did it too:</p>
