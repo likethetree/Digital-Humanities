@@ -11744,6 +11744,7 @@
 	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240328173338396",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-28T17:33:38.396Z",
+	"dcterms:modified": "2024-04-03T12:12:28.335Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/likethetree",
 		"@type": [
@@ -11775,7 +11776,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "owl:Thing",
-		"@id": "http://www.wikidata.org/entity/Q869660",
+		"@id": "https://likethetree.github.io/reference/#scones",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -47144,7 +47145,7 @@
 	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240330140117063",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-30T14:01:17.063Z",
-	"dcterms:modified": "2024-03-30T14:01:17.063Z",
+	"dcterms:modified": "2024-04-03T12:11:35.727Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/likethetree",
 		"@type": [
@@ -47176,7 +47177,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "owl:Thing",
-		"@id": "http://www.wikidata.org/entity/Q627006",
+		"@id": "https://likethetree.github.io/reference/#normal-school",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -54741,6 +54742,164 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240403131207251",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-04-03T12:12:07.251Z",
+	"dcterms:modified": "2024-04-03T12:12:07.251Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/likethetree",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Acacia McClay"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240403131207251#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240403131207251#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[21]/p[7]/rs"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "owl:Thing",
+		"@id": "https://likethetree.github.io/reference/#scones",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240403131219822",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-04-03T12:12:19.822Z",
+	"dcterms:modified": "2024-04-03T12:12:19.822Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/likethetree",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Acacia McClay"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240403131219822#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240403131219822#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[21]/p[7]/rs[2]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "owl:Thing",
+		"@id": "https://likethetree.github.io/reference/#scones",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData></teiHeader>
         
     
@@ -54913,7 +55072,7 @@
                         <l><placeName key="Earth" ref="http://www.wikidata.org/entity/Q2">The World</placeName></l>
                     </p>
                 <p>The only thing the same is me and <placeName key="Earth" ref="http://www.wikidata.org/entity/Q2">The World</placeName>.</p>
-                <p>When we arrived at the train station in Milorie there were a lot of people on the platform. It took us a few minutes to find Uncle Alf. He was there with a team and wagon. A team means horses, not like the West Ham United football team. He gave us huge hugs and pretended not to know me because I was so grown-up and Mother cried a little bit. Auntie Millie and Baby Jack didn’t come, because we would need all the room on the wagon for our things. Mr. Gilmour, a nice man called a station master, took us all home and his wife gave us tea and scones. Mrs. Gilmour said she made scones to make us feel at home because we are English. Mr. Gilmour told us that most of the people at the station had come down to look at us. “You’re the big news in Milorie today,” he said. I’ve never been news before.</p>
+                <p>When we arrived at the train station in Milorie there were a lot of people on the platform. It took us a few minutes to find Uncle Alf. He was there with a team and wagon. A team means horses, not like the West Ham United football team. He gave us huge hugs and pretended not to know me because I was so grown-up and Mother cried a little bit. Auntie Millie and Baby Jack didn’t come, because we would need all the room on the wagon for our things. Mr. Gilmour, a nice man called a station master, took us all home and his wife gave us tea and <rs key="scones" ref="https://likethetree.github.io/reference/#scones">scones</rs>. Mrs. Gilmour said she made <rs key="scones" ref="https://likethetree.github.io/reference/#scones">scones</rs> to make us feel at home because we are English. Mr. Gilmour told us that most of the people at the station had come down to look at us. “You’re the big news in Milorie today,” he said. I’ve never been news before.</p>
                 <p>Then we walked down the road and looked at the shops, which are a <rs key="general store" ref="https://likethetree.github.io/reference/#general-store">general store</rs>, two banks, a hardware store (that’s Canadian for ironmongers), a garage, a <rs key="livery yard" ref="https://likethetree.github.io/reference/#livery-stable">livery stable</rs>, a blacksmith, and a doctor’s office. Also there is a school and a church. The only tall buildings are two <rs key="grain elevator" ref="https://likethetree.github.io/reference/#grain-elevator">grain elevators</rs>. That’s where they store wheat and that.</p>
                 <p>Then we all got on the wagon and we went along this dirt road full of ruts and the wagon went up and down and tippy and the two horses went plod plod. The twins went to sleep. How could they go to sleep when it is the most exciting day of our lives?</p>
                 <p>Dad asked Uncle Alf how many head of cattle he had and then I asked if he had a wireless. Then Uncle Alf got quiet and said that things in <placeName key="Canada" ref="http://www.wikidata.org/entity/Q16">Canada</placeName> weren’t quite what they told you up at <placeName key="Canada House" ref="http://www.wikidata.org/entity/Q195905">Canada House</placeName> in <placeName key="London" ref="http://www.wikidata.org/entity/Q84">London</placeName>. Then he started to talk about the government and the railroad and politics and he sounded angry. But when he asked about all the relatives he got funny again.</p>
@@ -54994,7 +55153,7 @@
                     <l>Come butter come.</l>
                 </p>
                 <p>Elizabeth offered to help but I wanted to make butter all by myself. It takes about an hour but it feels like a week. Then finally the sound changes. Then you drain off the buttermilk (which is the milk without the butter; shouldn’t it be called nobuttermilk?). Then you put water in the <rs key="churn" ref="https://likethetree.github.io/reference/#butter-churn">churn</rs> to wash the butter. When you take it out it looks like little lumps. You add salt with a paddle. This is fun. <rs key="Churning" ref="https://likethetree.github.io/reference/#butter-churn">Churning</rs> is not fun.</p>
-                <p>When I used to have bread and butter for my tea at home I never wondered how butter was made. Mrs. Muller says that sometimes the cow gets into the stinkweed and then the butter is smelly and not worth eating. But this butter was lovely and well worth eating. I ate a lot on <rs key="scone" ref="http://www.wikidata.org/entity/Q869660">scones</rs> when we had tea.</p>
+                <p>When I used to have bread and butter for my tea at home I never wondered how butter was made. Mrs. Muller says that sometimes the cow gets into the stinkweed and then the butter is smelly and not worth eating. But this butter was lovely and well worth eating. I ate a lot on <rs key="scone" ref="https://likethetree.github.io/reference/#scones">scones</rs> when we had tea.</p>
                 <p>Mr. Muller was out in the fields so we didn’t get to meet him. The Mullers’ house is quite grand. They have carpets on their floors. (Except they call them “rugs” and what we call “rugs” they call “blankets.” Confusing.) It has a verandah that goes around three sides and stairs and a banister and a front door with coloured glass. You can stand close to the door on the inside and move back and forth and make the world go red green gold, red green gold, red green gold.</p>
                 <p>William started at the store today. It is two and a half miles for him to walk so he has to go very early. I can’t wait for him to come home so I can tell him about milking and churning.</p>
             </div>
@@ -56077,7 +56236,7 @@
                 <p>I nearly got kept in at school today. Thank goodness I didn’t. I got in trouble with Miss Hutchinson because I was showing Elizabeth about smelling through one nostril and then the other. If you sniff something through your right nostril it usually smells better than if you sniff it through your left nostril. I was using my pencil. Left nostril it smelled okay, but right nostril it smelled terribly nice, all cedar.</p>
                 <p>Elizabeth tried it and it worked for her too. But then Nellie asked what we were doing and then she tried it but her left nostril did a kind of whistle, which gave us all the giggles. Then Miss Hutchinson came over and asked were we doing our spelling drill and of course we weren’t. Then Nellie said we were smelling through our nostrils. Then Miss Hutchinson asked who started it so I confessed. She said I had to stay in after school and write lines.</p>
                 <p>After school Miss Hutchinson asked me what I thought I should write. I tried to make it as short as possible so I said, “I will not practise smelling through my nostrils in school.” She was sort of smiling and told me to go ahead.</p>
-                <p>But I only wrote it three times before she started to giggle. Then she messed my hair and said, “What they don’t teach you in <rs key="normal school" ref="http://www.wikidata.org/entity/Q627006">normal school</rs>.” Then she told me to go home.</p>
+                <p>But I only wrote it three times before she started to giggle. Then she messed my hair and said, “What they don’t teach you in <rs key="normal school" ref="https://likethetree.github.io/reference/#normal-school">normal school</rs>.” Then she told me to go home.</p>
                 <p>On the way out, though, she said that because it was after school we could try it one more time. Then she took a little bottle of perfume out of her handbag and dabbed some on my wrist. Then she tried sniffing. But it didn’t work for her. Now I smell like Miss Hutchinson. I like it.</p>
                 <p>Oh-oh. I don’t hear any cats or dogs. It is usually bad news when the twins are quiet.</p>
             </div> 
