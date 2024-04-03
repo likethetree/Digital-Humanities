@@ -737,6 +737,7 @@
 	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240328161731878",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-28T16:17:31.878Z",
+	"dcterms:modified": "2024-04-03T11:32:14.118Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/likethetree",
 		"@type": [
@@ -768,7 +769,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "owl:Thing",
-		"@id": "https://en.wikipedia.org/wiki/RMS_Ausonia",
+		"@id": "https://likethetree.github.io/reference/#ausonia",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -53421,7 +53422,7 @@
             </div>
             <div type="entry" n="2">
                 <p><date when="1926-05-02">May 2, 1926</date></p>
-                <p>On board the <rs key="Ausonia" ref="https://en.wikipedia.org/wiki/RMS_Ausonia">Ausonia</rs>, 4 o’clock.</p>
+                <p>On board the <rs key="Ausonia" ref="https://likethetree.github.io/reference/#ausonia">Ausonia</rs>, 4 o’clock.</p>
                 <p>We’re off. A man standing near me pointed out the <placeName key="Isles of Scilly" ref="http://www.wikidata.org/entity/Q180209">Scilly Isles</placeName> and said it was the last we would see of the old country. I watched them until they disappeared.</p>
                 <p>Goodbye, <placeName key="England" ref="http://www.wikidata.org/entity/Q21">England</placeName>. Goodbye, Auntie Lou. Good-bye, Chivers.</p>
                 <p>I’m sitting on the deck of our ship. There is a sheltered place around the end of one of the lifeboats. It is a fine day. Dad says that is a good omen.</p>
