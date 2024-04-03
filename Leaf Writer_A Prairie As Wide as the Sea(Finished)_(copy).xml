@@ -12133,6 +12133,7 @@
 	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240328173652259",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-28T17:36:52.259Z",
+	"dcterms:modified": "2024-04-03T12:05:23.194Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/likethetree",
 		"@type": [
@@ -12164,7 +12165,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "owl:Thing",
-		"@id": "http://www.wikidata.org/entity/Q890197",
+		"@id": "https://likethetree.github.io/reference/#lutefisk",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -42580,7 +42581,7 @@
 	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240330132525131",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-30T13:25:25.131Z",
-	"dcterms:modified": "2024-03-30T13:25:25.131Z",
+	"dcterms:modified": "2024-04-03T12:05:51.183Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/likethetree",
 		"@type": [
@@ -42612,7 +42613,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "owl:Thing",
-		"@id": "http://www.wikidata.org/entity/Q124955197",
+		"@id": "https://likethetree.github.io/reference/#lyles-syrup",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -54930,7 +54931,7 @@
                 <p>Welcome, Daisy</p>
                 <p>Daisy has arrived. Now the barn really seems like a barn. Gladys and I made a flower crown for her.</p>
                 <p>What would Ethel say if she saw me milking and churning?</p>
-                <p>Yesterday night William told us all about his job. He cuts cheese and wraps it. He weighs out flour and sugar. He puts honey and molasses into containers. He puts raisins, biscuits and fruit into bags. When people bring in their cans he fills them with <rs key="coal oil" ref="http://www.wikidata.org/entity/Q4492184">coal oil</rs>. He cleans the shelves. When people buy things he does the figuring and writes down the total in an accounts book. On Fridays he will get to go with Mr. Burgess down to the station to pick up supplies. They go with a horse and a big wagon with no sides called a <rs key="dray" ref="https://likethetree.github.io/reference/#dray-cart">dray</rs>. When William learns to drive horses he can do that himself. He says that all the Norwegian people buy this hard dried fish called <rs key="lutefisk" ref="http://www.wikidata.org/entity/Q890197">lutefisk</rs>, and he told us about something called peanut butter which he says is absolutely scrumptious. He said most of the grown-ups are friendly but that some of the boys his own age say mean things to him, asking him why he talks so funny and that.</p>
+                <p>Yesterday night William told us all about his job. He cuts cheese and wraps it. He weighs out flour and sugar. He puts honey and molasses into containers. He puts raisins, biscuits and fruit into bags. When people bring in their cans he fills them with <rs key="coal oil" ref="http://www.wikidata.org/entity/Q4492184">coal oil</rs>. He cleans the shelves. When people buy things he does the figuring and writes down the total in an accounts book. On Fridays he will get to go with Mr. Burgess down to the station to pick up supplies. They go with a horse and a big wagon with no sides called a <rs key="dray" ref="https://likethetree.github.io/reference/#dray-cart">dray</rs>. When William learns to drive horses he can do that himself. He says that all the Norwegian people buy this hard dried fish called <rs key="lutefisk" ref="https://likethetree.github.io/reference/#lutefisk">lutefisk</rs>, and he told us about something called peanut butter which he says is absolutely scrumptious. He said most of the grown-ups are friendly but that some of the boys his own age say mean things to him, asking him why he talks so funny and that.</p>
             </div>
             <div type="entry" n="30">
                 <p><date when="1926-06-01">June 1</date></p>
@@ -55830,7 +55831,7 @@
                     <l>Like The Girl Who Burst With Waiting.</l>
                 </p>
                 <p>There’s something not right with line four. You might meet the fate … You might end up in bits … That’s better but still too long. Why are beginnings and ending of poems easier than middles?</p>
-                <p>But I didn’t burst and when William FINALLY came home we opened up the box and it was a treasure chest. A fruitcake in a pretty tin with fancy paper round the edge and covered in marzipan with a piece of holly. A box with six glass Christmas balls. You can look inside them to a little scene. A tin of <rs key="Lyle's Golden Syrup" ref="http://www.wikidata.org/entity/Q124955197">Lyle’s Golden Syrup</rs>. (William said it made him think of collecting horse manure because he used to collect it on <placeName key="Halley Road" ref="https://www.google.com/maps/place/107+Halley+Rd,+London+E7+8DX,+UK/@51.5449493,0.0348524,17z/data=!3m1!4b1!4m6!3m5!1s0x47d8a7b046034ec3:0xbbdf45f8194e9550!8m2!3d51.544946!4d0.0374327!16s%2Fg%2F11c22y4qwm?entry=ttu">Halley Road</placeName> with a Lyle’s box. Of course it wouldn’t be our family if somebody didn’t bring that up.) A box of almonds. A box of Chivers Jellies. A bag of ribbon sweets and humbugs. A wrapped present for each of us. (Mine has edges like a book). Some English newspapers. A big pile of Magnets.</p>
+                <p>But I didn’t burst and when William FINALLY came home we opened up the box and it was a treasure chest. A fruitcake in a pretty tin with fancy paper round the edge and covered in marzipan with a piece of holly. A box with six glass Christmas balls. You can look inside them to a little scene. A tin of <rs key="Lyle's Golden Syrup" ref="https://likethetree.github.io/reference/#lyles-syrup">Lyle’s Golden Syrup</rs>. (William said it made him think of collecting horse manure because he used to collect it on <placeName key="Halley Road" ref="https://www.google.com/maps/place/107+Halley+Rd,+London+E7+8DX,+UK/@51.5449493,0.0348524,17z/data=!3m1!4b1!4m6!3m5!1s0x47d8a7b046034ec3:0xbbdf45f8194e9550!8m2!3d51.544946!4d0.0374327!16s%2Fg%2F11c22y4qwm?entry=ttu">Halley Road</placeName> with a Lyle’s box. Of course it wouldn’t be our family if somebody didn’t bring that up.) A box of almonds. A box of Chivers Jellies. A bag of ribbon sweets and humbugs. A wrapped present for each of us. (Mine has edges like a book). Some English newspapers. A big pile of Magnets.</p>
                 <p>Of course we have to save it for Christmas but Mother must have understood a little bit about bursting because she made a pot of tea and we all had a sliver of fruitcake. I eat cake then marzipan. William eats marzipan then cake.</p>
                 <p>Then William started flipping through the Magnets. He used to buy one every Saturday at home. The Magnet is supposed to be a magazine just for boys, but I always liked it too. William started to read out loud a Famous Five story, with lovely Harry Wharton, and cheery Bob Cherry, studious Frank Nugent, Billy Bunter the fat boy, and all the other boys and masters at Greyfriars School. It was like meeting old friends from home. It was all there, the cricket game, the scrumptious tea, the jokes about Latin, Loder of the Sixth (that cad!), and the visit of a mysterious stranger. We wouldn’t let William stop. Even Mother.</p>
                 <p>Then Harry asked, “Would Billy Bunter ever come to Milorie?” Harry was too young for the Magnet at home and he sometimes gets mixed up about stories and real things. But this made Dad and William start talking like the Magnet, but putting in everything about our life in <placeName key="Canada" ref="http://www.wikidata.org/entity/Q16">Canada</placeName>. Mother and I did it too:</p>
