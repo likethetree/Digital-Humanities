@@ -12049,6 +12049,7 @@
 	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240328173635506",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-28T17:36:35.506Z",
+	"dcterms:modified": "2024-04-03T11:52:20.642Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/likethetree",
 		"@type": [
@@ -12080,7 +12081,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "owl:Thing",
-		"@id": "https://www.gail-thornton.co.uk/webyep-system/data/81-2-im-Left_hand_image-2148.jpg",
+		"@id": "https://likethetree.github.io/reference/#dray-cart",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -17239,6 +17240,7 @@
 	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240329145449258",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-29T14:54:49.258Z",
+	"dcterms:modified": "2024-04-03T11:51:53.040Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/likethetree",
 		"@type": [
@@ -17270,7 +17272,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "owl:Thing",
-		"@id": "http://www.wikidata.org/entity/Q1181895",
+		"@id": "https://likethetree.github.io/reference/#doily",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -17712,7 +17714,7 @@
 	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240329145431251",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-29T14:54:31.251Z",
-	"dcterms:modified": "2024-03-29T14:54:31.251Z",
+	"dcterms:modified": "2024-04-03T11:51:59.840Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/likethetree",
 		"@type": [
@@ -17744,7 +17746,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "owl:Thing",
-		"@id": "http://www.wikidata.org/entity/Q1181895",
+		"@id": "https://likethetree.github.io/reference/#doily",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -53863,6 +53865,243 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240403125317118",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-04-03T11:53:17.118Z",
+	"dcterms:modified": "2024-04-03T11:53:17.118Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/likethetree",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Acacia McClay"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240403125317118#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240403125317118#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[81]/p[4]/rs[2]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "owl:Thing",
+		"@id": "https://likethetree.github.io/reference/#flapper",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240403125332065",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-04-03T11:53:32.065Z",
+	"dcterms:modified": "2024-04-03T11:53:32.065Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/likethetree",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Acacia McClay"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240403125332065#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240403125332065#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[181]/p[2]/rs"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "owl:Thing",
+		"@id": "https://likethetree.github.io/reference/#flapper",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240403125348021",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-04-03T11:53:48.021Z",
+	"dcterms:modified": "2024-04-03T11:53:48.021Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/likethetree",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Acacia McClay"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240403125348021#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240403125348021#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[181]/p[9]/rs"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "owl:Thing",
+		"@id": "https://likethetree.github.io/reference/#flapper",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData></teiHeader>
         
     
@@ -54132,7 +54371,7 @@
                 <p>Welcome, Daisy</p>
                 <p>Daisy has arrived. Now the barn really seems like a barn. Gladys and I made a flower crown for her.</p>
                 <p>What would Ethel say if she saw me milking and churning?</p>
-                <p>Yesterday night William told us all about his job. He cuts cheese and wraps it. He weighs out flour and sugar. He puts honey and molasses into containers. He puts raisins, biscuits and fruit into bags. When people bring in their cans he fills them with <rs key="coal oil" ref="http://www.wikidata.org/entity/Q4492184">coal oil</rs>. He cleans the shelves. When people buy things he does the figuring and writes down the total in an accounts book. On Fridays he will get to go with Mr. Burgess down to the station to pick up supplies. They go with a horse and a big wagon with no sides called a <rs key="dray" ref="https://www.gail-thornton.co.uk/webyep-system/data/81-2-im-Left_hand_image-2148.jpg">dray</rs>. When William learns to drive horses he can do that himself. He says that all the Norwegian people buy this hard dried fish called <rs key="lutefisk" ref="http://www.wikidata.org/entity/Q890197">lutefisk</rs>, and he told us about something called peanut butter which he says is absolutely scrumptious. He said most of the grown-ups are friendly but that some of the boys his own age say mean things to him, asking him why he talks so funny and that.</p>
+                <p>Yesterday night William told us all about his job. He cuts cheese and wraps it. He weighs out flour and sugar. He puts honey and molasses into containers. He puts raisins, biscuits and fruit into bags. When people bring in their cans he fills them with <rs key="coal oil" ref="http://www.wikidata.org/entity/Q4492184">coal oil</rs>. He cleans the shelves. When people buy things he does the figuring and writes down the total in an accounts book. On Fridays he will get to go with Mr. Burgess down to the station to pick up supplies. They go with a horse and a big wagon with no sides called a <rs key="dray" ref="https://likethetree.github.io/reference/#dray-cart">dray</rs>. When William learns to drive horses he can do that himself. He says that all the Norwegian people buy this hard dried fish called <rs key="lutefisk" ref="http://www.wikidata.org/entity/Q890197">lutefisk</rs>, and he told us about something called peanut butter which he says is absolutely scrumptious. He said most of the grown-ups are friendly but that some of the boys his own age say mean things to him, asking him why he talks so funny and that.</p>
             </div>
             <div type="entry" n="30">
                 <p><date when="1926-06-01">June 1</date></p>
@@ -54268,9 +54507,9 @@
             <div type="entry" n="45">
                 <p><date when="1926-06-23">June 23</date></p>
                 <p>Flying Jack</p>
-                <p>I’m in trouble again. I took Baby Jack over to Elizabeth’s house and we were playing with him and Otto. <rs key="peekaboo" ref="http://www.wikidata.org/entity/Q53705">Peepo</rs> and that. (In Canada they call it <rs key="peekaboo" ref="http://www.wikidata.org/entity/Q53705">peekaboo</rs>). Then we got this idea to put them in a flour sack and give them swings. It worked fine with Otto. And at first it was fine with Baby Jack. He loved it. He made this hiccup noise he makes when he’s really happy. But then the bottom of the flour sack ripped open and Jack went flying through the air, headfirst into the Mullers’ <rs key="chiffonier" ref="https://likethetree.github.io/reference/#chiffonier">chiffonier</rs>. He got a nosebleed and quite a lot of blood got onto the <rs key="doily" ref="http://www.wikidata.org/entity/Q1181895">doilies</rs> on the <rs key="chiffonier" ref="https://likethetree.github.io/reference/#chiffonier">chiffonier</rs>. And of course he cried a lot. I felt awful.</p>
+                <p>I’m in trouble again. I took Baby Jack over to Elizabeth’s house and we were playing with him and Otto. <rs key="peekaboo" ref="http://www.wikidata.org/entity/Q53705">Peepo</rs> and that. (In Canada they call it <rs key="peekaboo" ref="http://www.wikidata.org/entity/Q53705">peekaboo</rs>). Then we got this idea to put them in a flour sack and give them swings. It worked fine with Otto. And at first it was fine with Baby Jack. He loved it. He made this hiccup noise he makes when he’s really happy. But then the bottom of the flour sack ripped open and Jack went flying through the air, headfirst into the Mullers’ <rs key="chiffonier" ref="https://likethetree.github.io/reference/#chiffonier">chiffonier</rs>. He got a nosebleed and quite a lot of blood got onto the <rs key="doily" ref="https://likethetree.github.io/reference/#doily">doilies</rs> on the <rs key="chiffonier" ref="https://likethetree.github.io/reference/#chiffonier">chiffonier</rs>. And of course he cried a lot. I felt awful.</p>
                 <p>At least we’re both in trouble. It’s not quite so bad being in trouble with a friend. And Mrs. Muller is pretty nice. Truth to tell, it was my idea but Elizabeth took half the blame.</p>
-                <p>Mrs. Muller put <rs key="Mercurochrome" ref="http://www.wikidata.org/entity/Q16664098">Mercurochrome</rs> on Jack’s wounds. I thought perhaps we could bind them with cooling leaves of <rs key="tacmahac" ref="https://www.merriam-webster.com/dictionary/tacamahac">tacmahac</rs>, like Catharine does in <title key="Lost in the Backwoods" ref="https://books.google.ie/books/about/Lost_in_the_Backwoods_Esprios_Classics.html?id=UtxezgEACAAJ&amp;source=kp_book_description&amp;redir_esc=y">Lost in the Backwoods</title>, but Mrs. Muller thought <rs key="Mercurochrome" ref="http://www.wikidata.org/entity/Q16664098">Mercurochrome</rs> would be better. And she told me that if the blood doesn’t come out of the <rs key="doily" ref="http://www.wikidata.org/entity/Q1181895">doilies</rs> she’ll teach me to tat and I can make new ones.</p>
+                <p>Mrs. Muller put <rs key="Mercurochrome" ref="http://www.wikidata.org/entity/Q16664098">Mercurochrome</rs> on Jack’s wounds. I thought perhaps we could bind them with cooling leaves of <rs key="tacmahac" ref="https://www.merriam-webster.com/dictionary/tacamahac">tacmahac</rs>, like Catharine does in <title key="Lost in the Backwoods" ref="https://books.google.ie/books/about/Lost_in_the_Backwoods_Esprios_Classics.html?id=UtxezgEACAAJ&amp;source=kp_book_description&amp;redir_esc=y">Lost in the Backwoods</title>, but Mrs. Muller thought <rs key="Mercurochrome" ref="http://www.wikidata.org/entity/Q16664098">Mercurochrome</rs> would be better. And she told me that if the blood doesn’t come out of the <rs key="doily" ref="https://likethetree.github.io/reference/#doily">doilies</rs> she’ll teach me to tat and I can make new ones.</p>
                 <p>At least Jack doesn’t blame me. He sat on my lap all evening and held onto my ear.</p>
             </div>
             <div type="entry" n="46">
@@ -54514,7 +54753,7 @@
                 <p><date when="1926-09-03">September 3</date></p>
                 <p>Lorayne Leaves</p>
                 <p>BIG SECRET: Today the Homemaker’s Club met at our house. Mother spent the morning getting ready and making cakes and a loaf and then after lunch she told us that she didn’t want to see hide nor hair of us. William had a day off from the store so he took the twins off to the swimming hole. They’ve got a rowboat down there now and William is taking some tools and wood down to help fix it. Maybe the boys will be nicer to him when they find out how good he is at carpentry. Maybe that would be as good in stupid boy-thinking as killing <rs key="gophers" ref="https://likethetree.github.io/reference/#gopher">gophers</rs>.</p>
-                <p>But I didn’t feel like going. So I sneaked back into my room by climbing up onto the roof of the <rs key="summer kitchen" ref="http://www.wikidata.org/entity/Q109287424">summer kitchen</rs>. I thought as long as I was hiding my hide and hair it would be all right. Then I listened down the hole. Here’s what I found out. Lorayne has disappeared. And so has Howard Ellingson. Everybody thinks they have gone off together to <placeName key="Regina" ref="http://www.wikidata.org/entity/Q2123">Regina</placeName>. But Howard Ellingson has been engaged to Lois Fizzell for two years. They were only waiting until Howard got his own quarter section and then they were going to be married. Mr. and Mrs. Fizzell are furious. Mr. and Mrs. Ellingson are mortified. Mrs. Johnstone is so embarrassed that she didn’t even come to the Homemaker’s Club. (Although somebody said, “It is not poor Edna Johnstone’s fault. How was she to know?”) Lois Fizzell is so upset that she has gone to stay with her married sister in <placeName key="Swift Current" ref="http://www.wikidata.org/entity/Q619937">Swift Current</placeName>. Then all the voices said that they weren’t surprised, that Lorayne was fast and a flirt and a flapper and no better than she looked. They said that that’s what comes of going off to <placeName key="Regina" ref="http://www.wikidata.org/entity/Q2123">Regina</placeName> to study cosmetology, that that’s what comes of going to too many moving pictures, and that Lois Fizzell was better off without Howard Ellingson because a man who could throw his whole life away on a well-turned ankle was not worth having anyway.</p>
+                <p>But I didn’t feel like going. So I sneaked back into my room by climbing up onto the roof of the <rs key="summer kitchen" ref="http://www.wikidata.org/entity/Q109287424">summer kitchen</rs>. I thought as long as I was hiding my hide and hair it would be all right. Then I listened down the hole. Here’s what I found out. Lorayne has disappeared. And so has Howard Ellingson. Everybody thinks they have gone off together to <placeName key="Regina" ref="http://www.wikidata.org/entity/Q2123">Regina</placeName>. But Howard Ellingson has been engaged to Lois Fizzell for two years. They were only waiting until Howard got his own quarter section and then they were going to be married. Mr. and Mrs. Fizzell are furious. Mr. and Mrs. Ellingson are mortified. Mrs. Johnstone is so embarrassed that she didn’t even come to the Homemaker’s Club. (Although somebody said, “It is not poor Edna Johnstone’s fault. How was she to know?”) Lois Fizzell is so upset that she has gone to stay with her married sister in <placeName key="Swift Current" ref="http://www.wikidata.org/entity/Q619937">Swift Current</placeName>. Then all the voices said that they weren’t surprised, that Lorayne was fast and a flirt and a <rs key="flapper" ref="https://likethetree.github.io/reference/#flapper">flapper</rs> and no better than she looked. They said that that’s what comes of going off to <placeName key="Regina" ref="http://www.wikidata.org/entity/Q2123">Regina</placeName> to study cosmetology, that that’s what comes of going to too many moving pictures, and that Lois Fizzell was better off without Howard Ellingson because a man who could throw his whole life away on a well-turned ankle was not worth having anyway.</p>
                 <p>I don’t know. I guess it’s wrong to steal somebody’s fiancée. But it’s not like he was kidnapped like Catharine. He must have wanted to go. So why is Lorayne the bad one? Anyway, I want to write this down. I like Miss Lorayne LaMott. I wish she had stayed longer. She is pretty and kind and interesting and she made me feel like somebody. I hope she gets to <placeName key="cinema of the United States" ref="http://www.wikidata.org/entity/Q380675">Hollywood</placeName> and gets to be in pictures.</p>
             </div>
             <div type="entry" n="80">
@@ -55247,14 +55486,14 @@
             </div>     
             <div type="entry" n="179">
                 <p><date when="1927-03-03">March 3</date></p>
-                <p>Enter the Flapper</p>
+                <p>Enter the <rs key="Flapper" ref="https://likethetree.github.io/reference/#flapper">Flapper</rs></p>
                 <p>I am a new person. I am twelve years old and …</p>
                 <p>I HAVE A <rs key="BOB" ref="https://likethetree.github.io/reference/#bobbed-hair">BOB</rs>!</p>
                 <p>I love it. The air blows around my neck and ears. I can do anything I want, even stand on my head, and no hair gets in my eyes. My head feels lighter than a hot-air balloon. The sun shone in my ears and I felt like it was shining into my brain.</p>
                 <p>I gave all my hair ribbons to Gladys. She wore three at the same time and said she felt like it was her birthday.</p>
                 <p>Mrs. Muller did it. I went over yesterday and I told her about the birthday treat and the rules and she agreed to do it. She put me on a chair in the kitchen and snipped away. The sound of scissors cutting into hair is a delicious sound. When I saw my hair falling to the floor I did get a bit scared. What if it was a mistake? But it wasn’t. When I look in the mirror I almost don’t know myself.</p>
                 <p>When I got home I walked into the kitchen. Mother was washing up and William and the twins were there. The twins got big eyes and Harry nearly said something but Gladys put her hand over his mouth. When Mother turned around she screamed. (Not a really loud scream – more like “Eeeeek.”) And I said, right quick, that it was my birthday treat. And William said, “It didn’t cost anything.” And Gladys said, “It’s not a crime.” And Harry said, “It’s not bad for you.” Then Mother started to laugh and she had to dry her eyes on her apron. Then she came over and spun me around a few times and then she knocked all our heads together and said we were cheeky monkeys.</p>
-                <p>When Dad came home he said that I looked so grown up that he felt like an old man. Then he walked around all stooped over and talking in a quavery voice about his flapper daughter.</p>
+                <p>When Dad came home he said that I looked so grown up that he felt like an old man. Then he walked around all stooped over and talking in a quavery voice about his <rs key="flapper" ref="https://likethetree.github.io/reference/#flapper">flapper</rs> daughter.</p>
                 <p>I can’t wait for tomorrow to show everyone at school.</p>
                 <p>Mother made a scrumptious chocolate cake. It had candles. I made a wish. Does it spoil your wish if you tell it to your diary? Probably.</p>
             </div>   
