@@ -14952,7 +14952,7 @@
 	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240329143843112",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-29T14:38:43.112Z",
-	"dcterms:modified": "2024-03-29T14:38:43.112Z",
+	"dcterms:modified": "2024-04-03T11:47:07.685Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/likethetree",
 		"@type": [
@@ -14984,7 +14984,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "owl:Thing",
-		"@id": "http://www.wikidata.org/entity/Q119038",
+		"@id": "https://likethetree.github.io/reference/#chautauqua",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -15031,7 +15031,7 @@
 	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240329143902609",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-29T14:39:02.609Z",
-	"dcterms:modified": "2024-03-29T14:39:02.609Z",
+	"dcterms:modified": "2024-04-03T11:47:14.705Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/likethetree",
 		"@type": [
@@ -15063,7 +15063,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "owl:Thing",
-		"@id": "http://www.wikidata.org/entity/Q119038",
+		"@id": "https://likethetree.github.io/reference/#chautauqua",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -15110,7 +15110,7 @@
 	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240329143912970",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-29T14:39:12.970Z",
-	"dcterms:modified": "2024-03-29T14:39:12.970Z",
+	"dcterms:modified": "2024-04-03T11:47:21.877Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/likethetree",
 		"@type": [
@@ -15142,7 +15142,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "owl:Thing",
-		"@id": "http://www.wikidata.org/entity/Q119038",
+		"@id": "https://likethetree.github.io/reference/#chautauqua",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -15189,7 +15189,7 @@
 	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240329143926420",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-29T14:39:26.420Z",
-	"dcterms:modified": "2024-03-29T14:39:26.420Z",
+	"dcterms:modified": "2024-04-03T11:47:28.553Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/likethetree",
 		"@type": [
@@ -15221,7 +15221,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "owl:Thing",
-		"@id": "http://www.wikidata.org/entity/Q119038",
+		"@id": "https://likethetree.github.io/reference/#chautauqua",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -15346,7 +15346,7 @@
 	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240329143954637",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-29T14:39:54.637Z",
-	"dcterms:modified": "2024-03-29T14:39:54.637Z",
+	"dcterms:modified": "2024-04-03T11:47:34.198Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/likethetree",
 		"@type": [
@@ -15378,7 +15378,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "owl:Thing",
-		"@id": "http://www.wikidata.org/entity/Q119038",
+		"@id": "https://likethetree.github.io/reference/#chautauqua",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -15425,7 +15425,7 @@
 	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240329144027400",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-29T14:40:27.400Z",
-	"dcterms:modified": "2024-03-29T14:40:27.400Z",
+	"dcterms:modified": "2024-04-03T11:47:45.334Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/likethetree",
 		"@type": [
@@ -15457,7 +15457,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "owl:Thing",
-		"@id": "http://www.wikidata.org/entity/Q119038",
+		"@id": "https://likethetree.github.io/reference/#chautauqua",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -16214,7 +16214,7 @@
 	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240329144645279",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-29T14:46:45.279Z",
-	"dcterms:modified": "2024-03-29T14:46:45.279Z",
+	"dcterms:modified": "2024-04-03T11:47:55.592Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/likethetree",
 		"@type": [
@@ -16246,7 +16246,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "owl:Thing",
-		"@id": "http://www.wikidata.org/entity/Q119038",
+		"@id": "https://likethetree.github.io/reference/#chautauqua",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -16451,7 +16451,7 @@
 	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240329144735898",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-29T14:47:35.898Z",
-	"dcterms:modified": "2024-03-29T14:47:35.898Z",
+	"dcterms:modified": "2024-04-03T11:48:03.665Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/likethetree",
 		"@type": [
@@ -16483,7 +16483,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "owl:Thing",
-		"@id": "http://www.wikidata.org/entity/Q119038",
+		"@id": "https://likethetree.github.io/reference/#chautauqua",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -54072,14 +54072,14 @@
                 <p>Everyone laughed.</p>
                 <p>Elizabeth told me the names of everyone. It was very muddling. The boy with the pig is called Abel Butt. One of the fairies was a very pretty girl called Nyla Muir. Elizabeth told me that she is a terrible show-off. I said was she a toffee-nose? Elizabeth didn’t know what that meant, so I told her it means that you act so superior that your nose is stuck in the air. Elizabeth said that was a perfect description of Nyla.</p>
                 <p>Lots of the girls have <rs key="bobs" ref="https://likethetree.github.io/reference/#bobbed-hair">bobs</rs>. I HAVE to get my hair <rs key="bobbed" ref="https://likethetree.github.io/reference/#bobbed-hair">bobbed</rs> before I start school.</p>
-                <p>At the end of the parade there was a group of children chanting the <rs key="Chautauqua" ref="http://www.wikidata.org/entity/Q119038">Chautauqua</rs> yell which goes:</p>
+                <p>At the end of the parade there was a group of children chanting the <rs key="Chautauqua" ref="https://likethetree.github.io/reference/#chautauqua">Chautauqua</rs> yell which goes:</p>
                 <p>
                     <l>C-H-A-U T-A-U Q-U-A</l>
                     <l>This is how you spell it!</l>
                     <l>Listen to us yell it!</l>
-                    <l><rs key="Chautauqua" ref="http://www.wikidata.org/entity/Q119038">CHAUTAUQUA</rs>!</l>
-                    <l><rs key="Chautauqua" ref="http://www.wikidata.org/entity/Q119038">CHAUTAUQUA</rs>!</l>
-                    <l><rs key="Chautauqua" ref="http://www.wikidata.org/entity/Q119038">CHAUTAUQUA</rs>!</l>
+                    <l><rs key="Chautauqua" ref="https://likethetree.github.io/reference/#chautauqua">CHAUTAUQUA</rs>!</l>
+                    <l><rs key="Chautauqua" ref="https://likethetree.github.io/reference/#chautauqua">CHAUTAUQUA</rs>!</l>
+                    <l><rs key="Chautauqua" ref="https://likethetree.github.io/reference/#chautauqua">CHAUTAUQUA</rs>!</l>
                 </p>
                 <p>Elizabeth wanted to just join in on the end of the parade but I felt too shy.</p>
                 <p>Whilst the parade was on, men were putting up a big brown tent in the field next to the school. Tomorrow the talent arrives and it really starts.</p>
@@ -54087,7 +54087,7 @@
             <div type="entry" n="42">
                 <p><date when="1926-06-18">June 18</date></p>
                 <p>Deep Sea</p>
-                <p>Today was my day at the <rs key="Chautauqua" ref="http://www.wikidata.org/entity/Q119038">Chautauqua</rs>. That’s it. I’ve decided. I’m going to be a deep-sea diver. William is too. Today we went to “The Bottom of the Sea” at the <rs key="Chautauqua" ref="http://www.wikidata.org/entity/Q119038">Chautauqua</rs>. Mr. <persName key="Robert Zimmerman" ref="http://www.wikidata.org/entity/Q27824254">Robert Zimmerman</persName> looks ordinary, like a bald Dad. But he has done amazing things. He competed in the <rs key="Olympic Games" ref="http://www.wikidata.org/entity/Q5389">Olympics</rs> and wrestled for his life with a deadly shark. (Not at the <rs key="Olympic Games" ref="http://www.wikidata.org/entity/Q5389">Olympics</rs>. At the <rs key="Olympic Games" ref="http://www.wikidata.org/entity/Q5389">Olympics</rs> he was in the swimming competition.) If you have even one little cut on your body sharks smell the blood and go for you. He dived for the sunken treasure of the last Spanish galleons. He helped make the picture <title key="20,000 Leagues Under the Sea" ref="http://www.wikidata.org/entity/Q111655">Twenty Thousand Leagues Under the Sea</title>. I would give anything to see that picture. He talked about seas as warm as a bathtub, and huge manta rays, and water that shines in the dark, and rainbow-coloured fish and octopusses.</p>
+                <p>Today was my day at the <rs key="Chautauqua" ref="https://likethetree.github.io/reference/#chautauqua">Chautauqua</rs>. That’s it. I’ve decided. I’m going to be a deep-sea diver. William is too. Today we went to “The Bottom of the Sea” at the <rs key="Chautauqua" ref="https://likethetree.github.io/reference/#chautauqua">Chautauqua</rs>. Mr. <persName key="Robert Zimmerman" ref="http://www.wikidata.org/entity/Q27824254">Robert Zimmerman</persName> looks ordinary, like a bald Dad. But he has done amazing things. He competed in the <rs key="Olympic Games" ref="http://www.wikidata.org/entity/Q5389">Olympics</rs> and wrestled for his life with a deadly shark. (Not at the <rs key="Olympic Games" ref="http://www.wikidata.org/entity/Q5389">Olympics</rs>. At the <rs key="Olympic Games" ref="http://www.wikidata.org/entity/Q5389">Olympics</rs> he was in the swimming competition.) If you have even one little cut on your body sharks smell the blood and go for you. He dived for the sunken treasure of the last Spanish galleons. He helped make the picture <title key="20,000 Leagues Under the Sea" ref="http://www.wikidata.org/entity/Q111655">Twenty Thousand Leagues Under the Sea</title>. I would give anything to see that picture. He talked about seas as warm as a bathtub, and huge manta rays, and water that shines in the dark, and rainbow-coloured fish and octopusses.</p>
                 <p>After the lecture part of the talk he asked if we had any questions. Toffee-Nose was there, wearing new hair ribbons. Some people ask questions because they really want to know something. And some people ask questions because they want to show off. Toffee-Nose is the second kind of someone.</p>
                 <p>After the questions everyone got to go up on the platform and look at all the sea things. There were barracuda teeth, sea sponges, stuffed fish, a turtle shell (so big that you could hide Baby Jack under it), shells, starfish, beautiful coral and all Mr. Zimmerman’s diving equipment.</p>
                 <p>On the way home William and I started to talk about the <rs key="Ausonia" ref="https://likethetree.github.io/reference/#ausonia">Ausonia</rs>, about how much was going on in the water under the ship and we never thought about it. There we were, floating along, and under us was a whole world, miles straight down of swimming, eating, attacking fish families, and jellyfish dancing. I also thought of a question, too late. If you are standing in Milorie, <placeName key="Saskatchewan" ref="http://www.wikidata.org/entity/Q1989">Saskatchewan</placeName>, <placeName key="Canada" ref="http://www.wikidata.org/entity/Q16">Canada</placeName>, and you hold a shell to your ear and you hear the sea, what sea are you hearing? Anyway, William and I are going to be the deep-sea diver brother-and-sister team and we’re going to discover many new kinds of fish and along the way we’ll pick up some sunken treasure to get the money for our expeditions.</p>
@@ -54095,7 +54095,7 @@
             <div type="entry" n="43">
                 <p><date when="1926-06-19">June 19</date></p>
                 <p>People on Strings</p>
-                <p>Today the twins got to go to the <rs key="Chautauqua" ref="http://www.wikidata.org/entity/Q119038">Chautauqua</rs>. It was a <rs key="marionette" ref="http://www.wikidata.org/entity/Q189888">marionette</rs> show. Dad and I met the twins at the end and they told us all about <title key="Jack and the Beanstalk" ref="http://www.wikidata.org/entity/Q1455839">Jack and the Beanstalk</title>. Harry said that he wasn’t afraid of the giant because he only smelled the blood of an Englishman, and he wasn’t an Englishman anymore, but a Canadian. Then Dad said, “So I suppose you don’t want your tea then because Canadians don’t have tea, only supper.” And Harry said, “I shall have my tea and call it supper,” and then Dad pretended to box his ears. Then Harry and Gladys recited “and he climbed and he climbed and he climbed and he climbed” and so on, all the way home, until Dad and I had to run ahead with our fingers in our ears. I wish I could go to the <rs key="Chautauqua" ref="http://www.wikidata.org/entity/Q119038">Chautauqua</rs> every day. Every day until I grow up and become a deep-sea diver.</p>
+                <p>Today the twins got to go to the <rs key="Chautauqua" ref="https://likethetree.github.io/reference/#chautauqua">Chautauqua</rs>. It was a <rs key="marionette" ref="http://www.wikidata.org/entity/Q189888">marionette</rs> show. Dad and I met the twins at the end and they told us all about <title key="Jack and the Beanstalk" ref="http://www.wikidata.org/entity/Q1455839">Jack and the Beanstalk</title>. Harry said that he wasn’t afraid of the giant because he only smelled the blood of an Englishman, and he wasn’t an Englishman anymore, but a Canadian. Then Dad said, “So I suppose you don’t want your tea then because Canadians don’t have tea, only supper.” And Harry said, “I shall have my tea and call it supper,” and then Dad pretended to box his ears. Then Harry and Gladys recited “and he climbed and he climbed and he climbed and he climbed” and so on, all the way home, until Dad and I had to run ahead with our fingers in our ears. I wish I could go to the <rs key="Chautauqua" ref="https://likethetree.github.io/reference/#chautauqua">Chautauqua</rs> every day. Every day until I grow up and become a deep-sea diver.</p>
             </div>
             <div type="entry" n="44">
                 <p><date when="1926-06-21">June 21</date></p>
