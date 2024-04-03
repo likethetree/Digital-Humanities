@@ -44068,7 +44068,7 @@
 	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?title_annotation_20240330133541233",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-30T13:35:41.233Z",
-	"dcterms:modified": "2024-03-30T13:35:41.233Z",
+	"dcterms:modified": "2024-04-03T11:39:04.395Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/likethetree",
 		"@type": [
@@ -44100,7 +44100,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "bf:Title",
-		"@id": "http://www.wikidata.org/entity/Q1619593",
+		"@id": "https://likethetree.github.io/reference/#north-wind",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -45644,7 +45644,7 @@
 	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?title_annotation_20240330134532006",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-30T13:45:32.006Z",
-	"dcterms:modified": "2024-03-30T13:45:32.006Z",
+	"dcterms:modified": "2024-04-03T11:39:09.007Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/likethetree",
 		"@type": [
@@ -45676,7 +45676,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "bf:Title",
-		"@id": "http://www.wikidata.org/entity/Q1619593",
+		"@id": "https://likethetree.github.io/reference/#north-wind",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -54594,7 +54594,7 @@
                 <p>Deep and Crisp and Even</p>
                 <p>It is now Christmas afternoon. I feel happy and also a kind of sad that is almost like happy.</p>
                 <p>Christmas dinner was lovely, with roast duck and a Christmas pudding that Mr. Gilmour lit on fire. We had crackers with mottoes and silly paper hats. My motto was “The longest way round may be the shortest way home.” After dinner we played <rs key="charades" ref="http://www.wikidata.org/entity/Q2144077">charades</rs>. Mrs. Gilmour is very clever with charades. She was on our team and she made up a wonderful act for the word “pilgrim.” First she was “pill.” That was fairly easy. Then she was “grim,” which made everyone laugh a lot because she kept pulling these dreadful faces. Then we all dressed up as pilgrims with bathrobes and wooden poles as our staffs and went walking around the room.</p>
-                <p>This morning we opened our presents and stockings. My present from Auntie Lou was a book. It is called <title key="At the Back of the North Wind" ref="http://www.wikidata.org/entity/Q1619593">At the Back of the North Wind</title>. I don’t want to start it too soon. I’m torturing myself by opening it and reading just one sentence on a page. Auntie Lou sent a book for William too. It is <title key="The Adventures of Sherlock Holmes" ref="http://www.wikidata.org/entity/Q392147">The Adventures of Sherlock Holmes</title>.</p>
+                <p>This morning we opened our presents and stockings. My present from Auntie Lou was a book. It is called <title key="At the Back of the North Wind" ref="https://likethetree.github.io/reference/#north-wind">At the Back of the North Wind</title>. I don’t want to start it too soon. I’m torturing myself by opening it and reading just one sentence on a page. Auntie Lou sent a book for William too. It is <title key="The Adventures of Sherlock Holmes" ref="http://www.wikidata.org/entity/Q392147">The Adventures of Sherlock Holmes</title>.</p>
                 <p>My other presents were mitts and a box of watercolours. William got mitts and snowshoes. Gladys got mitts and a doll. Harry got mitts and a set of <rs key="Tinkertoy" ref="http://dbpedia.org/resource/Tinkertoy">Tinkertoys</rs>. Now I know what Mother was mysteriously knitting!</p>
                 <p>Then we went to church. Even Dad came, and he hardly ever goes to church. It was carols and the Christmas story. I never thought before how the Christmas story is about travelling to a new place. Also, the holy land isn’t very much like Milorie but I did wonder if the stable with the manger was a bit like a sod hut.</p>
                 <p>Goose and crackers and the shepherds and oranges in our stockings. So many things are just the same about Christmas in <placeName key="Canada" ref="http://www.wikidata.org/entity/Q16">Canada</placeName>. It is making me sad for the things that are different, like no Auntie Lou and no Grandad.</p>
@@ -54630,7 +54630,7 @@
                 <p><date when="1926-01-09">January 9</date></p>
                 <p>Bits and Pieces</p>
                 <p>Still very cold. Went to church this morning. Mr. Quigley read the story about when <persName key="Jesus" ref="http://www.wikidata.org/entity/Q302">Jesus</persName> was twelve years old he wandered off and his parents found him in the temple, talking to the priests. I thought of the twelve-year-old boys I know, but I don’t think <persName key="Jesus" ref="http://www.wikidata.org/entity/Q302">Jesus</persName> was messy and loud like them. Maybe it isn’t even proper to wonder about that.</p>
-                <p><title key="At the Back of the North Wind" ref="http://www.wikidata.org/entity/Q1619593">At the Back of the North Wind</title> is about a very poor boy named Diamond. His father named him after a horse. This is a good idea. I would be happy to name a daughter Dot.</p>
+                <p><title key="At the Back of the North Wind" ref="https://likethetree.github.io/reference/#north-wind">At the Back of the North Wind</title> is about a very poor boy named Diamond. His father named him after a horse. This is a good idea. I would be happy to name a daughter Dot.</p>
                 <p>Harry has made the <rs key="Eiffel Tower" ref="http://www.wikidata.org/entity/Q243">Eiffel Tower</rs> with his <rs key="Tinkertoy" ref="http://dbpedia.org/resource/Tinkertoy">Tinkertoys</rs>. He put the walnut turtle on the top.</p>
             </div>
             <div type="entry" n="162">
