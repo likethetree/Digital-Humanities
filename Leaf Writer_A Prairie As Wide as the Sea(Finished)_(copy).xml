@@ -17160,7 +17160,7 @@
 	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240329145210912",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-29T14:52:10.912Z",
-	"dcterms:modified": "2024-03-29T14:52:10.912Z",
+	"dcterms:modified": "2024-04-03T11:49:53.776Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/likethetree",
 		"@type": [
@@ -17192,7 +17192,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "owl:Thing",
-		"@id": "http://www.wikidata.org/entity/Q2746233",
+		"@id": "https://likethetree.github.io/reference/#chiffonier",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -17317,7 +17317,7 @@
 	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240329145232690",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-29T14:52:32.690Z",
-	"dcterms:modified": "2024-03-29T14:52:32.690Z",
+	"dcterms:modified": "2024-04-03T11:50:03.260Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/likethetree",
 		"@type": [
@@ -17349,7 +17349,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "owl:Thing",
-		"@id": "http://www.wikidata.org/entity/Q2746233",
+		"@id": "https://likethetree.github.io/reference/#chiffonier",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -40529,7 +40529,7 @@
 	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240330130432622",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-30T13:04:32.622Z",
-	"dcterms:modified": "2024-03-30T13:04:32.622Z",
+	"dcterms:modified": "2024-04-03T11:51:07.776Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/likethetree",
 		"@type": [
@@ -40561,7 +40561,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "owl:Thing",
-		"@id": "http://www.wikidata.org/entity/Q2141001",
+		"@id": "https://likethetree.github.io/reference/#chillblain",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -53784,6 +53784,85 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240403125057437",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-04-03T11:50:57.437Z",
+	"dcterms:modified": "2024-04-03T11:50:57.437Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/likethetree",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Acacia McClay"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240403125057437#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240403125057437#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[154]/p[4]/rs"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "owl:Thing",
+		"@id": "https://likethetree.github.io/reference/#chillblain",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData></teiHeader>
         
     
@@ -54189,7 +54268,7 @@
             <div type="entry" n="45">
                 <p><date when="1926-06-23">June 23</date></p>
                 <p>Flying Jack</p>
-                <p>I’m in trouble again. I took Baby Jack over to Elizabeth’s house and we were playing with him and Otto. <rs key="peekaboo" ref="http://www.wikidata.org/entity/Q53705">Peepo</rs> and that. (In Canada they call it <rs key="peekaboo" ref="http://www.wikidata.org/entity/Q53705">peekaboo</rs>). Then we got this idea to put them in a flour sack and give them swings. It worked fine with Otto. And at first it was fine with Baby Jack. He loved it. He made this hiccup noise he makes when he’s really happy. But then the bottom of the flour sack ripped open and Jack went flying through the air, headfirst into the Mullers’ <rs key="chiffonier" ref="http://www.wikidata.org/entity/Q2746233">chiffonier</rs>. He got a nosebleed and quite a lot of blood got onto the <rs key="doily" ref="http://www.wikidata.org/entity/Q1181895">doilies</rs> on the <rs key="chiffonier" ref="http://www.wikidata.org/entity/Q2746233">chiffonier</rs>. And of course he cried a lot. I felt awful.</p>
+                <p>I’m in trouble again. I took Baby Jack over to Elizabeth’s house and we were playing with him and Otto. <rs key="peekaboo" ref="http://www.wikidata.org/entity/Q53705">Peepo</rs> and that. (In Canada they call it <rs key="peekaboo" ref="http://www.wikidata.org/entity/Q53705">peekaboo</rs>). Then we got this idea to put them in a flour sack and give them swings. It worked fine with Otto. And at first it was fine with Baby Jack. He loved it. He made this hiccup noise he makes when he’s really happy. But then the bottom of the flour sack ripped open and Jack went flying through the air, headfirst into the Mullers’ <rs key="chiffonier" ref="https://likethetree.github.io/reference/#chiffonier">chiffonier</rs>. He got a nosebleed and quite a lot of blood got onto the <rs key="doily" ref="http://www.wikidata.org/entity/Q1181895">doilies</rs> on the <rs key="chiffonier" ref="https://likethetree.github.io/reference/#chiffonier">chiffonier</rs>. And of course he cried a lot. I felt awful.</p>
                 <p>At least we’re both in trouble. It’s not quite so bad being in trouble with a friend. And Mrs. Muller is pretty nice. Truth to tell, it was my idea but Elizabeth took half the blame.</p>
                 <p>Mrs. Muller put <rs key="Mercurochrome" ref="http://www.wikidata.org/entity/Q16664098">Mercurochrome</rs> on Jack’s wounds. I thought perhaps we could bind them with cooling leaves of <rs key="tacmahac" ref="https://www.merriam-webster.com/dictionary/tacamahac">tacmahac</rs>, like Catharine does in <title key="Lost in the Backwoods" ref="https://books.google.ie/books/about/Lost_in_the_Backwoods_Esprios_Classics.html?id=UtxezgEACAAJ&amp;source=kp_book_description&amp;redir_esc=y">Lost in the Backwoods</title>, but Mrs. Muller thought <rs key="Mercurochrome" ref="http://www.wikidata.org/entity/Q16664098">Mercurochrome</rs> would be better. And she told me that if the blood doesn’t come out of the <rs key="doily" ref="http://www.wikidata.org/entity/Q1181895">doilies</rs> she’ll teach me to tat and I can make new ones.</p>
                 <p>At least Jack doesn’t blame me. He sat on my lap all evening and held onto my ear.</p>
@@ -54848,7 +54927,7 @@
                 <p>Then she told us that this year we’re going to do an acrostic act. She’s going to write the letters of <persName key="Santa Claus" ref="http://www.wikidata.org/entity/Q315796">Santa Claus</persName> on big pieces of paper. (<persName key="Santa Claus" ref="http://www.wikidata.org/entity/Q315796">Santa Claus</persName> is Canadian for <persName key="Father Christmas" ref="http://www.wikidata.org/entity/Q1580236">Father Christmas</persName>.) The little ones will hold them up, one letter at a time, and each letter will have a poem about it. Like, “S is for snow, da dum, da dum, da dum.” And we have to make up the poems. She assigned the letters. I got one of the A’s. Nyla Muir and Klaus Berg got the other A’s. I thought right away of angel. No sooner had I thought of it than Nyla put up her hand and said could she do angel because she loves angels. Phooey. The two S’s decided right away to do snow and Saskatchewan. I didn’t have any other ideas for A so I went to the dictionary. The best word I found was apophthegm, which means a short saying, but it doesn’t have that much to do with Christmas. Besides, what would rhyme with it?</p>
                 <p>Then Abel shot up his hand and said he had already finished his poem. He had C. </p>
                 <p>Miss Hutchinson read it out:
-                    <l>C is for <rs key="chilblains" ref="http://www.wikidata.org/entity/Q2141001">chilblains</rs></l>
+                    <l>C is for <rs key="chilblains" ref="https://likethetree.github.io/reference/#chillblain">chilblains</rs></l>
                     <l>We get them on our feet.</l>
                     <l>If you sit on the stove</l>
                     <l>You get them on your seat.</l>
@@ -54936,7 +55015,7 @@
                 <p><date when="1926-12-19">December 19</date></p>
                 <p>Ears and Above</p>
                 <p>Nine o’clock in the morning and I’m still in my nightie. I’m writing this in bed. No church. We slept in because we were so late last night. Mother gave the boarders scones for breakfast so she didn’t need me to help.</p>
-                <p>The concert was heaps of fun. The school didn’t even look like the school with the candles and lanterns and the tree and the ceiling covered in dancing streamers. Before we started Miss Hutchinson gathered us together and told us to speak up, to have fun and not to set ourselves on fire. I remembered my ear piece and my A piece even though I felt my mouth was just saying the words and I was somewhere else. When Abel said his chilblain poem people cheered and stomped on the floor. They stomped again after “The Christmas Senses.” And Dad went “Whoop!” which was a little embarrassing, but not too much. The little ones did their choral recitation of “The Christmas Cat” and it ended with Herman saying, “He purred in the manger and kept Jesus warm.” Then all the mothers started crying. I almost did too.</p>
+                <p>The concert was heaps of fun. The school didn’t even look like the school with the candles and lanterns and the tree and the ceiling covered in dancing streamers. Before we started Miss Hutchinson gathered us together and told us to speak up, to have fun and not to set ourselves on fire. I remembered my ear piece and my A piece even though I felt my mouth was just saying the words and I was somewhere else. When Abel said his <rs key="chilblain" ref="https://likethetree.github.io/reference/#chillblain">chilblain</rs> poem people cheered and stomped on the floor. They stomped again after “The Christmas Senses.” And Dad went “Whoop!” which was a little embarrassing, but not too much. The little ones did their choral recitation of “The Christmas Cat” and it ended with Herman saying, “He purred in the manger and kept Jesus warm.” Then all the mothers started crying. I almost did too.</p>
                 <p>Then there was the sound of bells outside and <persName key="Santa Claus" ref="http://www.wikidata.org/entity/Q315796">Santa Claus</persName> came in. He had presents for everyone. I got an orange and a bag of candy and a beautiful blue silk handkerchief. When <persName key="Santa Claus" ref="http://www.wikidata.org/entity/Q315796">Santa Claus</persName> called Gladys’s name she was afraid to go and collect her present. She just held onto my leg. But then I told her it was just <persName key="Father Christmas" ref="http://www.wikidata.org/entity/Q1580236">Father Christmas</persName> and she was fine. It turns out she didn’t know that <persName key="Santa Claus" ref="http://www.wikidata.org/entity/Q315796">Santa Claus</persName> is just the Canadian name for Father Christmas. (Of course it was really Bill Bowler the butcher but I didn’t tell her that.)</p>
                 <p>Then there was carol singing. Some of the little ones went to sleep on the desks. Then there was a big lunch with sandwiches and cakes and pie. It was after midnight when we got home.</p>
                 <p>Oh, I forgot. The biggest surprise. In between the Santa Acrostic and Ralph’s homesteader recitation Miss Hutchinson got up and sang a song. She didn’t tell us she was going to do it. It was called “<title key="Llwyn Onn" ref="http://www.wikidata.org/entity/Q3257554">The Ash Grove</title>.” Everyone was dead quiet when she sang. She looked like an angel from above.</p>
