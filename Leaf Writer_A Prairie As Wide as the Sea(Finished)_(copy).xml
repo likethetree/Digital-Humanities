@@ -22903,6 +22903,7 @@
 	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240329155723063",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-29T15:57:23.063Z",
+	"dcterms:modified": "2024-04-03T11:53:58.471Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/likethetree",
 		"@type": [
@@ -22934,7 +22935,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "owl:Thing",
-		"@id": "http://www.wikidata.org/entity/Q1483126",
+		"@id": "https://likethetree.github.io/reference/#flapper",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -37143,7 +37144,7 @@
 	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240329200034754",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-29T20:00:34.754Z",
-	"dcterms:modified": "2024-03-29T20:00:34.754Z",
+	"dcterms:modified": "2024-04-03T11:55:33.656Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/likethetree",
 		"@type": [
@@ -37175,7 +37176,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "owl:Thing",
-		"@id": "http://www.wikidata.org/entity/Q2975713",
+		"@id": "https://likethetree.github.io/reference/#fox-and-geese",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -53900,7 +53901,7 @@
 	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240403125317118",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-03T11:53:17.118Z",
-	"dcterms:modified": "2024-04-03T11:53:17.118Z",
+	"dcterms:modified": "2024-04-03T11:54:19.730Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/likethetree",
 		"@type": [
@@ -53979,7 +53980,7 @@
 	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240403125332065",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-03T11:53:32.065Z",
-	"dcterms:modified": "2024-04-03T11:53:32.065Z",
+	"dcterms:modified": "2024-04-03T11:54:23.025Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/likethetree",
 		"@type": [
@@ -54058,7 +54059,7 @@
 	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240403125348021",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-03T11:53:48.021Z",
-	"dcterms:modified": "2024-04-03T11:53:48.021Z",
+	"dcterms:modified": "2024-04-03T11:54:26.647Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/likethetree",
 		"@type": [
@@ -54091,6 +54092,85 @@
 	"oa:hasBody": {
 		"@type": "owl:Thing",
 		"@id": "https://likethetree.github.io/reference/#flapper",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240403125521222",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-04-03T11:55:21.222Z",
+	"dcterms:modified": "2024-04-03T11:55:21.222Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/likethetree",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Acacia McClay"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240403125521222#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/likethetree/Digital-Humanities/main/Leaf%20Writer_A%20Prairie%20As%20Wide%20as%20the%20Sea(Finished)_(copy).xml?rs_annotation_20240403125521222#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[134]/p[8]/rs"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "owl:Thing",
+		"@id": "https://likethetree.github.io/reference/#fox-and-geese",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -54688,7 +54768,7 @@
             <div type="entry" n="71">
                 <p><date when="1926-08-16">August 16</date></p>
                 <p>Hair Ribbon Hatred</p>
-                <p>I’m not allowed to get my hair <rs key="bobbed" ref="https://likethetree.github.io/reference/#bobbed-hair">bobbed</rs>. Mother says I’m too young and she doesn’t want me to look like a <rs key="Flapper" ref="http://www.wikidata.org/entity/Q1483126">flapper</rs>. I’ll probably be the only eleven-year-old girl in school who still wears hair ribbons. I said that all the girls I have seen in Milorie, except for little ones, have <rs key="bobs" ref="https://likethetree.github.io/reference/#bobbed-hair">bobs</rs>. She said if all the girls jumped down the well, would I? She wants me to be miserable.</p>
+                <p>I’m not allowed to get my hair <rs key="bobbed" ref="https://likethetree.github.io/reference/#bobbed-hair">bobbed</rs>. Mother says I’m too young and she doesn’t want me to look like a <rs key="Flapper" ref="https://likethetree.github.io/reference/#flapper">flapper</rs>. I’ll probably be the only eleven-year-old girl in school who still wears hair ribbons. I said that all the girls I have seen in Milorie, except for little ones, have <rs key="bobs" ref="https://likethetree.github.io/reference/#bobbed-hair">bobs</rs>. She said if all the girls jumped down the well, would I? She wants me to be miserable.</p>
             </div>
             <div type="entry" n="72">
                 <p><date when="1926-08-17">August 17</date></p>
@@ -55095,12 +55175,12 @@
             <div type="entry" n="132">
                 <p><date when="1926-11-17">November 17</date></p>
                 <p>Magic Words</p>
-                <p>Snow. Not a blizzard, but big white flakes. It started this morning just after we went in to school. Everybody was looking out the windows and not paying attention. Finally Miss Hutchinson said we could have early recess. Everybody practically fell over each other getting on their mitts and scarves. Harry was disappointed because it still isn’t the kind of snow you can pack into snowballs or igloos. But he cheered up when everyone started playing <rs key="British bulldogs" ref="http://www.wikidata.org/entity/Q2975713">fox and geese</rs>. For this game you tramp out the pattern of a wagon wheel in the snow. It is sort of like tag. The fox is It and everyone else is a goose. But you have to stay on the lines of the wheel and the spokes. If you have to pass someone mostly you fall over in the snow and then you’re out. Miss Hutchinson played with us and she let us have double recess. I had to pass Nyla and she fell over and then she got very huffy and dropped out of the game. She gave me a nasty look, which is ridiculous.</p>
+                <p>Snow. Not a blizzard, but big white flakes. It started this morning just after we went in to school. Everybody was looking out the windows and not paying attention. Finally Miss Hutchinson said we could have early recess. Everybody practically fell over each other getting on their mitts and scarves. Harry was disappointed because it still isn’t the kind of snow you can pack into snowballs or igloos. But he cheered up when everyone started playing <rs key="British bulldogs" ref="https://likethetree.github.io/reference/#fox-and-geese">fox and geese</rs>. For this game you tramp out the pattern of a wagon wheel in the snow. It is sort of like tag. The fox is It and everyone else is a goose. But you have to stay on the lines of the wheel and the spokes. If you have to pass someone mostly you fall over in the snow and then you’re out. Miss Hutchinson played with us and she let us have double recess. I had to pass Nyla and she fell over and then she got very huffy and dropped out of the game. She gave me a nasty look, which is ridiculous.</p>
                 <p>When we came back in everyone was soaking so Miss Hutchinson let us sit around the stove and she read to us instead of doing our lessons. She made us promise to work extra hard tomorrow. The story she read was <title key="Ali Baba and the Forty Thieves" ref="https://likethetree.github.io/reference/#ali-baba">Ali Baba and the Forty Thieves</title>.</p>
                 <p>All the boys liked this story because of the gruesome deaths, like being drowned in boiling oil.</p>
                 <p>I liked the part where the greedy brother forgets the magic words Open Sesame and starts saying things like Open Barley. That is exactly what would happen to me. I’d forget the magic words. There I would be, Ivy Weatherall stuck in a cave. I would heard the bloodthirsty robbers coming. Open Wheat! I would hear their horses. Open Rye! I would hear the crash of their cruel weapons. Open Oatmeal! Trapped!</p>
                 <p>This is what I was thinking about when I wasn’t doing my dictionary drill.</p>
-                <p>(True confession: I did give Nyla a bit of a shove in fox and geese. I just couldn’t resist.)</p>
+                <p>(True confession: I did give Nyla a bit of a shove in <rs key="fox and geese" ref="https://likethetree.github.io/reference/#fox-and-geese">fox and geese</rs>. I just couldn’t resist.)</p>
             </div>
             <div type="entry" n="133">
                 <p><date when="1926-11-20">November 20</date></p>
